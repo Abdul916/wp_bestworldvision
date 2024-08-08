@@ -1,0 +1,40 @@
+(~'div#@{sliderid}') {
+  .nextend-arrow-grow {
+    cursor: pointer;
+    z-index: 20;
+    position: relative;
+    height: 48px;
+    width: 48px;
+    overflow: hidden;
+    transition: all 0.4s;
+
+    display: grid;
+    grid-template-columns: 48px auto;
+    justify-content: flex-start;
+  }
+
+  .nextend-arrow-grow:HOVER,
+  .nextend-arrow-grow:FOCUS {
+    width: var(--arrow-width, 48px);
+  }
+
+  .nextend-arrow-grow .nextend-arrow-arrow {
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  .nextend-arrow-grow.nextend-arrow-previous .nextend-arrow-title {
+    order: 2;
+  }
+
+  .nextend-arrow-grow.nextend-arrow-next {
+    grid-template-columns: auto 48px;
+    justify-content: flex-end;
+  }
+
+  .nextend-arrow-grow .nextend-arrow-title {
+    white-space: nowrap;
+    line-height: 48px !important;
+    padding: 0 10px;
+  }
+}

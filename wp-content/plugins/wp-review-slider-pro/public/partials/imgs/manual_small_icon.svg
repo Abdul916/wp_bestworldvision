@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24.500183mm"
+   height="24.496847mm"
+   viewBox="0 0 24.500183 24.496847"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:export-filename="bitmap.svg"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:clip-to-page="false" /><defs
+     id="defs1" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-47.76059,-98.866358)"><g
+       id="g1"
+       transform="matrix(1.020841,0,0,1.0577079,43.677226,94.191289)"><path
+         d="M 25,22.42 H 14.62 a 1,1 0 1 1 0,-2 H 25 a 1,1 0 0 0 1,-1 v -12 a 1,1 0 0 0 -1,-1 H 7 a 1,1 0 0 0 -1,1 v 12 a 1,1 0 0 0 1,1 h 2 a 1,1 0 0 1 0,2 H 7 a 3,3 0 0 1 -3,-3 v -12 a 3,3 0 0 1 3,-3 h 18 a 3,3 0 0 1 3,3 v 12 a 3,3 0 0 1 -3,3 z"
+         id="path1"
+         style="fill:#4d4d4d" /><path
+         d="m 15.47,8.47 c 0.25,-0.5 0.65,-0.5 0.89,0 l 1,1.93 a 2.09,2.09 0 0 0 1.43,1 l 2.13,0.31 c 0.55,0.08 0.67,0.46 0.28,0.85 l -1.55,1.5 a 2.18,2.18 0 0 0 -0.55,1.69 l 0.37,2.13 c 0.09,0.54 -0.23,0.77 -0.72,0.52 l -1.91,-1 a 2.11,2.11 0 0 0 -1.77,0 l -1.91,1 c -0.49,0.25 -0.81,0 -0.72,-0.52 l 0.37,-2.13 a 2.14,2.14 0 0 0 -0.55,-1.69 l -1.54,-1.5 c -0.4,-0.39 -0.28,-0.77 0.27,-0.85 l 2.14,-0.31 a 2.14,2.14 0 0 0 1.43,-1 z"
+         id="path2"
+         style="fill:#4d4d4d" /><path
+         d="M 9,27.58 A 0.92,0.92 0 0 1 8.6,27.5 1,1 0 0 1 8,26.58 v -5.16 a 1,1 0 0 1 2,0 v 2.89 l 4,-3.63 a 1,1 0 0 1 1.35,1.47 L 9.68,27.32 A 1,1 0 0 1 9,27.58 Z"
+         id="path3"
+         style="fill:#4d4d4d" /></g></g></svg>

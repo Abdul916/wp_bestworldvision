@@ -1,0 +1,7 @@
+{
+"desc": "this file will be used to save the white label settings",
+  "hidelogo": "no",
+  "hidewelcometext": "no",
+  "hideroadmaptext": "no",
+  "hideforumpage": "no"
+}

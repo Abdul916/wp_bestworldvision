@@ -1,0 +1,61 @@
+(~'div#@{sliderid}') {
+  .n2-ss-animated-heading-wrapper {
+    position: relative;
+    line-height: 1.5;
+  }
+
+  .n2-ss-animated-heading-wrapper div {
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .n2-ss-animated-heading-wrapper > ss-text,
+  .n2-ss-animated-heading-wrapper > a {
+    vertical-align: middle;
+    display: inline;
+    text-decoration: inherit;
+  }
+
+  .n2-ss-animated-heading-wrapper > .n2-ss-animated-heading-i {
+    display: inline-block;
+    position: relative;
+    min-width: 0.6em;
+  }
+
+  .n2-ss-animated-heading-i * {
+    text-decoration: inherit;
+  }
+
+  .n2-ss-animated-heading-wrapper .n2-ss-animated-heading-i2 {
+    position: relative;
+    white-space: nowrap;
+
+    display: inline-grid;
+    justify-items: start;
+    grid-template-areas: "text";
+  }
+
+  .n2-ss-animated-heading-i-text {
+    grid-area: text;
+    white-space: nowrap;
+    text-decoration: inherit;
+  }
+
+  .n2-ss-animated-heading-i-text.n2-ss-animated-heading-measure-width * {
+    display: inline-block !important;
+  }
+
+  .n2-ss-animated-heading-i-cursor {
+    display: block;
+    position: absolute;
+    right: -2px;
+    top: 0;
+    background: #fff;
+    height: 100%;
+    width: 2px;
+  }
+
+  .n2-ss-animated-heading-wrapper ss-text[data-animation-type="typewriter1"] ss-word {
+      display: inline;
+  }
+}

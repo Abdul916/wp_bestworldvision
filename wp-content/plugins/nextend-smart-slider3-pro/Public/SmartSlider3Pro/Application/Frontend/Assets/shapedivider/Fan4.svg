@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 480" preserveAspectRatio="none">
+    <path fill="#000000"
+          to-d="M1920,0 V480 L960,144,0,480 v-480 h1920 z" opacity="0.4"
+          ease="easeOutCubic" duration="1" delay="0.2"
+          d="M1920,0 V0 L960,0,0,0 v0 h1920 z"/>
+    <path fill="#000000"
+          to-d="M1920,0 V400 L960,64,0,400 v-400 h1920 z"
+          ease="easeOutCubic" duration="1" delay="0.2"
+          d="M1920,0 V0 L960,0,0,0 v0 h1920 z"/>
+</svg>

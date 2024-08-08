@@ -1,0 +1,2710 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-26 08:08+0700\n"
+"PO-Revision-Date: 2017-01-29 17:09+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_n;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: extensions.php:52
+msgid "Image Animation"
+msgstr ""
+
+#: extensions.php:60
+msgid "Animation Effect"
+msgstr ""
+
+#: extensions.php:61
+msgid "Add animation effect to image when scrolling"
+msgstr ""
+
+#: extensions.php:63 extensions.php:126 extensions.php:174 extensions.php:220
+#: extensions.php:234 extensions.php:248 extensions.php:286 extensions.php:549
+#: extensions.php:945 extensions.php:982 extensions.php:1078
+#: extensions.php:1133 widgets/accommodation-carousel.php:209
+#: widgets/accommodation-carousel.php:240 widgets/accommodation-types.php:206
+#: widgets/album-grid.php:205 widgets/album-grid.php:217
+#: widgets/album-grid.php:229 widgets/availability-calendar.php:197
+#: widgets/availability-search.php:174 widgets/blog-posts.php:184
+#: widgets/blog-posts.php:196 widgets/blog-posts.php:208
+#: widgets/blog-posts.php:275 widgets/booking-history.php:131
+#: widgets/gallery-grid.php:140 widgets/gallery-grid.php:152
+#: widgets/gallery-grid.php:164 widgets/gallery-grid.php:176
+#: widgets/gallery-horizontal.php:189 widgets/gallery-horizontal.php:220
+#: widgets/gallery-horizontal.php:251 widgets/gallery-horizontal.php:263
+#: widgets/gallery-horizontal.php:275 widgets/gallery-horizontal.php:287
+#: widgets/gallery-justified.php:175 widgets/gallery-justified.php:187
+#: widgets/gallery-justified.php:199 widgets/gallery-justified.php:211
+#: widgets/gallery-masonry.php:140 widgets/gallery-masonry.php:152
+#: widgets/gallery-masonry.php:164 widgets/gallery-masonry.php:176
+#: widgets/search.php:252 widgets/service-carousel.php:271
+#: widgets/service-carousel.php:302 widgets/service-grid.php:195
+#: widgets/slider-horizontal.php:233 widgets/slider-horizontal.php:264
+#: widgets/slider-horizontal.php:295 widgets/slider-horizontal.php:307
+#: widgets/slider-horizontal.php:319 widgets/slider-parallax.php:205
+#: widgets/slider-parallax.php:236 widgets/slider-parallax.php:248
+#: widgets/slider-synchronized-carousel.php:170 widgets/slider-zoom.php:218
+#: widgets/slider-zoom.php:249 widgets/testimonial-carousel.php:162
+#: widgets/testimonial-carousel.php:193 widgets/testimonial-slider.php:170
+#: widgets/timeline.php:159
+msgid "Yes"
+msgstr ""
+
+#: extensions.php:64 extensions.php:127 extensions.php:175 extensions.php:221
+#: extensions.php:235 extensions.php:249 extensions.php:287 extensions.php:550
+#: extensions.php:946 extensions.php:983 extensions.php:1079
+#: extensions.php:1134 widgets/accommodation-carousel.php:210
+#: widgets/accommodation-carousel.php:241 widgets/accommodation-types.php:207
+#: widgets/album-grid.php:206 widgets/album-grid.php:218
+#: widgets/album-grid.php:230 widgets/availability-calendar.php:198
+#: widgets/availability-search.php:175 widgets/blog-posts.php:185
+#: widgets/blog-posts.php:197 widgets/blog-posts.php:209
+#: widgets/blog-posts.php:276 widgets/booking-history.php:132
+#: widgets/gallery-grid.php:141 widgets/gallery-grid.php:153
+#: widgets/gallery-grid.php:165 widgets/gallery-grid.php:177
+#: widgets/gallery-horizontal.php:190 widgets/gallery-horizontal.php:221
+#: widgets/gallery-horizontal.php:252 widgets/gallery-horizontal.php:264
+#: widgets/gallery-horizontal.php:276 widgets/gallery-horizontal.php:288
+#: widgets/gallery-justified.php:176 widgets/gallery-justified.php:188
+#: widgets/gallery-justified.php:200 widgets/gallery-justified.php:212
+#: widgets/gallery-masonry.php:141 widgets/gallery-masonry.php:153
+#: widgets/gallery-masonry.php:165 widgets/gallery-masonry.php:177
+#: widgets/search.php:253 widgets/service-carousel.php:272
+#: widgets/service-carousel.php:303 widgets/service-grid.php:196
+#: widgets/slider-horizontal.php:234 widgets/slider-horizontal.php:265
+#: widgets/slider-horizontal.php:296 widgets/slider-horizontal.php:308
+#: widgets/slider-horizontal.php:320 widgets/slider-parallax.php:206
+#: widgets/slider-parallax.php:237 widgets/slider-parallax.php:249
+#: widgets/slider-synchronized-carousel.php:171 widgets/slider-zoom.php:219
+#: widgets/slider-zoom.php:250 widgets/testimonial-carousel.php:163
+#: widgets/testimonial-carousel.php:194 widgets/testimonial-slider.php:171
+#: widgets/timeline.php:160
+msgid "No"
+msgstr ""
+
+#: extensions.php:74
+msgid "Effect"
+msgstr ""
+
+#: extensions.php:78
+msgid "Slide Down"
+msgstr ""
+
+#: extensions.php:79 widgets/service-grid.php:263
+msgid "Slide Up"
+msgstr ""
+
+#: extensions.php:80
+msgid "Slide Left"
+msgstr ""
+
+#: extensions.php:81
+msgid "Slide Right"
+msgstr ""
+
+#: extensions.php:82 widgets/animated-text.php:244
+msgid "Zoom In"
+msgstr ""
+
+#: extensions.php:83 widgets/animated-text.php:245
+msgid "Zoom Out"
+msgstr ""
+
+#: extensions.php:95
+msgid "Overlay Color"
+msgstr ""
+
+#: extensions.php:115 extensions.php:123
+msgid "Background Parallax"
+msgstr ""
+
+#: extensions.php:124
+msgid "Add parallax scrolling effect to background image"
+msgstr ""
+
+#: extensions.php:137
+msgid "Scroll Speed"
+msgstr ""
+
+#: extensions.php:138
+msgid "factor that control speed of scroll animation"
+msgstr ""
+
+#: extensions.php:163 extensions.php:171
+msgid "Background On Scroll"
+msgstr ""
+
+#: extensions.php:172
+msgid "Add background color change on scroll"
+msgstr ""
+
+#: extensions.php:185 widgets/navigation-menu.php:454
+msgid "Background Color"
+msgstr ""
+
+#: extensions.php:209
+msgid "Link Options"
+msgstr ""
+
+#: extensions.php:217
+msgid "Link to side menu"
+msgstr ""
+
+#: extensions.php:218
+msgid "Add link to element to open side menu when clicking"
+msgstr ""
+
+#: extensions.php:231
+msgid "Link to fullscreen menu"
+msgstr ""
+
+#: extensions.php:232
+msgid "Add link to element to open fullscreen menu when clicking"
+msgstr ""
+
+#: extensions.php:245
+msgid "Link to closed fullscreen menu"
+msgstr ""
+
+#: extensions.php:246
+msgid "Add link to element to close fullscreen menu when clicking"
+msgstr ""
+
+#: extensions.php:275
+msgid "Custom Animation"
+msgstr ""
+
+#: extensions.php:283
+msgid "Scroll Animation"
+msgstr ""
+
+#: extensions.php:284
+msgid "Add animation to element when scrolling through page contents"
+msgstr ""
+
+#: extensions.php:297 extensions.php:560
+msgid "Disable for"
+msgstr ""
+
+#: extensions.php:301 extensions.php:564 widgets/gallery-grid.php:191
+#: widgets/gallery-justified.php:226 widgets/gallery-masonry.php:191
+#: widgets/service-grid.php:277
+msgid "None"
+msgstr ""
+
+#: extensions.php:302 extensions.php:565 widgets/service-grid.php:278
+msgid "Mobile and Tablet"
+msgstr ""
+
+#: extensions.php:303 extensions.php:566 widgets/service-grid.php:279
+msgid "Mobile"
+msgstr ""
+
+#: extensions.php:315
+msgid "Smoothness"
+msgstr ""
+
+#: extensions.php:316
+msgid "factor that slowdown the animation, the more the smoothier"
+msgstr ""
+
+#: extensions.php:339 extensions.php:689
+msgid "Scale X"
+msgstr ""
+
+#: extensions.php:362 extensions.php:712
+msgid "Scale Y"
+msgstr ""
+
+#: extensions.php:385
+msgid "Scale Z"
+msgstr ""
+
+#: extensions.php:408 extensions.php:735
+msgid "Rotate X"
+msgstr ""
+
+#: extensions.php:431 extensions.php:758
+msgid "Rotate Y"
+msgstr ""
+
+#: extensions.php:454 extensions.php:781
+msgid "Rotate Z"
+msgstr ""
+
+#: extensions.php:477 extensions.php:804
+msgid "Translate X"
+msgstr ""
+
+#: extensions.php:500 extensions.php:827
+msgid "Translate Y"
+msgstr ""
+
+#: extensions.php:523 extensions.php:850
+msgid "Translate Z"
+msgstr ""
+
+#: extensions.php:546 widgets/service-grid.php:259
+msgid "Entrance Animation"
+msgstr ""
+
+#: extensions.php:547
+msgid "Add custom entrance animation to element"
+msgstr ""
+
+#: extensions.php:578 extensions.php:993 extensions.php:1015
+msgid "Easing"
+msgstr ""
+
+#: extensions.php:582 extensions.php:1019
+msgid "linear"
+msgstr ""
+
+#: extensions.php:583 extensions.php:1020
+msgid "ease"
+msgstr ""
+
+#: extensions.php:584 extensions.php:1021
+msgid "ease-in"
+msgstr ""
+
+#: extensions.php:585 extensions.php:1022
+msgid "ease-out"
+msgstr ""
+
+#: extensions.php:586 extensions.php:1023
+msgid "ease-in-out"
+msgstr ""
+
+#: extensions.php:587 extensions.php:1024
+msgid "easeInQuad"
+msgstr ""
+
+#: extensions.php:588 extensions.php:1025
+msgid "easeInCubic"
+msgstr ""
+
+#: extensions.php:589 extensions.php:1026
+msgid "easeInQuart"
+msgstr ""
+
+#: extensions.php:590 extensions.php:1027
+msgid "easeInQuint"
+msgstr ""
+
+#: extensions.php:591 extensions.php:1028
+msgid "easeInSine"
+msgstr ""
+
+#: extensions.php:592 extensions.php:1029
+msgid "easeInExpo"
+msgstr ""
+
+#: extensions.php:593 extensions.php:1030
+msgid "easeInCirc"
+msgstr ""
+
+#: extensions.php:594 extensions.php:1031
+msgid "easeInBack"
+msgstr ""
+
+#: extensions.php:595 extensions.php:1032
+msgid "easeOutQuad"
+msgstr ""
+
+#: extensions.php:596 extensions.php:1033
+msgid "easeOutCubic"
+msgstr ""
+
+#: extensions.php:597 extensions.php:1034
+msgid "easeOutQuart"
+msgstr ""
+
+#: extensions.php:598 extensions.php:1035
+msgid "easeOutQuint"
+msgstr ""
+
+#: extensions.php:599 extensions.php:1036
+msgid "easeOutSine"
+msgstr ""
+
+#: extensions.php:600 extensions.php:1037
+msgid "easeOutExpo"
+msgstr ""
+
+#: extensions.php:601 extensions.php:1038
+msgid "easeOutCirc"
+msgstr ""
+
+#: extensions.php:602 extensions.php:1039
+msgid "easeOutBack"
+msgstr ""
+
+#: extensions.php:603 extensions.php:1040
+msgid "easeInOutQuad"
+msgstr ""
+
+#: extensions.php:604 extensions.php:1041
+msgid "easeInOutCubic"
+msgstr ""
+
+#: extensions.php:605 extensions.php:1042
+msgid "easeInOutQuart"
+msgstr ""
+
+#: extensions.php:606 extensions.php:1043
+msgid "easeInOutQuint"
+msgstr ""
+
+#: extensions.php:607 extensions.php:1044
+msgid "easeInOutSine"
+msgstr ""
+
+#: extensions.php:608 extensions.php:1045
+msgid "easeInOutExpo"
+msgstr ""
+
+#: extensions.php:609 extensions.php:1046
+msgid "easeInOutCirc"
+msgstr ""
+
+#: extensions.php:610 extensions.php:1047
+msgid "easeInOutBack"
+msgstr ""
+
+#: extensions.php:625 widgets/animated-text.php:266
+msgid "Animation Delay (ms)"
+msgstr ""
+
+#: extensions.php:644
+msgid "Animation Duration (ms)"
+msgstr ""
+
+#: extensions.php:663
+msgid "Opacity"
+msgstr ""
+
+#: extensions.php:873
+msgid "Skew X"
+msgstr ""
+
+#: extensions.php:896
+msgid "Skew Y"
+msgstr ""
+
+#: extensions.php:919
+msgid "Perspective"
+msgstr ""
+
+#: extensions.php:942
+msgid "Mouse Parallax"
+msgstr ""
+
+#: extensions.php:943
+msgid "Add parallax to element when moving mouse position"
+msgstr ""
+
+#: extensions.php:956
+msgid "Depth"
+msgstr ""
+
+#: extensions.php:979
+msgid "Infinite Animation"
+msgstr ""
+
+#: extensions.php:980
+msgid "Add custom infinite animation to element"
+msgstr ""
+
+#: extensions.php:997
+msgid "Swing 1"
+msgstr ""
+
+#: extensions.php:998
+msgid "Swing 2"
+msgstr ""
+
+#: extensions.php:999
+msgid "Wave"
+msgstr ""
+
+#: extensions.php:1000
+msgid "Tilt"
+msgstr ""
+
+#: extensions.php:1001
+msgid "Bounce"
+msgstr ""
+
+#: extensions.php:1002 widgets/animated-headline.php:123
+msgid "Scale"
+msgstr ""
+
+#: extensions.php:1003
+msgid "Spin"
+msgstr ""
+
+#: extensions.php:1059
+msgid "Animation Duration (s)"
+msgstr ""
+
+#: extensions.php:1075
+msgid "FadeOut Animation"
+msgstr ""
+
+#: extensions.php:1076
+msgid "Add fadeout animation  to element when scrolling"
+msgstr ""
+
+#: extensions.php:1089
+msgid "Velocity"
+msgstr ""
+
+#: extensions.php:1112
+msgid "FadeOut Direction"
+msgstr ""
+
+#: extensions.php:1116
+msgid "Up"
+msgstr ""
+
+#: extensions.php:1117
+msgid "Down"
+msgstr ""
+
+#: extensions.php:1118
+msgid "Still"
+msgstr ""
+
+#: extensions.php:1130
+msgid "Display Static Position on Mobile"
+msgstr ""
+
+#: extensions.php:1131
+msgid "Enbale this option to make the element display static position on mobile devices"
+msgstr ""
+
+#: hoteller-elementor.php:82
+msgid "Add New Header"
+msgstr ""
+
+#: hoteller-elementor.php:83
+msgid "Edit Header"
+msgstr ""
+
+#: hoteller-elementor.php:84
+msgid "New Header"
+msgstr ""
+
+#: hoteller-elementor.php:85
+msgid "View Header"
+msgstr ""
+
+#: hoteller-elementor.php:86
+msgid "Search Header"
+msgstr ""
+
+#: hoteller-elementor.php:87
+msgid "No Header found"
+msgstr ""
+
+#: hoteller-elementor.php:88
+msgid "No Header found in Trash"
+msgstr ""
+
+#: hoteller-elementor.php:119
+msgid "Add New Footer"
+msgstr ""
+
+#: hoteller-elementor.php:120
+msgid "Edit Footer"
+msgstr ""
+
+#: hoteller-elementor.php:121
+msgid "New Footer"
+msgstr ""
+
+#: hoteller-elementor.php:122
+msgid "View Footer"
+msgstr ""
+
+#: hoteller-elementor.php:123
+msgid "Search Footer"
+msgstr ""
+
+#: hoteller-elementor.php:124
+msgid "No Footer found"
+msgstr ""
+
+#: hoteller-elementor.php:125
+msgid "No Footer found in Trash"
+msgstr ""
+
+#: hoteller-elementor.php:155
+msgid "Add New Mega Menu"
+msgstr ""
+
+#: hoteller-elementor.php:156
+msgid "Edit Mega Menu"
+msgstr ""
+
+#: hoteller-elementor.php:157
+msgid "New Mega Menu"
+msgstr ""
+
+#: hoteller-elementor.php:158
+msgid "View Mega Menu"
+msgstr ""
+
+#: hoteller-elementor.php:159
+msgid "Search Mega Menu"
+msgstr ""
+
+#: hoteller-elementor.php:160
+msgid "No Mega Menu found"
+msgstr ""
+
+#: hoteller-elementor.php:161 hoteller-elementor.php:197
+msgid "No Mega Menu found in Trash"
+msgstr ""
+
+#: hoteller-elementor.php:191
+msgid "Add New Fullscreen Menu"
+msgstr ""
+
+#: hoteller-elementor.php:192
+msgid "Edit Fullscreen Menu"
+msgstr ""
+
+#: hoteller-elementor.php:193
+msgid "New Fullscreen Menu"
+msgstr ""
+
+#: hoteller-elementor.php:194
+msgid "View Fullscreen Menu"
+msgstr ""
+
+#: hoteller-elementor.php:195
+msgid "Search Fullscreen Menu"
+msgstr ""
+
+#: hoteller-elementor.php:196
+msgid "No Fullscreen Menu found"
+msgstr ""
+
+#: hoteller-elementor.php:268
+msgid "Items (default 3)"
+msgstr ""
+
+#: hoteller-elementor.php:270 hoteller-elementor.php:530
+msgid "Display Thumbnails"
+msgstr ""
+
+#: hoteller-elementor.php:351
+msgid "Flickr ID"
+msgstr ""
+
+#: hoteller-elementor.php:351
+msgid "Find your Flickr ID here"
+msgstr ""
+
+#: hoteller-elementor.php:353 hoteller-elementor.php:441
+#: hoteller-elementor.php:669 post-fields.php:213
+#: widgets/accommodation-carousel.php:162 widgets/accommodation-types.php:195
+#: widgets/album-grid.php:125 widgets/album-grid.php:297
+#: widgets/animated-text.php:111 widgets/animated-text.php:281
+#: widgets/background-menu-effect.php:126
+#: widgets/background-menu-effect.php:161 widgets/distortion-grid.php:131
+#: widgets/distortion-grid.php:211 widgets/food-menu.php:125
+#: widgets/food-menu.php:187 widgets/gallery-grid.php:189
+#: widgets/gallery-grid.php:238 widgets/gallery-justified.php:224
+#: widgets/gallery-justified.php:259 widgets/gallery-masonry.php:189
+#: widgets/gallery-masonry.php:224
+#: widgets/mouse-driven-vertical-carousel.php:142
+#: widgets/mouse-driven-vertical-carousel.php:272
+#: widgets/portfolio-timeline.php:153 widgets/portfolio-timeline.php:249
+#: widgets/service-carousel.php:126 widgets/service-carousel.php:351
+#: widgets/service-grid.php:133 widgets/service-grid.php:335
+#: widgets/slider-horizontal.php:138 widgets/slider-horizontal.php:413
+#: widgets/slider-parallax.php:126 widgets/slider-parallax.php:294
+#: widgets/slider-property-clip.php:228 widgets/slider-property-clip.php:230
+#: widgets/slider-property-clip.php:305
+#: widgets/slider-synchronized-carousel.php:126
+#: widgets/slider-synchronized-carousel.php:213 widgets/slider-zoom.php:139
+#: widgets/slider-zoom.php:331 widgets/timeline.php:123
+#: widgets/timeline.php:220
+msgid "Title"
+msgstr ""
+
+#: hoteller-elementor.php:355 hoteller-elementor.php:443
+msgid "Items (default 9)"
+msgstr ""
+
+#: hoteller-elementor.php:421
+msgid "Error: Please check if you enter Instagram username and Access Token in Theme Setting > Social Profiles"
+msgstr ""
+
+#: hoteller-elementor.php:515
+msgid "Category"
+msgstr ""
+
+#: hoteller-elementor.php:528
+msgid "Items (default 5)"
+msgstr ""
+
+#: megamenu.php:31
+msgid "Elementor Mega Menu (optional)"
+msgstr ""
+
+#: megamenu.php:106
+msgid "No mega menu found. Please create one first"
+msgstr ""
+
+#: page-fields.php:139 page-fields.php:141
+msgid "Page Title"
+msgstr ""
+
+#: page-fields.php:139 post-fields.php:36
+msgid "Make Menu Transparent"
+msgstr ""
+
+#: page-fields.php:139 post-fields.php:36
+msgid "Check this option if you want to display main menu in transparent"
+msgstr ""
+
+#: page-fields.php:141
+msgid "Hide Default Page Header"
+msgstr ""
+
+#: page-fields.php:141
+msgid "Check this option if you want to hide default page header"
+msgstr ""
+
+#: page-fields.php:143
+msgid "Page Tagline"
+msgstr ""
+
+#: page-fields.php:143
+msgid "Page Tagline (Optional)"
+msgstr ""
+
+#: page-fields.php:143
+msgid "Enter page tagline. It will displays under page title (*Note: HTML code also support)"
+msgstr ""
+
+#: page-fields.php:145 widgets/accommodation-types.php:131
+#: widgets/album-grid.php:184 widgets/blog-posts.php:134
+#: widgets/contact-form.php:120
+msgid "Layout"
+msgstr ""
+
+#: page-fields.php:145
+msgid "Boxed Layout"
+msgstr ""
+
+#: page-fields.php:145
+msgid "Check this option if you want to enable boxed layout"
+msgstr ""
+
+#: page-fields.php:147
+msgid "Select Header (Optional)"
+msgstr ""
+
+#: page-fields.php:147
+msgid "Page Header (Optional)"
+msgstr ""
+
+#: page-fields.php:147
+msgid "Select this page header content if you want to display header content other than default one"
+msgstr ""
+
+#: page-fields.php:149
+msgid "Select Sticky Header (Optional)"
+msgstr ""
+
+#: page-fields.php:149
+msgid "Page Sticky Header (Optional)"
+msgstr ""
+
+#: page-fields.php:149
+msgid "Select this page sticky header content if you want to display header content other than default one"
+msgstr ""
+
+#: page-fields.php:151
+msgid "Select Transparent Header (Optional)"
+msgstr ""
+
+#: page-fields.php:151
+msgid "Page Transparent Header (Optional)"
+msgstr ""
+
+#: page-fields.php:151
+msgid "Select this page transparent header content if you want to display transparent header content other than default one"
+msgstr ""
+
+#: page-fields.php:153
+msgid "Select Sidebar (Optional)"
+msgstr ""
+
+#: page-fields.php:153
+msgid "Page Sidebar (Optional)"
+msgstr ""
+
+#: page-fields.php:153
+msgid "Select this page sidebar to display. To use this option, you have to select page template end with \"Sidebar\" only"
+msgstr ""
+
+#: page-fields.php:155
+msgid "Select Footer (Optional)"
+msgstr ""
+
+#: page-fields.php:155
+msgid "Page Footer (Optional)"
+msgstr ""
+
+#: page-fields.php:155
+msgid "Select this page footer content if you want to display footer content other than default one"
+msgstr ""
+
+#: page-fields.php:157
+msgid "Footer"
+msgstr ""
+
+#: page-fields.php:157
+msgid "Hide Footer"
+msgstr ""
+
+#: page-fields.php:157
+msgid "Check this option if you want to hide default page footer"
+msgstr ""
+
+#: post-fields.php:4
+msgid "Thumbnail"
+msgstr ""
+
+#: post-fields.php:34
+msgid "Post Layout"
+msgstr ""
+
+#: post-fields.php:34
+msgid "You can select layout of this single post page."
+msgstr ""
+
+#: post-fields.php:38
+msgid "Video Embed Code"
+msgstr ""
+
+#: post-fields.php:38
+msgid "Insert Youtube or Vimeo embed code."
+msgstr ""
+
+#: post-fields.php:42
+msgid "Custom Booking URL (Optional)"
+msgstr ""
+
+#: post-fields.php:42
+msgid "Enter URL for booking option so when user click on book button. It will opens this entered URL. Recommend if you are using 3rd party booking system."
+msgstr ""
+
+#: post-fields.php:44
+msgid "Custom Pricing (Optional)"
+msgstr ""
+
+#: post-fields.php:44
+msgid "Enter pricing for this accommodation. It will displays this pricing instead of getting from room rates setting."
+msgstr ""
+
+#: post-fields.php:70 widgets/service-carousel.php:196
+#: widgets/slider-horizontal.php:189
+msgid "Options"
+msgstr ""
+
+#: post-fields.php:246
+msgid "Add another"
+msgstr ""
+
+#: templates/accommodation-carousel/index.php:125
+msgid "adults"
+msgstr ""
+
+#: templates/accommodation-carousel/index.php:134
+msgid "children"
+msgstr ""
+
+#: templates/accommodation-carousel/index.php:149
+msgid "from"
+msgstr ""
+
+#: templates/accommodation-types/grid.php:59
+msgid "Size"
+msgstr ""
+
+#: templates/accommodation-types/grid.php:73
+#: templates/accommodation-types/grid.php:87
+msgid "Max"
+msgstr ""
+
+#: templates/accommodation-types/grid.php:73
+msgid "Adults"
+msgstr ""
+
+#: templates/accommodation-types/grid.php:87
+msgid "Children"
+msgstr ""
+
+#: templates/accommodation-types/grid.php:96
+msgid "Book Now From"
+msgstr ""
+
+#: templates/accommodation-types/grid.php:143
+msgid "From"
+msgstr ""
+
+#: templates/accommodation-types/grid.php:162
+msgid "View Detail"
+msgstr ""
+
+#: templates/accommodation-types/index.php:77
+#: templates/blog-posts/index.php:100 templates/booking-history/index.php:93
+msgid "Page"
+msgstr ""
+
+#: templates/accommodation-types/index.php:77
+#: templates/blog-posts/index.php:100 templates/booking-history/index.php:93
+msgid "of"
+msgstr ""
+
+#: templates/booking-history/grid.php:25
+msgid "Booking ID"
+msgstr ""
+
+#: templates/booking-history/grid.php:43
+msgid "Status"
+msgstr ""
+
+#: templates/booking-history/grid.php:52
+msgid "Confirmed"
+msgstr ""
+
+#: templates/booking-history/grid.php:60
+msgid "Pending"
+msgstr ""
+
+#: templates/booking-history/grid.php:67
+msgid "Cancelled"
+msgstr ""
+
+#: templates/booking-history/grid.php:81
+msgid "Check-in"
+msgstr ""
+
+#: templates/booking-history/grid.php:91
+msgid "Check-out"
+msgstr ""
+
+#: templates/booking-history/grid.php:104
+msgid "night(s)"
+msgstr ""
+
+#: templates/booking-history/grid.php:113
+msgid "Contact details"
+msgstr ""
+
+#: templates/booking-history/grid.php:134
+msgid "Guest name"
+msgstr ""
+
+#: templates/booking-history/grid.php:146
+msgid "Details"
+msgstr ""
+
+#: templates/booking-history/grid.php:162
+msgid "Total"
+msgstr ""
+
+#: templates/booking-history/index.php:59
+msgid "You don't have any booking history"
+msgstr ""
+
+#: templates/booking-history/index.php:69
+msgid "Please log in to see your booking history"
+msgstr ""
+
+#: templates/food-menu/index.php:52
+msgid "Nutrition Information"
+msgstr ""
+
+#: templates/search/index.php:27 templates/search/index.php:54
+msgid "Search"
+msgstr ""
+
+#: templates_source.php:30
+msgid "Hoteller Templates"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:42
+msgid "Accommodation Types Carousel"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:125
+#: widgets/accommodation-carousel.php:251 widgets/accommodation-types.php:124
+#: widgets/accommodation-types.php:217 widgets/album-grid.php:103
+#: widgets/availability-calendar.php:141 widgets/availability-search.php:141
+#: widgets/background-menu-effect.php:104 widgets/blog-posts.php:127
+#: widgets/booking-history.php:103 widgets/contact-form.php:103
+#: widgets/distortion-grid.php:101 widgets/flip-box.php:104
+#: widgets/food-menu.php:103 widgets/gallery-grid.php:103
+#: widgets/gallery-horizontal.php:104 widgets/gallery-horizontal.php:298
+#: widgets/gallery-justified.php:103 widgets/gallery-masonry.php:103
+#: widgets/mouse-driven-vertical-carousel.php:104
+#: widgets/portfolio-timeline.php:104 widgets/portfolio-timeline.php:313
+#: widgets/search.php:104 widgets/service-carousel.php:104
+#: widgets/service-grid.php:103 widgets/slider-horizontal.php:104
+#: widgets/slider-horizontal.php:474 widgets/slider-parallax.php:104
+#: widgets/slider-property-clip.php:104
+#: widgets/slider-synchronized-carousel.php:104 widgets/slider-zoom.php:104
+#: widgets/testimonial-carousel.php:104 widgets/testimonial-slider.php:104
+#: widgets/timeline.php:101 widgets/timeline.php:252
+msgid "Content"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:132 widgets/gallery-grid.php:199
+#: widgets/service-carousel.php:203
+msgid "Image Dimension"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:136 widgets/gallery-grid.php:203
+#: widgets/service-carousel.php:207
+msgid "Landscape"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:137 widgets/gallery-grid.php:204
+#: widgets/service-carousel.php:208
+msgid "Square"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:138 widgets/gallery-grid.php:205
+#: widgets/service-carousel.php:209
+msgid "Portrait"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:139 widgets/service-carousel.php:210
+msgid "Original"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:147 widgets/accommodation-types.php:180
+#: widgets/blog-posts.php:171
+msgid "Categories"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:157 widgets/accommodation-types.php:190
+msgid "Sort By"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:161 widgets/accommodation-types.php:194
+msgid "Default WordPress Order"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:170
+msgid "Display Items"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:188 widgets/accommodation-types.php:162
+#: widgets/blog-posts.php:153 widgets/booking-history.php:110
+msgid "Posts Per Page"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:206 widgets/gallery-horizontal.php:217
+#: widgets/service-carousel.php:268 widgets/slider-horizontal.php:261
+#: widgets/slider-parallax.php:202 widgets/slider-zoom.php:215
+#: widgets/testimonial-carousel.php:159 widgets/testimonial-slider.php:167
+msgid "Auto Play"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:218 widgets/gallery-horizontal.php:229
+#: widgets/service-carousel.php:280 widgets/slider-horizontal.php:273
+#: widgets/slider-parallax.php:214 widgets/slider-zoom.php:227
+#: widgets/testimonial-carousel.php:171 widgets/testimonial-slider.php:179
+msgid "Timer (in seconds)"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:237 widgets/accommodation-types.php:203
+#: widgets/blog-posts.php:205 widgets/booking-history.php:128
+#: widgets/gallery-horizontal.php:272 widgets/service-carousel.php:299
+#: widgets/slider-horizontal.php:316 widgets/slider-parallax.php:245
+#: widgets/slider-zoom.php:246 widgets/testimonial-carousel.php:190
+msgid "Show Pagination"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:261 widgets/accommodation-types.php:227
+#: widgets/album-grid.php:319 widgets/background-menu-effect.php:183
+#: widgets/contact-form.php:214 widgets/distortion-grid.php:233
+#: widgets/food-menu.php:209 widgets/gallery-grid.php:260
+#: widgets/gallery-justified.php:281 widgets/gallery-masonry.php:246
+#: widgets/mouse-driven-vertical-carousel.php:294
+#: widgets/service-carousel.php:361 widgets/service-grid.php:357
+#: widgets/slider-horizontal.php:464 widgets/slider-parallax.php:343
+#: widgets/slider-property-clip.php:327
+#: widgets/slider-synchronized-carousel.php:235 widgets/slider-zoom.php:401
+#: widgets/timeline.php:242
+msgid "Title Typography"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:269 widgets/accommodation-types.php:235
+#: widgets/album-grid.php:306 widgets/background-menu-effect.php:170
+#: widgets/distortion-grid.php:220 widgets/food-menu.php:196
+#: widgets/gallery-grid.php:247 widgets/gallery-justified.php:268
+#: widgets/gallery-masonry.php:233
+#: widgets/mouse-driven-vertical-carousel.php:281
+#: widgets/service-carousel.php:369 widgets/service-grid.php:344
+#: widgets/slider-parallax.php:330 widgets/slider-property-clip.php:314
+#: widgets/slider-synchronized-carousel.php:222 widgets/slider-zoom.php:388
+msgid "Title Color"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:282 widgets/accommodation-types.php:248
+msgid "Attributes Typography"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:290 widgets/accommodation-types.php:256
+msgid "Attributes Color"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:304 widgets/accommodation-types.php:282
+msgid "Pricing"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:314 widgets/accommodation-types.php:292
+msgid "Pricing From Typography"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:322 widgets/accommodation-types.php:300
+msgid "Pricing From Color"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:335 widgets/accommodation-types.php:313
+msgid "Pricing Typography"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:343 widgets/accommodation-types.php:321
+msgid "Pricing Color"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:357 widgets/service-carousel.php:483
+#: widgets/slider-synchronized-carousel.php:167
+#: widgets/slider-synchronized-carousel.php:289
+#: widgets/testimonial-carousel.php:335
+msgid "Pagination"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:366 widgets/gallery-horizontal.php:332
+#: widgets/service-carousel.php:492 widgets/slider-horizontal.php:399
+#: widgets/slider-synchronized-carousel.php:298
+msgid "Pagination Color"
+msgstr ""
+
+#: widgets/accommodation-carousel.php:378 widgets/service-carousel.php:504
+#: widgets/slider-synchronized-carousel.php:310
+#: widgets/testimonial-carousel.php:356
+msgid "Pagination Active Color"
+msgstr ""
+
+#: widgets/accommodation-types.php:41
+msgid "Accommodation Types"
+msgstr ""
+
+#: widgets/accommodation-types.php:135
+msgid "Style 1"
+msgstr ""
+
+#: widgets/accommodation-types.php:136
+msgid "Style 2"
+msgstr ""
+
+#: widgets/accommodation-types.php:144 widgets/album-grid.php:166
+#: widgets/gallery-grid.php:119 widgets/gallery-masonry.php:119
+#: widgets/service-grid.php:174
+msgid "Columns"
+msgstr ""
+
+#: widgets/accommodation-types.php:268 widgets/album-grid.php:261
+#: widgets/timeline.php:193
+msgid "Border Color"
+msgstr ""
+
+#: widgets/accommodation-types.php:335 widgets/animated-text.php:122
+#: widgets/distortion-grid.php:307 widgets/portfolio-timeline.php:345
+#: widgets/slider-horizontal.php:506
+#: widgets/slider-synchronized-carousel.php:245 widgets/slider-zoom.php:443
+msgid "Link"
+msgstr ""
+
+#: widgets/accommodation-types.php:345 widgets/distortion-grid.php:341
+#: widgets/slider-horizontal.php:529
+#: widgets/slider-synchronized-carousel.php:279 widgets/slider-zoom.php:466
+msgid "Link Typography"
+msgstr ""
+
+#: widgets/accommodation-types.php:353 widgets/distortion-grid.php:316
+#: widgets/portfolio-timeline.php:354 widgets/slider-property-clip.php:278
+#: widgets/slider-synchronized-carousel.php:254 widgets/slider-zoom.php:452
+msgid "Link Color"
+msgstr ""
+
+#: widgets/accommodation-types.php:368
+msgid "Overlay Background"
+msgstr ""
+
+#: widgets/accommodation-types.php:377 widgets/flip-box.php:218
+#: widgets/mouse-driven-vertical-carousel.php:205
+msgid "Overlay Background Color"
+msgstr ""
+
+#: widgets/accommodation-types.php:389
+msgid "Overlay Icon Color"
+msgstr ""
+
+#: widgets/album-grid.php:41
+msgid "Grid Album"
+msgstr ""
+
+#: widgets/album-grid.php:117 widgets/background-menu-effect.php:118
+#: widgets/distortion-grid.php:115 widgets/food-menu.php:117
+#: widgets/mouse-driven-vertical-carousel.php:134
+#: widgets/portfolio-timeline.php:118 widgets/slider-parallax.php:118
+#: widgets/slider-synchronized-carousel.php:118 widgets/slider-zoom.php:118
+#: widgets/testimonial-carousel.php:118 widgets/testimonial-slider.php:118
+#: widgets/timeline.php:115
+msgid "Image"
+msgstr ""
+
+#: widgets/album-grid.php:133 widgets/album-grid.php:329
+#: widgets/distortion-grid.php:139 widgets/distortion-grid.php:243
+#: widgets/mouse-driven-vertical-carousel.php:150
+#: widgets/mouse-driven-vertical-carousel.php:304
+#: widgets/portfolio-timeline.php:161 widgets/portfolio-timeline.php:281
+#: widgets/slider-property-clip.php:237 widgets/slider-property-clip.php:239
+#: widgets/slider-property-clip.php:337
+msgid "Sub Title"
+msgstr ""
+
+#: widgets/album-grid.php:141 widgets/background-menu-effect.php:134
+#: widgets/distortion-grid.php:163 widgets/portfolio-timeline.php:177
+#: widgets/service-carousel.php:150 widgets/service-grid.php:149
+#: widgets/slider-horizontal.php:162 widgets/slider-parallax.php:150
+#: widgets/slider-zoom.php:163
+msgid "Link URL"
+msgstr ""
+
+#: widgets/album-grid.php:150 widgets/background-menu-effect.php:143
+#: widgets/distortion-grid.php:172
+#: widgets/mouse-driven-vertical-carousel.php:167
+#: widgets/portfolio-timeline.php:186 widgets/service-grid.php:158
+#: widgets/slider-horizontal.php:171 widgets/slider-parallax.php:159
+#: widgets/slider-synchronized-carousel.php:151 widgets/slider-zoom.php:172
+#: widgets/timeline.php:140
+msgid "Slides"
+msgstr ""
+
+#: widgets/album-grid.php:188
+msgid "Layout 1"
+msgstr ""
+
+#: widgets/album-grid.php:189
+msgid "Layout 2"
+msgstr ""
+
+#: widgets/album-grid.php:190
+msgid "Layout 3"
+msgstr ""
+
+#: widgets/album-grid.php:191
+msgid "Layout 4"
+msgstr ""
+
+#: widgets/album-grid.php:192
+msgid "Layout 5"
+msgstr ""
+
+#: widgets/album-grid.php:193
+msgid "Layout 6"
+msgstr ""
+
+#: widgets/album-grid.php:194
+msgid "Layout 7"
+msgstr ""
+
+#: widgets/album-grid.php:202 widgets/gallery-grid.php:137
+#: widgets/gallery-masonry.php:137 widgets/service-grid.php:192
+msgid "Column Spacing"
+msgstr ""
+
+#: widgets/album-grid.php:214
+msgid "Glare Effect"
+msgstr ""
+
+#: widgets/album-grid.php:226 widgets/album-grid.php:249
+#: widgets/background-menu-effect.php:266 widgets/gallery-grid.php:224
+#: widgets/gallery-justified.php:245 widgets/gallery-masonry.php:210
+#: widgets/slider-parallax.php:268 widgets/slider-zoom.php:269
+msgid "Background Overlay"
+msgstr ""
+
+#: widgets/album-grid.php:240 widgets/gallery-grid.php:215
+#: widgets/gallery-justified.php:236 widgets/gallery-masonry.php:201
+#: widgets/slider-horizontal.php:353 widgets/slider-parallax.php:259
+#: widgets/slider-property-clip.php:257 widgets/slider-zoom.php:260
+#: widgets/timeline.php:184
+msgid "General"
+msgstr ""
+
+#: widgets/album-grid.php:273
+msgid "Border Width (in px)"
+msgstr ""
+
+#: widgets/album-grid.php:338 widgets/distortion-grid.php:252
+#: widgets/mouse-driven-vertical-carousel.php:313
+#: widgets/slider-property-clip.php:346
+msgid "Sub Title Color"
+msgstr ""
+
+#: widgets/album-grid.php:351 widgets/distortion-grid.php:265
+#: widgets/mouse-driven-vertical-carousel.php:326
+#: widgets/slider-property-clip.php:359
+msgid "Sub Title Typography"
+msgstr ""
+
+#: widgets/animated-headline.php:42
+msgid "Animated Headline"
+msgstr ""
+
+#: widgets/animated-headline.php:104 widgets/animated-headline.php:234
+msgid "Headline"
+msgstr ""
+
+#: widgets/animated-headline.php:111
+msgid "Animation"
+msgstr ""
+
+#: widgets/animated-headline.php:115
+msgid "Rotate"
+msgstr ""
+
+#: widgets/animated-headline.php:116
+msgid "Rotate 2"
+msgstr ""
+
+#: widgets/animated-headline.php:117
+msgid "Rotate 3"
+msgstr ""
+
+#: widgets/animated-headline.php:118
+msgid "Type"
+msgstr ""
+
+#: widgets/animated-headline.php:119
+msgid "Loading Bar"
+msgstr ""
+
+#: widgets/animated-headline.php:120
+msgid "Slide"
+msgstr ""
+
+#: widgets/animated-headline.php:121
+msgid "Clip"
+msgstr ""
+
+#: widgets/animated-headline.php:122
+msgid "Zoom"
+msgstr ""
+
+#: widgets/animated-headline.php:124
+msgid "Push"
+msgstr ""
+
+#: widgets/animated-headline.php:132
+msgid "Before Animated Text"
+msgstr ""
+
+#: widgets/animated-headline.php:148 widgets/animated-text.php:104
+msgid "Text"
+msgstr ""
+
+#: widgets/animated-headline.php:157 widgets/animated-text.php:42
+msgid "Animated Text"
+msgstr ""
+
+#: widgets/animated-headline.php:173
+msgid "After Animated Text"
+msgstr ""
+
+#: widgets/animated-headline.php:185 widgets/animated-text.php:137
+msgid "HTML Tag"
+msgstr ""
+
+#: widgets/animated-headline.php:189 widgets/animated-text.php:141
+msgid "H1"
+msgstr ""
+
+#: widgets/animated-headline.php:190 widgets/animated-text.php:142
+msgid "H2"
+msgstr ""
+
+#: widgets/animated-headline.php:191 widgets/animated-text.php:143
+msgid "H3"
+msgstr ""
+
+#: widgets/animated-headline.php:192 widgets/animated-text.php:144
+msgid "H4"
+msgstr ""
+
+#: widgets/animated-headline.php:193 widgets/animated-text.php:145
+msgid "H5"
+msgstr ""
+
+#: widgets/animated-headline.php:194 widgets/animated-text.php:146
+msgid "H6"
+msgstr ""
+
+#: widgets/animated-headline.php:195 widgets/animated-text.php:147
+msgid "div"
+msgstr ""
+
+#: widgets/animated-headline.php:196 widgets/animated-text.php:148
+msgid "span"
+msgstr ""
+
+#: widgets/animated-headline.php:197 widgets/animated-text.php:149
+msgid "p"
+msgstr ""
+
+#: widgets/animated-headline.php:205 widgets/animated-text.php:171
+#: widgets/background-menu-effect.php:191 widgets/navigation-menu.php:215
+#: widgets/navigation-menu.php:288 widgets/service-grid.php:365
+msgid "Alignment"
+msgstr ""
+
+#: widgets/animated-headline.php:209 widgets/animated-text.php:175
+#: widgets/animated-text.php:240 widgets/background-menu-effect.php:195
+#: widgets/blog-posts.php:236 widgets/navigation-menu.php:219
+#: widgets/navigation-menu.php:292 widgets/portfolio-timeline.php:200
+#: widgets/service-carousel.php:245 widgets/service-grid.php:369
+#: widgets/slider-horizontal.php:130 widgets/slider-property-clip.php:138
+#: widgets/slider-zoom.php:130
+msgid "Left"
+msgstr ""
+
+#: widgets/animated-headline.php:213 widgets/animated-text.php:179
+#: widgets/background-menu-effect.php:199 widgets/blog-posts.php:240
+#: widgets/navigation-menu.php:223 widgets/navigation-menu.php:296
+#: widgets/portfolio-timeline.php:204 widgets/service-carousel.php:249
+#: widgets/service-grid.php:373 widgets/slider-zoom.php:132
+msgid "Center"
+msgstr ""
+
+#: widgets/animated-headline.php:217 widgets/animated-text.php:183
+#: widgets/animated-text.php:241 widgets/background-menu-effect.php:203
+#: widgets/blog-posts.php:244 widgets/navigation-menu.php:227
+#: widgets/navigation-menu.php:300 widgets/portfolio-timeline.php:208
+#: widgets/service-carousel.php:253 widgets/service-grid.php:377
+#: widgets/slider-horizontal.php:131 widgets/slider-property-clip.php:139
+#: widgets/slider-zoom.php:131
+msgid "Right"
+msgstr ""
+
+#: widgets/animated-headline.php:243 widgets/animated-text.php:290
+msgid "Text Color"
+msgstr ""
+
+#: widgets/animated-headline.php:264 widgets/animated-text.php:311
+#: widgets/navigation-menu.php:137 widgets/navigation-menu.php:252
+#: widgets/portfolio-timeline.php:271 widgets/portfolio-timeline.php:303
+#: widgets/portfolio-timeline.php:335 widgets/search.php:199
+msgid "Typography"
+msgstr ""
+
+#: widgets/animated-headline.php:272
+msgid "Animated Text Color"
+msgstr ""
+
+#: widgets/animated-headline.php:285
+msgid "Animated Text Typography"
+msgstr ""
+
+#: widgets/animated-text.php:115
+msgid "Type your title here"
+msgstr ""
+
+#: widgets/animated-text.php:124
+msgid "Paste URL or type"
+msgstr ""
+
+#: widgets/animated-text.php:157
+msgid "Delimiter Type"
+msgstr ""
+
+#: widgets/animated-text.php:161
+msgid "Character"
+msgstr ""
+
+#: widgets/animated-text.php:162
+msgid "Word"
+msgstr ""
+
+#: widgets/animated-text.php:163
+msgid "Sentence"
+msgstr ""
+
+#: widgets/animated-text.php:198
+msgid "Transition Speed (in milli-seconds)"
+msgstr ""
+
+#: widgets/animated-text.php:217
+msgid "Transition Duration (in milli-seconds)"
+msgstr ""
+
+#: widgets/animated-text.php:236
+msgid "Transition from"
+msgstr ""
+
+#: widgets/animated-text.php:242
+msgid "Top"
+msgstr ""
+
+#: widgets/animated-text.php:243
+msgid "Bottom"
+msgstr ""
+
+#: widgets/animated-text.php:253
+msgid "Transition Overflow"
+msgstr ""
+
+#: widgets/animated-text.php:257
+msgid "Visible"
+msgstr ""
+
+#: widgets/animated-text.php:258
+msgid "Hidden"
+msgstr ""
+
+#: widgets/availability-calendar.php:42
+msgid "Availability Calendar"
+msgstr ""
+
+#: widgets/availability-calendar.php:100
+msgid "Select Accommodation Type"
+msgstr ""
+
+#: widgets/availability-calendar.php:148 widgets/availability-search.php:148
+msgid "Accommodation Type"
+msgstr ""
+
+#: widgets/availability-calendar.php:158
+msgid "Calendar Rows"
+msgstr ""
+
+#: widgets/availability-calendar.php:176
+msgid "Calendar Columns"
+msgstr ""
+
+#: widgets/availability-calendar.php:194
+msgid "Show Room Price"
+msgstr ""
+
+#: widgets/availability-search.php:42
+msgid "Availability Search Form"
+msgstr ""
+
+#: widgets/availability-search.php:100
+msgid "Any Accommodation Types"
+msgstr ""
+
+#: widgets/availability-search.php:158
+msgid "Attributes"
+msgstr ""
+
+#: widgets/availability-search.php:171
+msgid "Display Compact Style"
+msgstr ""
+
+#: widgets/availability-search.php:185 widgets/contact-form.php:136
+msgid "Label"
+msgstr ""
+
+#: widgets/availability-search.php:194
+msgid "Label Color"
+msgstr ""
+
+#: widgets/availability-search.php:208
+msgid "Input"
+msgstr ""
+
+#: widgets/availability-search.php:217 widgets/search.php:340
+msgid "Input Font Color"
+msgstr ""
+
+#: widgets/availability-search.php:232 widgets/search.php:352
+msgid "Input Placeholder Font Color"
+msgstr ""
+
+#: widgets/availability-search.php:244
+msgid "Input Background Color"
+msgstr ""
+
+#: widgets/availability-search.php:257
+msgid "Input Border Color"
+msgstr ""
+
+#: widgets/availability-search.php:272 widgets/contact-form.php:224
+#: widgets/service-carousel.php:415 widgets/slider-parallax.php:407
+msgid "Button"
+msgstr ""
+
+#: widgets/availability-search.php:281 widgets/contact-form.php:245
+#: widgets/service-carousel.php:436 widgets/slider-parallax.php:429
+msgid "Button Font Color"
+msgstr ""
+
+#: widgets/availability-search.php:293 widgets/service-carousel.php:424
+#: widgets/slider-parallax.php:416
+msgid "Button Background Color"
+msgstr ""
+
+#: widgets/availability-search.php:305 widgets/contact-form.php:257
+msgid "Button Border Color"
+msgstr ""
+
+#: widgets/availability-search.php:317 widgets/contact-form.php:281
+#: widgets/service-carousel.php:460 widgets/slider-parallax.php:454
+msgid "Button Hover Font Color"
+msgstr ""
+
+#: widgets/availability-search.php:329 widgets/service-carousel.php:448
+#: widgets/slider-parallax.php:441
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: widgets/availability-search.php:341 widgets/contact-form.php:293
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: widgets/availability-search.php:353
+msgid "Button Width (in %)"
+msgstr ""
+
+#: widgets/availability-search.php:372
+msgid "Button Border Radius"
+msgstr ""
+
+#: widgets/availability-search.php:384
+msgid "Button Padding"
+msgstr ""
+
+#: widgets/background-menu-effect.php:42
+msgid "Background Menu Effect"
+msgstr ""
+
+#: widgets/background-menu-effect.php:218 widgets/slider-property-clip.php:147
+msgid "Width"
+msgstr ""
+
+#: widgets/background-menu-effect.php:222 widgets/contact-form.php:124
+msgid "Fullwidth"
+msgstr ""
+
+#: widgets/background-menu-effect.php:223
+msgid "Inline"
+msgstr ""
+
+#: widgets/background-menu-effect.php:231 widgets/gallery-justified.php:153
+#: widgets/navigation-menu.php:173 widgets/navigation-menu.php:260
+#: widgets/testimonial-slider.php:209
+msgid "Margin"
+msgstr ""
+
+#: widgets/background-menu-effect.php:245
+msgid "Background"
+msgstr ""
+
+#: widgets/background-menu-effect.php:254
+msgid "Default Background"
+msgstr ""
+
+#: widgets/blog-posts.php:41
+msgid "Blog Posts"
+msgstr ""
+
+#: widgets/blog-posts.php:138
+msgid "Classic"
+msgstr ""
+
+#: widgets/blog-posts.php:139
+msgid "Grid"
+msgstr ""
+
+#: widgets/blog-posts.php:140
+msgid "Grid No Space"
+msgstr ""
+
+#: widgets/blog-posts.php:141
+msgid "Masonry"
+msgstr ""
+
+#: widgets/blog-posts.php:142
+msgid "List"
+msgstr ""
+
+#: widgets/blog-posts.php:143
+msgid "List Circle"
+msgstr ""
+
+#: widgets/blog-posts.php:144
+msgid "Metro"
+msgstr ""
+
+#: widgets/blog-posts.php:145
+msgid "Metro No Space"
+msgstr ""
+
+#: widgets/blog-posts.php:181
+msgid "Show Post Categories"
+msgstr ""
+
+#: widgets/blog-posts.php:193
+msgid "Show Post Date"
+msgstr ""
+
+#: widgets/blog-posts.php:217
+msgid "Text Display"
+msgstr ""
+
+#: widgets/blog-posts.php:221 widgets/distortion-grid.php:147
+#: widgets/distortion-grid.php:275
+msgid "Excerpt"
+msgstr ""
+
+#: widgets/blog-posts.php:222
+msgid "Full Content"
+msgstr ""
+
+#: widgets/blog-posts.php:223
+msgid "No text"
+msgstr ""
+
+#: widgets/blog-posts.php:232 widgets/portfolio-timeline.php:196
+msgid "Text Alignment"
+msgstr ""
+
+#: widgets/blog-posts.php:254
+msgid "Excerpt Length"
+msgstr ""
+
+#: widgets/blog-posts.php:272
+msgid "Strip HTML from Post Content"
+msgstr ""
+
+#: widgets/booking-history.php:41
+msgid "Booking History"
+msgstr ""
+
+#: widgets/contact-form.php:41
+msgid "Contact Form 7"
+msgstr ""
+
+#: widgets/contact-form.php:110
+msgid "Contact Form"
+msgstr ""
+
+#: widgets/contact-form.php:125
+msgid "2 Columns"
+msgstr ""
+
+#: widgets/contact-form.php:126
+msgid "3 Columns"
+msgstr ""
+
+#: widgets/contact-form.php:145
+msgid "Label Font Color"
+msgstr ""
+
+#: widgets/contact-form.php:158
+msgid "Label Typography"
+msgstr ""
+
+#: widgets/contact-form.php:168
+msgid "Fields"
+msgstr ""
+
+#: widgets/contact-form.php:177
+msgid "Fields Background"
+msgstr ""
+
+#: widgets/contact-form.php:189
+msgid "Fields Font Color"
+msgstr ""
+
+#: widgets/contact-form.php:201
+msgid "Fields Focus Color"
+msgstr ""
+
+#: widgets/contact-form.php:233
+msgid "Button Background"
+msgstr ""
+
+#: widgets/contact-form.php:269
+msgid "Button Hover Background"
+msgstr ""
+
+#: widgets/contact-form.php:306 widgets/flip-box.php:366
+#: widgets/service-carousel.php:473 widgets/slider-parallax.php:467
+msgid "Button Typography"
+msgstr ""
+
+#: widgets/distortion-grid.php:39
+msgid "Distortion Hover Grid"
+msgstr ""
+
+#: widgets/distortion-grid.php:123
+msgid "Image on hover"
+msgstr ""
+
+#: widgets/distortion-grid.php:155 widgets/service-carousel.php:142
+#: widgets/slider-horizontal.php:154 widgets/slider-parallax.php:142
+#: widgets/slider-zoom.php:155
+msgid "Link Title"
+msgstr ""
+
+#: widgets/distortion-grid.php:188
+msgid "Theme"
+msgstr ""
+
+#: widgets/distortion-grid.php:192
+msgid "Theme 1"
+msgstr ""
+
+#: widgets/distortion-grid.php:193
+msgid "Theme 2"
+msgstr ""
+
+#: widgets/distortion-grid.php:194
+msgid "Theme 3"
+msgstr ""
+
+#: widgets/distortion-grid.php:195
+msgid "Theme 4"
+msgstr ""
+
+#: widgets/distortion-grid.php:196
+msgid "Theme 5"
+msgstr ""
+
+#: widgets/distortion-grid.php:197
+msgid "Theme 6"
+msgstr ""
+
+#: widgets/distortion-grid.php:198
+msgid "Theme 7"
+msgstr ""
+
+#: widgets/distortion-grid.php:199
+msgid "Theme 8"
+msgstr ""
+
+#: widgets/distortion-grid.php:200
+msgid "Theme 9"
+msgstr ""
+
+#: widgets/distortion-grid.php:201
+msgid "Theme 10"
+msgstr ""
+
+#: widgets/distortion-grid.php:284
+msgid "Excerpt Color"
+msgstr ""
+
+#: widgets/distortion-grid.php:297
+msgid "Excerpt Typography"
+msgstr ""
+
+#: widgets/distortion-grid.php:328 widgets/portfolio-timeline.php:366
+#: widgets/slider-synchronized-carousel.php:266
+msgid "Link Hover Color"
+msgstr ""
+
+#: widgets/flip-box.php:42
+msgid "Flip Box"
+msgstr ""
+
+#: widgets/flip-box.php:111
+msgid "Default Background Image"
+msgstr ""
+
+#: widgets/flip-box.php:119
+msgid "Default Title"
+msgstr ""
+
+#: widgets/flip-box.php:127
+msgid "Default Description"
+msgstr ""
+
+#: widgets/flip-box.php:135
+msgid "Flip Background Image"
+msgstr ""
+
+#: widgets/flip-box.php:143
+msgid "Flip Title"
+msgstr ""
+
+#: widgets/flip-box.php:151
+msgid "Flip Button Title"
+msgstr ""
+
+#: widgets/flip-box.php:159
+msgid "Flip Button Link"
+msgstr ""
+
+#: widgets/flip-box.php:172 widgets/gallery-horizontal.php:155
+#: widgets/mouse-driven-vertical-carousel.php:183
+#: widgets/slider-horizontal.php:210
+msgid "Height (in px)"
+msgstr ""
+
+#: widgets/flip-box.php:194 widgets/navigation-menu.php:200
+#: widgets/navigation-menu.php:324 widgets/service-grid.php:226
+#: widgets/testimonial-carousel.php:237 widgets/testimonial-slider.php:245
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/flip-box.php:232
+msgid "Default Content"
+msgstr ""
+
+#: widgets/flip-box.php:241
+msgid "Default Title Color"
+msgstr ""
+
+#: widgets/flip-box.php:254
+msgid "Default Title Typography"
+msgstr ""
+
+#: widgets/flip-box.php:262
+msgid "Default Description Color"
+msgstr ""
+
+#: widgets/flip-box.php:275
+msgid "Default Description Typography"
+msgstr ""
+
+#: widgets/flip-box.php:285
+msgid "Flip Content"
+msgstr ""
+
+#: widgets/flip-box.php:294
+msgid "Flip Title Color"
+msgstr ""
+
+#: widgets/flip-box.php:307
+msgid "Flip Title Typography"
+msgstr ""
+
+#: widgets/flip-box.php:315
+msgid "Flip Button Background Color"
+msgstr ""
+
+#: widgets/flip-box.php:328
+msgid "Flip Button Font Color"
+msgstr ""
+
+#: widgets/flip-box.php:340
+msgid "Flip Button Hover Background Color"
+msgstr ""
+
+#: widgets/flip-box.php:353
+msgid "Flip Button Hover Font Color"
+msgstr ""
+
+#: widgets/food-menu.php:41
+msgid "Food Menu"
+msgstr ""
+
+#: widgets/food-menu.php:133 widgets/food-menu.php:231
+#: widgets/portfolio-timeline.php:169 widgets/service-carousel.php:134
+#: widgets/service-carousel.php:383 widgets/service-grid.php:141
+#: widgets/service-grid.php:406 widgets/slider-horizontal.php:146
+#: widgets/slider-parallax.php:134 widgets/slider-property-clip.php:246
+#: widgets/slider-zoom.php:147 widgets/slider-zoom.php:411
+#: widgets/testimonial-carousel.php:126 widgets/testimonial-carousel.php:303
+#: widgets/testimonial-slider.php:126 widgets/testimonial-slider.php:332
+#: widgets/timeline.php:131
+msgid "Description"
+msgstr ""
+
+#: widgets/food-menu.php:141 widgets/food-menu.php:263
+msgid "Price"
+msgstr ""
+
+#: widgets/food-menu.php:143
+msgid "$9"
+msgstr ""
+
+#: widgets/food-menu.php:150
+msgid "Sale Price"
+msgstr ""
+
+#: widgets/food-menu.php:152
+msgid "$7"
+msgstr ""
+
+#: widgets/food-menu.php:159 widgets/food-menu.php:307
+msgid "Special Tag"
+msgstr ""
+
+#: widgets/food-menu.php:161
+msgid "Enter special tag for this menu ex. Barista Selection (optional)"
+msgstr ""
+
+#: widgets/food-menu.php:169
+msgid "Menus"
+msgstr ""
+
+#: widgets/food-menu.php:217
+msgid "Title Dotted Color"
+msgstr ""
+
+#: widgets/food-menu.php:240 widgets/service-carousel.php:401
+#: widgets/service-grid.php:415 widgets/slider-parallax.php:362
+#: widgets/slider-property-clip.php:378 widgets/slider-zoom.php:420
+#: widgets/testimonial-carousel.php:312 widgets/testimonial-slider.php:341
+msgid "Description Color"
+msgstr ""
+
+#: widgets/food-menu.php:253 widgets/service-carousel.php:393
+#: widgets/service-grid.php:428 widgets/slider-parallax.php:375
+#: widgets/slider-property-clip.php:391 widgets/slider-zoom.php:433
+#: widgets/testimonial-carousel.php:325 widgets/testimonial-slider.php:354
+msgid "Description Typography"
+msgstr ""
+
+#: widgets/food-menu.php:272
+msgid "Price Color"
+msgstr ""
+
+#: widgets/food-menu.php:284
+msgid "Sale Price Color"
+msgstr ""
+
+#: widgets/food-menu.php:297
+msgid "Price Typography"
+msgstr ""
+
+#: widgets/food-menu.php:316
+msgid "Special Tag Color"
+msgstr ""
+
+#: widgets/food-menu.php:328
+msgid "Special Tag Background Color"
+msgstr ""
+
+#: widgets/food-menu.php:340
+msgid "Special Tag Border Color"
+msgstr ""
+
+#: widgets/food-menu.php:353
+msgid "Special Tag Typography"
+msgstr ""
+
+#: widgets/gallery-grid.php:41
+msgid "Grid Gallery"
+msgstr ""
+
+#: widgets/gallery-grid.php:110 widgets/gallery-horizontal.php:111
+#: widgets/gallery-justified.php:110 widgets/gallery-masonry.php:110
+#: widgets/slider-property-clip.php:111
+msgid "Add Images"
+msgstr ""
+
+#: widgets/gallery-grid.php:149 widgets/gallery-justified.php:184
+#: widgets/gallery-masonry.php:149
+msgid "Hover Effect"
+msgstr ""
+
+#: widgets/gallery-grid.php:161 widgets/gallery-justified.php:196
+#: widgets/gallery-masonry.php:161
+msgid "Show Title on Hover"
+msgstr ""
+
+#: widgets/gallery-grid.php:173 widgets/gallery-justified.php:208
+#: widgets/gallery-masonry.php:173
+msgid "Image Lightbox"
+msgstr ""
+
+#: widgets/gallery-grid.php:185 widgets/gallery-justified.php:220
+#: widgets/gallery-masonry.php:185
+msgid "Lightbox Content"
+msgstr ""
+
+#: widgets/gallery-grid.php:190 widgets/gallery-justified.php:225
+#: widgets/gallery-masonry.php:190
+msgid "Title and Caption"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:42
+msgid "Horizontal Gallery"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:120 widgets/gallery-justified.php:119
+#: widgets/slider-horizontal.php:196 widgets/slider-property-clip.php:120
+#: widgets/timeline.php:168
+msgid "Image Size"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:124 widgets/gallery-justified.php:124
+#: widgets/slider-horizontal.php:200 widgets/slider-property-clip.php:124
+#: widgets/timeline.php:172
+msgid "Medium (default 768px x 768px max)"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:125 widgets/gallery-justified.php:125
+#: widgets/slider-horizontal.php:201 widgets/slider-property-clip.php:125
+#: widgets/timeline.php:173
+msgid "Large (default 1024px x 1024px max)"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:126 widgets/gallery-justified.php:126
+#: widgets/slider-horizontal.php:202 widgets/slider-property-clip.php:126
+#: widgets/timeline.php:174
+msgid "Original image resolution"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:134 widgets/service-carousel.php:218
+msgid "Image Border Radius"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:147 widgets/navigation-menu.php:316
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:174 widgets/slider-property-clip.php:201
+msgid "Content Padding"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:186 widgets/slider-horizontal.php:230
+msgid "Fullscreen"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:198 widgets/slider-horizontal.php:242
+msgid "Spacing (in px)"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:248 widgets/slider-horizontal.php:292
+msgid "Loop"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:260 widgets/slider-horizontal.php:304
+#: widgets/slider-parallax.php:233
+msgid "Show Navigation"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:284 widgets/timeline.php:156
+msgid "Parallax Effect"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:307 widgets/slider-horizontal.php:374
+#: widgets/testimonial-slider.php:373
+msgid "Navigation Background Color"
+msgstr ""
+
+#: widgets/gallery-horizontal.php:320 widgets/portfolio-timeline.php:389
+#: widgets/slider-horizontal.php:387 widgets/testimonial-carousel.php:344
+#: widgets/testimonial-slider.php:385
+msgid "Navigation Color"
+msgstr ""
+
+#: widgets/gallery-justified.php:41
+msgid "Justified Gallery"
+msgstr ""
+
+#: widgets/gallery-justified.php:123
+msgid "Small (default 300px x 300px max)"
+msgstr ""
+
+#: widgets/gallery-justified.php:134
+msgid "Row Height"
+msgstr ""
+
+#: widgets/gallery-justified.php:172
+msgid "Justify Last Row"
+msgstr ""
+
+#: widgets/gallery-masonry.php:41
+msgid "Masonry Gallery"
+msgstr ""
+
+#: widgets/mouse-driven-vertical-carousel.php:42
+msgid "Mouse Driven Vertical Carousel"
+msgstr ""
+
+#: widgets/mouse-driven-vertical-carousel.php:111
+msgid "Header"
+msgstr ""
+
+#: widgets/mouse-driven-vertical-carousel.php:119
+msgid "Sub Header"
+msgstr ""
+
+#: widgets/mouse-driven-vertical-carousel.php:158
+#: widgets/slider-synchronized-carousel.php:142
+msgid "Button Link URL"
+msgstr ""
+
+#: widgets/mouse-driven-vertical-carousel.php:219
+msgid "Header & Sub Header"
+msgstr ""
+
+#: widgets/mouse-driven-vertical-carousel.php:228
+msgid "Header Color"
+msgstr ""
+
+#: widgets/mouse-driven-vertical-carousel.php:241
+msgid "Header Typography"
+msgstr ""
+
+#: widgets/mouse-driven-vertical-carousel.php:249
+msgid "Sub Header Color"
+msgstr ""
+
+#: widgets/mouse-driven-vertical-carousel.php:262
+msgid "Sub Header Typography"
+msgstr ""
+
+#: widgets/navigation-menu.php:42
+msgid "Theme Navigation Menu"
+msgstr ""
+
+#: widgets/navigation-menu.php:104
+msgid "Parent Menu"
+msgstr ""
+
+#: widgets/navigation-menu.php:111
+msgid "Navigation Menu"
+msgstr ""
+
+#: widgets/navigation-menu.php:121
+msgid "Hover Style"
+msgstr ""
+
+#: widgets/navigation-menu.php:125
+msgid "Animated Line"
+msgstr ""
+
+#: widgets/navigation-menu.php:126
+msgid "Animated Thick Line"
+msgstr ""
+
+#: widgets/navigation-menu.php:127
+msgid "Changed Font Color"
+msgstr ""
+
+#: widgets/navigation-menu.php:128
+msgid "Changed Background Color"
+msgstr ""
+
+#: widgets/navigation-menu.php:145
+msgid "Arrow Line Height"
+msgstr ""
+
+#: widgets/navigation-menu.php:185 widgets/navigation-menu.php:273
+#: widgets/service-grid.php:392 widgets/testimonial-slider.php:221
+msgid "Padding"
+msgstr ""
+
+#: widgets/navigation-menu.php:244
+msgid "Sub Menu"
+msgstr ""
+
+#: widgets/navigation-menu.php:338
+msgid "Parent Menu Colors"
+msgstr ""
+
+#: widgets/navigation-menu.php:347 widgets/navigation-menu.php:466
+msgid "Font Color"
+msgstr ""
+
+#: widgets/navigation-menu.php:359 widgets/navigation-menu.php:478
+msgid "Hover Font Color"
+msgstr ""
+
+#: widgets/navigation-menu.php:371
+msgid "Hover Background Color"
+msgstr ""
+
+#: widgets/navigation-menu.php:386 widgets/navigation-menu.php:490
+msgid "Hover Border Color"
+msgstr ""
+
+#: widgets/navigation-menu.php:401 widgets/navigation-menu.php:505
+msgid "Active Font Color"
+msgstr ""
+
+#: widgets/navigation-menu.php:413
+msgid "Active Background Color"
+msgstr ""
+
+#: widgets/navigation-menu.php:428 widgets/navigation-menu.php:517
+msgid "Active Border Color"
+msgstr ""
+
+#: widgets/navigation-menu.php:445
+msgid "Sub Menu Colors"
+msgstr ""
+
+#: widgets/portfolio-timeline.php:42
+msgid "Portfolio Timeline Horizontal"
+msgstr ""
+
+#: widgets/portfolio-timeline.php:126
+msgid "Date"
+msgstr ""
+
+#: widgets/portfolio-timeline.php:128
+msgid "2018"
+msgstr ""
+
+#: widgets/portfolio-timeline.php:138
+msgid "Display Date Format"
+msgstr ""
+
+#: widgets/portfolio-timeline.php:142
+msgid "Year Only"
+msgstr ""
+
+#: widgets/portfolio-timeline.php:143
+msgid "Month Only"
+msgstr ""
+
+#: widgets/portfolio-timeline.php:144
+msgid "Date & Month"
+msgstr ""
+
+#: widgets/portfolio-timeline.php:145
+msgid "Month & Year"
+msgstr ""
+
+#: widgets/portfolio-timeline.php:146
+msgid "Date & Month and Year"
+msgstr ""
+
+#: widgets/portfolio-timeline.php:223
+msgid "Minimum Distance (px)"
+msgstr ""
+
+#: widgets/portfolio-timeline.php:258 widgets/slider-horizontal.php:451
+#: widgets/timeline.php:229
+msgid "Title font Color"
+msgstr ""
+
+#: widgets/portfolio-timeline.php:290
+msgid "Sub Title font Color"
+msgstr ""
+
+#: widgets/portfolio-timeline.php:322 widgets/slider-horizontal.php:483
+#: widgets/timeline.php:261
+msgid "Content font Color"
+msgstr ""
+
+#: widgets/portfolio-timeline.php:380 widgets/testimonial-slider.php:364
+msgid "Navigation"
+msgstr ""
+
+#: widgets/portfolio-timeline.php:403
+msgid "Navigation Active Color"
+msgstr ""
+
+#: widgets/search.php:42
+msgid "Search Bar"
+msgstr ""
+
+#: widgets/search.php:111
+msgid "Icon Content Type"
+msgstr ""
+
+#: widgets/search.php:115 widgets/search.php:124
+msgid "Font Icon"
+msgstr ""
+
+#: widgets/search.php:116
+msgid "Upload Icon Image"
+msgstr ""
+
+#: widgets/search.php:139
+msgid "Icon Image"
+msgstr ""
+
+#: widgets/search.php:151
+msgid "Button Icon Size"
+msgstr ""
+
+#: widgets/search.php:175
+msgid "Search Input Width"
+msgstr ""
+
+#: widgets/search.php:207
+msgid "Placeholder Text"
+msgstr ""
+
+#: widgets/search.php:209
+msgid "Search for anything"
+msgstr ""
+
+#: widgets/search.php:216
+msgid "Search Icon Size"
+msgstr ""
+
+#: widgets/search.php:242 widgets/search.php:249
+msgid "Auto Complete"
+msgstr ""
+
+#: widgets/search.php:261
+msgid "Auto Complete Width"
+msgstr ""
+
+#: widgets/search.php:285
+msgid "Results Typography"
+msgstr ""
+
+#: widgets/search.php:295
+msgid "Styles"
+msgstr ""
+
+#: widgets/search.php:304
+msgid "Button Icon Color"
+msgstr ""
+
+#: widgets/search.php:316
+msgid "Button Icon Hover Color"
+msgstr ""
+
+#: widgets/search.php:328
+msgid "Search Background Color"
+msgstr ""
+
+#: widgets/search.php:364
+msgid "Search Input Border Color"
+msgstr ""
+
+#: widgets/search.php:376
+msgid "Search Icon Font Color"
+msgstr ""
+
+#: widgets/search.php:390
+msgid "Auto Complete Styles"
+msgstr ""
+
+#: widgets/search.php:399
+msgid "Auto Complete Font Color"
+msgstr ""
+
+#: widgets/search.php:411
+msgid "Auto Complete Background Color"
+msgstr ""
+
+#: widgets/search.php:423
+msgid "Auto Complete Hover Font Color"
+msgstr ""
+
+#: widgets/search.php:435
+msgid "Auto Complete Hover Background Color"
+msgstr ""
+
+#: widgets/search.php:479
+msgid "Default Search Page"
+msgstr ""
+
+#: widgets/service-carousel.php:42
+msgid "Service Carousel"
+msgstr ""
+
+#: widgets/service-carousel.php:118 widgets/service-grid.php:117
+msgid "Featured Image"
+msgstr ""
+
+#: widgets/service-carousel.php:159
+msgid "Services"
+msgstr ""
+
+#: widgets/service-carousel.php:175
+msgid "Initials Items"
+msgstr ""
+
+#: widgets/service-carousel.php:241
+msgid "Content Alignment"
+msgstr ""
+
+#: widgets/service-carousel.php:311
+msgid "Stage Padding"
+msgstr ""
+
+#: widgets/service-carousel.php:330
+msgid "Item Margin"
+msgstr ""
+
+#: widgets/service-grid.php:41
+msgid "Service Grid"
+msgstr ""
+
+#: widgets/service-grid.php:125 widgets/service-grid.php:290
+msgid "Icon"
+msgstr ""
+
+#: widgets/service-grid.php:204
+msgid "Grid Height (in px)"
+msgstr ""
+
+#: widgets/service-grid.php:250
+msgid "Hover Background"
+msgstr ""
+
+#: widgets/service-grid.php:264
+msgid "Popout"
+msgstr ""
+
+#: widgets/service-grid.php:265
+msgid "Fade In"
+msgstr ""
+
+#: widgets/service-grid.php:273
+msgid "Disable entrance animation for"
+msgstr ""
+
+#: widgets/service-grid.php:280
+msgid "Disable All"
+msgstr ""
+
+#: widgets/service-grid.php:299
+msgid "Icon Size (in px)"
+msgstr ""
+
+#: widgets/service-grid.php:321
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/slider-horizontal.php:42
+msgid "Horizontal Slider"
+msgstr ""
+
+#: widgets/slider-horizontal.php:118
+msgid "Images (max. 3)"
+msgstr ""
+
+#: widgets/slider-horizontal.php:126 widgets/slider-zoom.php:126
+msgid "Title Alignment"
+msgstr ""
+
+#: widgets/slider-horizontal.php:328
+msgid "Pagination Margin Top (in px)"
+msgstr ""
+
+#: widgets/slider-horizontal.php:362
+msgid "Content Background Color"
+msgstr ""
+
+#: widgets/slider-horizontal.php:422
+msgid "Text Content Width"
+msgstr ""
+
+#: widgets/slider-horizontal.php:496 widgets/timeline.php:274
+msgid "Content Typography"
+msgstr ""
+
+#: widgets/slider-horizontal.php:515
+msgid "Link font Color"
+msgstr ""
+
+#: widgets/slider-parallax.php:42
+msgid "Parallax Slider"
+msgstr ""
+
+#: widgets/slider-parallax.php:175 widgets/slider-property-clip.php:174
+#: widgets/slider-zoom.php:188
+msgid "Height"
+msgstr ""
+
+#: widgets/slider-parallax.php:280 widgets/slider-property-clip.php:291
+#: widgets/slider-zoom.php:316
+msgid "Pagination Background Color"
+msgstr ""
+
+#: widgets/slider-parallax.php:303
+msgid "Title Width"
+msgstr ""
+
+#: widgets/slider-parallax.php:353 widgets/slider-property-clip.php:369
+msgid "Description Title"
+msgstr ""
+
+#: widgets/slider-parallax.php:383
+msgid "Description Margin Top"
+msgstr ""
+
+#: widgets/slider-property-clip.php:42
+msgid "Property Clip Slider"
+msgstr ""
+
+#: widgets/slider-property-clip.php:134
+msgid "Image Alignment"
+msgstr ""
+
+#: widgets/slider-property-clip.php:248
+msgid "Default description"
+msgstr ""
+
+#: widgets/slider-property-clip.php:266 widgets/slider-zoom.php:304
+msgid "Content Background"
+msgstr ""
+
+#: widgets/slider-synchronized-carousel.php:42
+msgid "Synchronized Carousel Slider"
+msgstr ""
+
+#: widgets/slider-synchronized-carousel.php:134
+msgid "Button Title"
+msgstr ""
+
+#: widgets/slider-synchronized-carousel.php:181
+msgid "Number"
+msgstr ""
+
+#: widgets/slider-synchronized-carousel.php:190
+msgid "Number Color"
+msgstr ""
+
+#: widgets/slider-synchronized-carousel.php:203
+msgid "Number Typography"
+msgstr ""
+
+#: widgets/slider-zoom.php:42
+msgid "Zoom Slider"
+msgstr ""
+
+#: widgets/slider-zoom.php:281
+msgid "Background Overlay Opacity"
+msgstr ""
+
+#: widgets/slider-zoom.php:340
+msgid "Title Width (in %)"
+msgstr ""
+
+#: widgets/slider-zoom.php:363
+msgid "Title Margin Top (in %)"
+msgstr ""
+
+#: widgets/testimonial-carousel.php:42
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: widgets/testimonial-carousel.php:134 widgets/testimonial-carousel.php:271
+#: widgets/testimonial-slider.php:134 widgets/testimonial-slider.php:268
+msgid "Client Name"
+msgstr ""
+
+#: widgets/testimonial-carousel.php:143 widgets/testimonial-slider.php:151
+msgid "Testimonials"
+msgstr ""
+
+#: widgets/testimonial-carousel.php:204 widgets/testimonial-slider.php:200
+msgid "Card"
+msgstr ""
+
+#: widgets/testimonial-carousel.php:213 widgets/testimonial-slider.php:233
+msgid "Card Background Color"
+msgstr ""
+
+#: widgets/testimonial-carousel.php:225
+msgid "Card Border Color"
+msgstr ""
+
+#: widgets/testimonial-carousel.php:261 widgets/testimonial-slider.php:258
+msgid "Card Shadow"
+msgstr ""
+
+#: widgets/testimonial-carousel.php:280 widgets/testimonial-slider.php:277
+msgid "Client Name Color"
+msgstr ""
+
+#: widgets/testimonial-carousel.php:293 widgets/testimonial-slider.php:290
+msgid "Name Typography"
+msgstr ""
+
+#: widgets/testimonial-slider.php:42
+msgid "Testimonial Slider"
+msgstr ""
+
+#: widgets/testimonial-slider.php:142
+msgid "Client Description"
+msgstr ""
+
+#: widgets/testimonial-slider.php:300
+msgid "Client Position"
+msgstr ""
+
+#: widgets/testimonial-slider.php:309
+msgid "Client Position Color"
+msgstr ""
+
+#: widgets/testimonial-slider.php:322
+msgid "Position Typography"
+msgstr ""
+
+#: widgets/testimonial-slider.php:398
+msgid "Navigation Hover Background Color"
+msgstr ""
+
+#: widgets/testimonial-slider.php:410
+msgid "Navigation Hover Color"
+msgstr ""
+
+#: widgets/testimonial-slider.php:422
+msgid "Navigation Position"
+msgstr ""
+
+#: widgets/timeline.php:39
+msgid "Timeline"
+msgstr ""
+
+#: widgets/timeline.php:205
+msgid "Bullet Background Color"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Add New Event"
+#~ msgstr "Add New Gallery"
+
+#, fuzzy
+#~ msgid "Add New Event Category"
+#~ msgstr "Add New Gallery"
+
+#~ msgid "Remove"
+#~ msgstr "Remove"
+
+#, fuzzy
+#~ msgid "Leave A Reply"
+#~ msgstr "Leave a Reply"
+
+#, fuzzy
+#~ msgid "Cancel"
+#~ msgstr "Leave a Reply"
+
+#, fuzzy
+#~ msgid "Cancel Reply"
+#~ msgstr "Leave a Reply"

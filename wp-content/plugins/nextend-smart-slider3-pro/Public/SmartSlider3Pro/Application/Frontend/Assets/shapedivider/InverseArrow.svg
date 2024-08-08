@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 50" preserveAspectRatio="none">
+    <path fill='#000000' duration="2"
+          d="M960,6 L960,6 L1920,6 L1920,-2 L0,-2 L0,6 L960,6z"
+          to-d="M960,6 L990,40 L1920,40 L1920,-2 L0,-2 L0,40 L930,40z"></path>
+</svg>

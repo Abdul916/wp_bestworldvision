@@ -1,0 +1,234 @@
+@font-face {
+  font-family: 'wprev_font';
+  src:  url('fonts/wprev_font.eot?mpa22m');
+  src:  url('fonts/wprev_font.eot?mpa22m#iefix') format('embedded-opentype'),
+    url('fonts/wprev_font.ttf?mpa22m') format('truetype'),
+    url('fonts/wprev_font.woff?mpa22m') format('woff'),
+    url('fonts/wprev_font.svg?mpa22m#wprev_font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="wprevicon-"], [class*=" wprevicon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'wprev_font' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.wprevicon-star-empty:before {
+  content: "\e9d7";
+}
+.wprevicon-star-half:before {
+  content: "\e9d8";
+}
+.wprevicon-star-full:before {
+  content: "\e9d9";
+}
+
+.wppro_badge1_DIV_1 {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 8px 0px;
+    box-sizing: border-box;
+    color: rgb(102, 102, 102);
+    left: 0px;
+    max-width: 100%;
+    overflow-wrap: break-word;
+    position: relative;
+    right: 0px;
+    text-decoration: none solid rgb(102, 102, 102);
+    text-size-adjust: 100%;
+    top: 0px;
+    width: 100%;
+    word-wrap: break-word;
+    column-rule-color: rgb(102, 102, 102);
+    perspective-origin: 171.359px 66px;
+    transform-origin: 171.359px 66px;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    outline: rgb(102, 102, 102) none 0px;
+    border-top: 5px solid #618cff;
+    border-bottom: 5px solid #ffffff;
+    border-radius: 0px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+	margin-top: 10px;
+    margin-bottom: 10px;
+}
+.wppro_badge1_DIV_1 a {
+  box-shadow: 0 0px 0 0 currentColor !important;
+}
+.wppro_badge1_DIV_2 {
+    box-sizing: border-box;
+    color: rgb(102, 102, 102);
+    overflow-wrap: break-word;
+    text-decoration: none solid rgb(102, 102, 102);
+    text-size-adjust: 100%;
+    width: auto;
+    word-wrap: break-word;
+    column-rule-color: rgb(102, 102, 102);
+    perspective-origin: 151.359px 48.5px;
+    transform-origin: 151.359px 48.5px;
+    caret-color: rgb(102, 102, 102);
+    border: 0px none rgb(102, 102, 102);
+    font: normal normal 400 normal 15px / 24px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    outline: rgb(102, 102, 102) none 0px;
+}/*#wppro_badge1_DIV_2*/
+
+.wppro_badge1_IMG_3 {
+    box-sizing: border-box;
+    color: rgb(102, 102, 102);
+    display: block;
+    float: left;
+    height: 50px;
+    max-width: 100%;
+    overflow-wrap: break-word;
+    text-decoration: none solid rgb(102, 102, 102);
+    text-size-adjust: 100%;
+    vertical-align: middle;
+    /*width: 50px;*/
+    word-wrap: break-word;
+    column-rule-color: rgb(102, 102, 102);
+    perspective-origin: 25px 25px;
+    transform-origin: 25px 25px;
+    caret-color: rgb(102, 102, 102);
+    border: 0px none rgb(102, 102, 102);
+    margin: 3px 20px 0px 0px;
+    outline: rgb(102, 102, 102) none 0px;
+}/*#wppro_badge1_IMG_3*/
+
+img.wppro_badge1_IMG_4 {
+    margin-right: 10px;
+	margin-right: 10px;
+    display: unset !important;
+    text-decoration: none;
+}
+.wppro_badge1_SPAN_4 {
+    box-sizing: border-box;
+    clear: both;
+    overflow-wrap: break-word;
+    text-decoration: none solid rgb(102, 102, 102);
+    text-size-adjust: 100%;
+    word-wrap: break-word;
+    column-rule-color: rgb(102, 102, 102);
+    caret-color: rgb(102, 102, 102);
+    border: 0px none rgb(102, 102, 102);
+    outline: rgb(102, 102, 102) none 0px;
+    font-size: 18px;
+    font-weight: 700;
+}/*#wppro_badge1_SPAN_4*/
+
+.wppro_badge1_DIV_5 {
+    box-sizing: border-box;
+    color: rgb(102, 102, 102);
+    overflow-wrap: break-word;
+    text-decoration: none solid rgb(102, 102, 102);
+    text-size-adjust: 100%;
+    width: auto;
+    word-wrap: break-word;
+    column-rule-color: rgb(102, 102, 102);
+    perspective-origin: 151.359px 32px;
+    transform-origin: 151.359px 32px;
+    caret-color: rgb(102, 102, 102);
+    border: 0px none rgb(102, 102, 102);
+    font: normal normal 400 normal 15px / 24px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    outline: rgb(102, 102, 102) none 0px;
+}/*#wppro_badge1_DIV_5*/
+
+.wppro_badge1_DIV_stars {
+    bottom: 0px;
+    box-sizing: border-box;
+    color: #618cff;
+    height: 27px;
+    left: 0px;
+    overflow-wrap: break-word;
+    position: relative;
+    right: 0px;
+    text-decoration: none solid rgb(102, 102, 102);
+    text-size-adjust: 100%;
+    top: 0px;
+    width: auto;
+    word-wrap: break-word;
+    column-rule-color: rgb(102, 102, 102);
+    perspective-origin: 151.359px 13.5px;
+    transform-origin: 151.359px 13.5px;
+    caret-color: rgb(102, 102, 102);
+    border: 0px none rgb(102, 102, 102);
+    outline: rgb(102, 102, 102) none 0px;
+    font-size: 22px;
+    margin-top: 6px;
+}/*#wppro_badge1_DIV_stars*/
+
+.wppro_badge1_DIV_12 {
+	box-sizing: border-box;
+    clear: both;
+    overflow-wrap: break-word;
+    text-decoration: none solid rgb(102, 102, 102);
+    text-size-adjust: 100%;
+    width: auto;
+    word-wrap: break-word;
+    column-rule-color: rgb(102, 102, 102);
+    perspective-origin: 151.359px 16px;
+    transform-origin: 151.359px 16px;
+    border: 0px none rgb(102, 102, 102);
+    margin: 8px 0px 0px;
+    outline: rgb(102, 102, 102) none 0px;
+}/*#wppro_badge1_DIV_12*/
+.wppro_badge1_DIV_13 {
+	box-sizing: border-box;
+    clear: both;
+    overflow-wrap: break-word;
+    text-decoration: none solid rgb(102, 102, 102);
+    text-size-adjust: 100%;
+    width: auto;
+    word-wrap: break-word;
+    column-rule-color: rgb(102, 102, 102);
+    perspective-origin: 151.359px 16px;
+    transform-origin: 151.359px 16px;
+    border: 0px none rgb(102, 102, 102);
+    margin: 10px 0px 0px;
+    outline: rgb(102, 102, 102) none 0px;
+}/*#wppro_badge1_DIV_12*/
+
+.wppro_badge1_SPAN_13 {
+    box-sizing: border-box;
+    color: rgb(64, 128, 255);
+    overflow-wrap: break-word;
+    text-decoration: none solid rgb(64, 128, 255);
+    text-size-adjust: 100%;
+    word-wrap: break-word;
+    column-rule-color: rgb(64, 128, 255);
+    caret-color: rgb(64, 128, 255);
+    border: 0px none rgb(64, 128, 255);
+    font-size: 20px;
+    font-weight: 700;
+    outline: rgb(64, 128, 255) none 0px;
+}/*#wppro_badge1_SPAN_13*/
+
+.wppro_badge1_A_14 {
+    color: unset;
+    overflow-wrap: break-word;
+    text-decoration: underline solid rgb(102, 102, 102);
+    text-size-adjust: 100%;
+    word-wrap: break-word;
+}/*#wppro_badge1_A_14*/
+
+.wppro_badge1_SPAN_15 {
+    box-sizing: border-box;
+    overflow-wrap: break-word;
+    text-decoration: none solid rgb(102, 102, 102);
+    text-size-adjust: 100%;
+    word-wrap: break-word;
+    column-rule-color: rgb(102, 102, 102);
+    caret-color: rgb(102, 102, 102);
+    border: 0px none rgb(102, 102, 102);
+    outline: rgb(102, 102, 102) none 0px;
+}/*#wppro_badge1_SPAN_15*/

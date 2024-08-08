@@ -1,0 +1,43 @@
+(~'div#@{sliderid}') {
+  .nextend-arrow-imagebar {
+    cursor: pointer;
+    z-index: 20;
+    overflow: hidden;
+    height: 100%;
+    position: relative;
+  }
+
+  .nextend-arrow-imagebar .nextend-arrow-arrow {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 48px auto;
+    z-index: 2;
+  }
+
+  .nextend-arrow-imagebar .nextend-arrow-image {
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    height: 80%;
+    background-size: cover;
+    background-position: 50% 50%;
+    transition: transform 0.4s, opacity 0.4s;
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+
+  .nextend-arrow-imagebar.nextend-arrow-next .nextend-arrow-image {
+    transform: translateX(100%);
+  }
+
+  .nextend-arrow-imagebar:HOVER .nextend-arrow-image:not(.nextend-arrow-image--locked),
+  .nextend-arrow-imagebar:FOCUS .nextend-arrow-image:not(.nextend-arrow-image--locked) {
+    opacity: 1;
+    transform: translateX(0%);
+  }
+}

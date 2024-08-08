@@ -1,0 +1,65 @@
+{
+    "name": "edgedesign/phpqa",
+    "type": "library",
+    "description": "Analyze PHP code with one command.",
+    "keywords": ["QA", "code analysis", "static analysis"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zdenek Drahos",
+            "email": "drahoszdenek@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/EdgedesignCZ/phpqa/issues",
+        "source": "https://github.com/EdgedesignCZ/phpqa",
+        "docs": "https://edgedesigncz.github.io/phpqa/"
+    },
+    "bin": ["phpqa"],
+    "require": {
+        "php": ">=5.4",
+        "ext-xsl": "*",
+        "consolidation/robo": "~0.5|>=1",
+        "phpmd/phpmd" : "*",
+        "phploc/phploc": "*",
+        "symfony/dependency-injection": ">=2.8.50",
+        "symfony/filesystem": ">=2.8",
+        "symfony/process": ">=2.8",
+        "symfony/finder": ">=2.8",
+        "symfony/yaml": ">=2.8",
+        "twig/twig": "~1.38|~2.7|~3",
+        "pdepend/pdepend": "*",
+        "sebastian/phpcpd": "*",
+        "squizlabs/php_codesniffer": "*",
+        "phpmetrics/phpmetrics": "*"
+    },
+    "suggest": {
+        "enlightn/security-checker": "Check composer.lock for known security issues",
+        "friendsofphp/php-cs-fixer": "A tool to automatically fix PHP coding standards issues",
+        "phpunit/phpunit": "The PHP Unit Testing framework",
+        "phpstan/phpstan": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+        "vimeo/psalm": "A static analysis tool for finding errors in PHP applications",
+        "php-parallel-lint/php-parallel-lint": "Check PHP syntax",
+        "php-parallel-lint/php-console-highlighter": "Colored output in parallel-lint",
+        "qossmic/deptrac-shim": "Enforce rules for dependencies between software layers"
+    },
+    "require-dev": {
+        "hamcrest/hamcrest-php": ">=2.0.1",
+        "phpunit/phpunit": ">=4.8.28"
+    },
+    "autoload": {
+        "psr-4": {
+            "Edge\\QA\\": "src"
+        },
+        "files": ["src/report.php", "src/paths.php"]
+    },
+    "autoload-dev": {
+        "files": [
+            "tests/.phpunit/fix-testcase.php",
+            "vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest.php"
+        ]
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}

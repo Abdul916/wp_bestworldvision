@@ -1,0 +1,26 @@
+(~'div#@{sliderid}') {
+  .n2-ss-item-countdown_container {
+    --columns: var(--ss-counter-columns, 4);
+    --gap-v: var(--ss-counter-gap-v, 10px);
+    --gap-h: var(--ss-counter-gap-h, 10px);
+
+    display: grid;
+
+    grid-template-columns: repeat(var(--columns), minmax(0, 1fr));
+    grid-gap: var(--gap-v) var(--gap-h);
+  }
+
+  &.n2-ss-tabletLandscape .n2-ss-item-countdown_container,
+  &.n2-ss-tabletPortrait .n2-ss-item-countdown_container {
+    --columns: var(--ss-counter-tablet-columns, var(--ss-counter-columns));
+    --gap-v: var(--ss-counter-tablet-gap-v, var(--ss-counter-gap-v));
+    --gap-h: var(--ss-counter-tablet-gap-h, var(--ss-counter-gap-h));
+  }
+
+  &.n2-ss-mobileLandscape .n2-ss-item-countdown_container,
+  &.n2-ss-mobilePortrait .n2-ss-item-countdown_container {
+    --columns: var(--ss-counter-mobile-columns, var(--ss-counter-columns));
+    --gap-v: var(--ss-counter-mobile-gap-v, var(--ss-counter-gap-v));
+    --gap-h: var(--ss-counter-mobile-gap-h, var(--ss-counter-gap-h));
+  }
+}

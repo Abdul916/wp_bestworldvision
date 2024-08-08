@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 100" preserveAspectRatio="none">
+    <path fill='#000000' ease="easeOutQuad" duration="2"
+          d="M1920,-2 L1920,0 L960,40 L0,0 L0,-2z"
+          to-d="M1920,-2 L1920,100 L960,10 L0,100 L0,-2z"></path>
+</svg>

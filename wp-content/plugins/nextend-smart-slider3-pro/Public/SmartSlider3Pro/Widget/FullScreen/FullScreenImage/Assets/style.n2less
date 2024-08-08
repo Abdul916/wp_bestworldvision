@@ -1,0 +1,33 @@
+(~'div#@{sliderid}') {
+  .n2-full-screen-widget {
+    cursor: pointer;
+    z-index: 16;
+    line-height: 1;
+  }
+
+  .n2-full-screen-widget img {
+    display: block;
+  }
+
+  .n2-full-screen-widget .n2-full-screen-widget-to-normal {
+    display: none;
+  }
+
+  .n2-full-screen-widget.n2-active .n2-full-screen-widget-to-normal {
+    display: block;
+  }
+
+  .n2-full-screen-widget.n2-active .n2-full-screen-widget-to-full {
+    display: none;
+  }
+}
+
+:-webkit-full-screen .n2-padding > div {
+  margin: auto !important;
+  float: none !important;
+}
+
+:fullscreen .n2-padding > div {
+  margin: auto !important;
+  float: none !important;
+}

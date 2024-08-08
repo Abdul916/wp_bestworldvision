@@ -1,0 +1,5786 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Review Slider Pro\n"
+"POT-Creation-Date: 2024-07-01 19:53-0500\n"
+"PO-Revision-Date: 2019-08-13 12:12-0500\n"
+"Last-Translator: \n"
+"Language-Team: ljapps.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x;number_format_i18n;date_i18n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-wp-review-slider-pro-admin.php:349
+msgid "Syncing Reviews"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:350
+msgid "Copying WooCommerce reviews in to this plugin database."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:379 admin/class-wp-review-slider-pro-admin.php:472 admin/class-wp-review-slider-pro-admin.php:530
+#: admin/class-wp-review-slider-pro-admin.php:598 admin/class-wp-review-slider-pro-admin.php:661 admin/class-wp-review-slider-pro-admin.php:719
+#: admin/class-wp-review-slider-pro-admin.php:743 admin/class-wp-review-slider-pro-admin.php:793 admin/class-wp-review-slider-pro-admin.php:870
+msgid "Tips"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:380
+msgid ""
+"<p>- If you're using the pro version you can hide certain reviews by clicking the <i class=\"dashicons dashicons-visibility text_green\" aria-hidden=\"true\"></i> in the table "
+"below. There are also ways to hide certain types of reviews under the Templates page.</p><p><b>- Remove Reviews:</b> Allows you to delete reviews in your Wordpress database "
+"and start over. It Does NOT affect your reviews on the source site like Facebook.</p><p><b>- Manually Add Review:</b> Allows you to manaully insert a review in to your "
+"Wordpress database.</p><p><b>- Download a CSV File:</b> Save a CSV file to your computer containing all the reviews in this table.</p>"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:381
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:382
+msgid ""
+"<p>This will delete reviews in your Wordpress database including the ones you manually entered. It Does NOT affect your reviews on the original Social Pages.</p><p>If you are "
+"using a template where you individually selected the reviews, then you will need to redo it.</p><p><b>Remove by type...</b>"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:383
+msgid "<b>Remove by page...</b>"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:384 public/partials/wp-review-slider-pro-public-display.php:305
+msgid "All Reviews"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:385
+msgid "Upgrade Needed"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:386
+msgid "Please upgrade to the Pro Version of this Plugin to access this feature."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:387
+msgid "Upgrade Here"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:388
+msgid "Oops! Unable to hide this review. Please contact support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:389
+msgid "Oops! Unable to delete this review. Please contact support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:390 admin/partials/badges.php:496 admin/partials/float.php:359 admin/partials/forms.php:253 admin/partials/get_apps.php:1428
+#: admin/partials/get_twitter.php:505 admin/partials/get_twitter.php:507 admin/partials/notifications.php:600 admin/partials/reviewfunnel.php:770
+#: admin/partials/templates_posts.php:878
+msgid "Delete"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:391 admin/partials/badges.php:496 admin/partials/float.php:359 admin/partials/forms.php:253 admin/partials/get_apps.php:1428
+#: admin/partials/get_twitter.php:505 admin/partials/get_twitter.php:507 admin/partials/notifications.php:600 admin/partials/reviewfunnel.php:770
+#: admin/partials/templates_posts.php:878
+msgid "Edit"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:392 admin/partials/badges.php:496 admin/partials/float.php:359 admin/partials/forms.php:253 admin/partials/get_apps.php:1428
+#: admin/partials/get_twitter.php:507 admin/partials/notifications.php:600 admin/partials/reviewfunnel.php:770 admin/partials/templates_posts.php:878
+msgid "Copy"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:393
+msgid "Review Response"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:394
+#, php-format
+msgid ""
+"No reviews found. Please visit the %1$sGet Reviews%2$s page to retrieve reviews. If you've already downloaded reviews and they are not showing, then go de-activate and re-"
+"activate this plugin. That will force the database tables to update. "
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:395
+msgid "Total Reviews"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:396
+msgid "Oops! Unable to update the sort weight. Please contact support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:406 admin/class-wp-review-slider-pro-admin.php:493 admin/class-wp-review-slider-pro-admin.php:555
+#: admin/class-wp-review-slider-pro-admin.php:643 admin/class-wp-review-slider-pro-admin.php:700 admin/class-wp-review-slider-pro-admin.php:766
+#: admin/class-wp-review-slider-pro-admin.php:886
+msgid "Pick the Categories"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:407 admin/class-wp-review-slider-pro-admin.php:494 admin/class-wp-review-slider-pro-admin.php:556
+#: admin/class-wp-review-slider-pro-admin.php:644 admin/class-wp-review-slider-pro-admin.php:701 admin/class-wp-review-slider-pro-admin.php:767
+#: admin/class-wp-review-slider-pro-admin.php:887
+msgid "Pick the Post IDs"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:408 admin/class-wp-review-slider-pro-admin.php:495 admin/class-wp-review-slider-pro-admin.php:557
+#: admin/class-wp-review-slider-pro-admin.php:645 admin/class-wp-review-slider-pro-admin.php:702 admin/class-wp-review-slider-pro-admin.php:768
+#: admin/class-wp-review-slider-pro-admin.php:888
+msgid "Pick the Pages"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:409 admin/class-wp-review-slider-pro-admin.php:496 admin/class-wp-review-slider-pro-admin.php:558
+#: admin/class-wp-review-slider-pro-admin.php:646 admin/class-wp-review-slider-pro-admin.php:703 admin/class-wp-review-slider-pro-admin.php:769
+#: admin/class-wp-review-slider-pro-admin.php:889
+msgid "Oops, please contact support. Error getting"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:435 admin/class-wp-review-slider-pro-admin.php:959
+msgid "Location Filter"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:436 admin/class-wp-review-slider-pro-admin.php:960
+msgid "Type Filter"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:437
+msgid "Error accessing language function via ajax. Please refresh page and try again or contact support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:438
+msgid "Detecting the language of"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:439
+msgid "total reviews"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:440
+msgid "Can't determine language of this review:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:441
+msgid "Checking next reviews..."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:442
+msgid "Finished checking all reviews."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:443
+msgid "Done. No reviews found that do not already have language specified. The language code should be displayed on the Review List page under the Word Count column."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:444 admin/class-wp-review-slider-pro-admin.php:612 admin/class-wp-review-slider-pro-admin.php:974
+msgid "Error returning json object. Please try again or contact us and copy and send us the following:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:445 admin/partials/float.php:258 admin/partials/get_apps.php:586 admin/partials/get_twitter.php:273
+#: admin/partials/notifications.php:326 admin/partials/reviewfunnel.php:330 admin/partials/templates_posts.php:749 admin/partials/templates_posts.php:761
+msgid "Error"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:446 admin/partials/notifications.php:552
+msgid "Updated"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:447 admin/class-wp-review-slider-pro-admin.php:542 admin/partials/badges.php:759 public/partials/banner_style_1.php:29
+#: public/partials/wp-review-slider-pro-public-display.php:305
+msgid "reviews"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:448
+msgid "Select Roles"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:473
+msgid "This page will let you create multiple Reviews Templates that you can then add to your Posts or Pages via a shortcode or template function."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:474 admin/class-wp-review-slider-pro-admin.php:532 admin/class-wp-review-slider-pro-admin.php:795
+msgid "Widget Instructions"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:475
+msgid "To display this in your Sidebar or other Widget areas, add the WP Reviews widget under Appearance > Widgets, and then select this template in the drop down."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:476 admin/class-wp-review-slider-pro-admin.php:534 admin/class-wp-review-slider-pro-admin.php:797
+#: admin/class-wp-review-slider-pro-admin.php:872
+msgid "How to Display"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:477 admin/class-wp-review-slider-pro-admin.php:798
+msgid "Enter this shortcode on a post/page or text widget:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:478
+msgid "Or you can use one of the following php codes in your template:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:479 admin/partials/get_apps.php:143
+msgid "or"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:480 admin/partials/review_list.php:295
+msgid "more info"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:481
+msgid "Review Selected"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:482 admin/partials/templates_posts.php:2308
+msgid "Reviews Selected"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:483 admin/class-wp-review-slider-pro-admin.php:830 admin/partials/forms.php:294 admin/partials/templates_posts.php:1283
+#: admin/partials/templates_posts.php:1288 admin/partials/templates_posts.php:1295
+msgid "Show"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:484
+msgid "icons to show..."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:531
+msgid ""
+"This page will let you create multiple Badges that you can then add to your site via a shortcode, or widget. A Badge is a way to display a quick summary of your social reviews."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:533 admin/class-wp-review-slider-pro-admin.php:796
+msgid "To display this in your Sidebar or other Widget areas, add the WP Reviews Badges widget under Appearance > Widgets, and then select this badge in the drop down."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:535
+msgid "Enter this shortcode on a post/page or a text widget:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:536
+msgid "Or you can add one of the following php codes to your theme:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:537
+msgid "If you would like to output just the total or average click"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:538
+msgid "here"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:539
+msgid "You can now use parameters in the shortcode, more info "
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:540 admin/partials/badges.php:755
+msgid "Stars - Based on"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:541 admin/partials/badges.php:756
+msgid "User Reviews"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:543
+msgid "Please enter a title."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:544
+msgid "Please select at least one location."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:545
+msgid "Choose the review orgin page or leave blank to select all of this type."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:599
+msgid ""
+"This page will let you create multiple Review Funnels that will allow you to scrape reviews from multiple sites. <br><br><b>Note:</b> Review Funnels use a third party service "
+"to download reviews, so you are limited to 2,000 reviews per a year per a site. You must also have an active license for this plugin."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:600
+msgid "Download Reviews"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:601
+msgid "still working..."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:602 admin/class-wp-review-slider-pro-admin.php:609 admin/class-wp-review-slider-pro-admin.php:614
+#: admin/class-wp-review-slider-pro-admin.php:665
+msgid "Error returning reviews for this url, please try again or contact support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:603
+msgid "Please try again. Check console for more details. Error returning json object:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:604
+msgid "No new reviews scraped."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:605
+msgid "No reviews scraped. Check the review funnel settings."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:606
+msgid "No previous scrape jobs found. Use the \"Request New Scrape\" button above to request one."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:607
+msgid "Please try again. Error returning json object:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:608
+msgid "Error using ajax to return scrape jobs, please try again or contact support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:610
+#, php-format
+msgid "Success! Please check back in a few minutes or use the %1$s below. The job should show up in the list below."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:611
+msgid "Error adding this scrape job. Please try again or contact us and copy and send us the following:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:613 admin/class-wp-review-slider-pro-admin.php:620
+msgid "Error using ajax to return reviews, please try again or contact support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:615 admin/class-wp-review-slider-pro-admin.php:666
+msgid "Reviews returned."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:616 admin/class-wp-review-slider-pro-admin.php:667
+msgid "New Reviews inserted in to your database."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:617 admin/class-wp-review-slider-pro-admin.php:668
+msgid "They should now show up on the Review List page."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:618
+msgid "Error: No Reviews returned from this scrape job. Please see javascript console for more details. Right-click > inspect, look for console window."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:619 admin/class-wp-review-slider-pro-admin.php:671 admin/class-wp-review-slider-pro-admin.php:751
+msgid "Error returning json object:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:621 admin/class-wp-review-slider-pro-admin.php:673
+msgid "Please enter a unique Place Name."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:622 admin/class-wp-review-slider-pro-admin.php:674
+msgid "Please enter the URL."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:623
+msgid "The Review Site does not match the Review URL."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:624
+msgid "Please enter at least 2 Google Search Terms."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:625
+msgid "Please enter the Number of Reviews to Return."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:626
+msgid "Note: This currently only works for App reviews."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:627
+msgid "Note: Should be shop URL for Etsy."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:628
+msgid "Note: BBB should not have /customer-reviews at the end of URL."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:629
+msgid "Note: Healthgrades requires single doctor/physician url, it can not use the group reviews page url."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:630
+msgid "Note: Airbnb - Currently only rooms are supported. To download reviews for experiences then you would need to use the Get Reviews > Airbnb."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:631
+msgid "Example URL: https://www.google.com/shopping/ratings/account/metrics?q=outbax.com.au&c=AU&v=17"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:632
+#, php-format
+msgid ""
+"<b>Warning:</b> Trustpilot does not legally allow you to display their reviews unless you use one of their widgets. They have forced me to remove Trustpilot icons from this "
+"plugin. Use at your own risk. More info %1$s. "
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:662
+msgid "This page will let you download reviews from multiple source pages."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:663
+msgid "Downloading Reviews"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:664
+msgid "Please enter your Nextdoor cookie value."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:669
+msgid "No new reviews found. Check the Review List for your reviews."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:670
+msgid "Error: No Reviews returned. Please see javascript console for more details. Right-click > inspect, look for console window."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:672
+msgid ""
+"Error using ajax to return some reviews. This could be a temporary issue. First check the Review List to see if they were downloaded. If they were not, please try again or use "
+"a Review Funnel. Contact support with questions."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:675
+msgid "Please click the \"Save & Test\" button above"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:676
+msgid "There is a limit of 100 locations with this download method."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:677
+msgid "Please enter and save API Key."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:678
+msgid "Found review page, now looking for reviews..."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:679
+msgid "Done"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:681
+msgid "Downloaded so far:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:682
+msgid "Finished! The reviews should now show up on the Review List page of the plugin."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:683
+msgid "No new reviews found."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:684
+msgid " Please use the button above to enter or modify your access code."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:685
+msgid " Please select a Facebook page."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:686
+msgid "<br>Finished searching for new reviews."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:687
+msgid "Retrieve Reviews"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:688 admin/class-wp-review-slider-pro-admin.php:1402 admin/class-wp-review-slider-pro-admin.php:1970 admin/partials/badges.php:941
+#: admin/partials/badges.php:950 admin/partials/badges.php:1012 admin/partials/badges.php:1179 admin/partials/float.php:739 admin/partials/float.php:779
+#: admin/partials/forms.php:448 admin/partials/forms.php:491 admin/partials/forms.php:503 admin/partials/get_apps.php:1225 admin/partials/get_twitter.php:408
+#: admin/partials/notifications.php:1062 admin/partials/templates_posts.php:1268 admin/partials/templates_posts.php:1302 admin/partials/templates_posts.php:1531
+#: admin/partials/templates_posts.php:1562 admin/partials/templates_posts.php:1574 admin/partials/templates_posts.php:1590 admin/partials/templates_posts.php:1660
+#: admin/partials/templates_posts.php:1783 admin/partials/templates_posts.php:1877 admin/partials/templates_posts.php:1993 admin/partials/templates_posts.php:2127
+#: admin/partials/templates_posts.php:2155 admin/partials/templates_posts.php:2707 admin/partials/templates_posts.php:2724 admin/partials/templates_posts.php:2867
+#: admin/partials/templates_posts.php:3094
+msgid "Yes"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:689
+msgid "Oops, no Facebook pages found. Please try again or contact us for help."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:720
+msgid "Choose the type of reviews you want to download."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:721
+msgid "Choose Download Method"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:744
+msgid "This page will let you search for and download twitter posts."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:745
+msgid "Error using ajax to save tweet, please try again or contact support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:746
+msgid "Error using ajax to delete tweet, please try again or contact support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:747
+msgid "Download Tweets"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:748
+msgid "Error returning tweets for this query, please try again or contact support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:749
+msgid "download tweet"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:750
+msgid "remove tweet from Plugin"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:752
+msgid "Error using ajax to return tweets, please try again or contact support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:753
+msgid "Please enter valide API Keys first."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:754
+msgid "Please enter a unique Form Title."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:755
+msgid "Likes"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:756
+msgid "Replies"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:757
+msgid "Retweets"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:794
+msgid ""
+"This page will let you create multiple front end submission forms that you can then add to your site via a shortcode, or widget. You can use the form to collect reviews or "
+"testimonials for your site."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:799
+msgid "To create a special pop-up only link, use this shortcode:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:800
+msgid "To make a form auto-popup by url variable, use this shortcode:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:801
+msgid "Then the form will only appear if the URL has the wppl=yes or review=1. For example:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:802
+msgid "The form will only auto-popup if the URL has the wppl=auto or review=2. For example:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:803
+msgid "This is useful for creating an auto-popup form that you only want to show certain people."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:804
+msgid "The difference between wppl=auto and wppl=yes is that wppl=auto will leave the form button on the page."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:805
+msgid "To create tags based on URL you can use the wrtg variable in the URL."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:806
+msgid "For example if I have a form on this page..."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:807
+msgid "That will save \"tag1\" as a tag with the form submission. You can also do multiple tags..."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:808
+msgid "Upload Review Logo"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:809 admin/partials/forms.php:262
+msgid "Create New Submission Form:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:810
+msgid "Edit Submission Form:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:811
+msgid "Error returning form values, please contact support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:812
+msgid "Error using ajax to return form data, please contact support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:813
+msgid "Stars"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:814
+msgid "Up is 5 stars. Down is 2 stars."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:815
+msgid "star rating"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:816 admin/partials/templates_posts.php:3387
+msgid "Link"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:817 admin/partials/templates_posts.php:1665
+msgid "Button"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:818
+msgid "Small Icon"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:819
+msgid "Large Icon"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:820
+msgid "rest of form when showing links."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:821
+msgid "click to open or close"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:822
+msgid "drag and drop to reorder"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:823
+msgid "Require this field for form submission."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:824
+msgid "Show this label on the form."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:825
+msgid "Default Form Value"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:826
+msgid "Populate the field with this value."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:827
+msgid "Default Submit Value"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:828
+msgid "Save this value with the testimonial if one is not input."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:829
+msgid "Hide this field from the form."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:831 admin/partials/forms.php:295 admin/partials/review_list.php:753 admin/partials/templates_posts.php:1284
+#: admin/partials/templates_posts.php:1289 admin/partials/templates_posts.php:1296
+msgid "Hide"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:832
+msgid "Required"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:833
+msgid "Placeholder"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:834
+msgid "Before"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:835
+msgid "After"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:836
+msgid "Error saving form values, please contact support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:837
+msgid "Error using ajax to save form data, please contact support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:838 admin/partials/templates_posts.php:1248
+msgid "Default"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:839 admin/partials/forms.php:365
+msgid "Button 1"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:840 admin/partials/forms.php:366
+msgid "Button 2"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:871
+msgid "This page will let you create a Floating Badge, Review Slider, or Review Pop-up! You can stick it to the bottom or top of your pages."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:873
+msgid ""
+"There are two ways to display a float. <p>1) Use the Show on Pages: and Show on Posts: setting when creating the Float.</p><p>2) Enter this shortcode on a post or page:</p>"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:874
+msgid "Please allow popups for this website"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:875
+msgid "Please enter a Link to URL value."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:876
+msgid "Error returning float values, please contact support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:877
+msgid "Error using ajax to return float data, please contact support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:878
+msgid "Error using ajax to return slideout data, please contact support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:961
+msgid "Today"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:962
+msgid "Yesterday"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:963
+msgid "Last 7 Days"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:964
+msgid "Last 30 Days"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:965
+msgid "Last 60 Days"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:966
+msgid "Last 90 Days"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:967
+msgid "This Month"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:968
+msgid "Last Month"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:969
+msgid "This Year"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:970
+msgid "Last Year"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:971
+msgid "All Time"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:972
+msgid "Error accessing language function via ajax."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:973
+msgid "Ratings"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:975
+msgid "Overall Ratings (Old >> New)"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:976
+msgid "Review Response:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:977 admin/class-wp-review-slider-pro-admin_hooks.php:4586 admin/partials/float.php:320 admin/partials/getrevs.php:205
+#: admin/partials/review_list.php:760 admin/partials/reviewfunnel.php:714 admin/partials/templates_posts.php:3114
+msgid "Type"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:978
+msgid "Page"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:979
+msgid "Source URL"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:980
+msgid "Reviewer URL"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:981
+msgid "Review Details"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1333
+msgid "Pull WooCommerce:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1343
+msgid "Pull Type:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1355
+msgid "Name Options:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1367
+msgid "Default Rating:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1379
+msgid "Push WooCommerce:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1400 admin/class-wp-review-slider-pro-admin.php:1969 admin/partials/badges.php:942 admin/partials/badges.php:951
+#: admin/partials/badges.php:1013 admin/partials/badges.php:1178 admin/partials/float.php:738 admin/partials/float.php:778 admin/partials/forms.php:399
+#: admin/partials/forms.php:414 admin/partials/forms.php:447 admin/partials/forms.php:490 admin/partials/get_apps.php:1224 admin/partials/get_apps.php:1242
+#: admin/partials/get_twitter.php:407 admin/partials/notifications.php:1061 admin/partials/notifications.php:1077 admin/partials/reviewfunnel.php:649
+#: admin/partials/templates_posts.php:1225 admin/partials/templates_posts.php:1240 admin/partials/templates_posts.php:1269 admin/partials/templates_posts.php:1301
+#: admin/partials/templates_posts.php:1529 admin/partials/templates_posts.php:1566 admin/partials/templates_posts.php:1580 admin/partials/templates_posts.php:1588
+#: admin/partials/templates_posts.php:1659 admin/partials/templates_posts.php:1782 admin/partials/templates_posts.php:1874 admin/partials/templates_posts.php:1994
+#: admin/partials/templates_posts.php:2128 admin/partials/templates_posts.php:2156 admin/partials/templates_posts.php:2708 admin/partials/templates_posts.php:2722
+#: admin/partials/templates_posts.php:2866 admin/partials/templates_posts.php:3093
+msgid "No"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1406
+msgid ""
+"Use this to push reviews that are input or downloaded by this plugin back in to the WooCommerce review system. This only works when you assign a Post Id to the review when you "
+"download or when editing it on the Review List. This can be helpful if you are still using the WooCommerce review system to display stars or reviews. "
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1421
+msgid "Leave Blank"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1423 admin/partials/badges.php:935 admin/partials/notifications.php:473 admin/partials/review_list.php:241
+#: public/partials/wp-review-slider-pro-public-display-widget.php:134 public/partials/wp-review-slider-pro-public-display.php:373
+msgid "5"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1424 admin/partials/notifications.php:472 admin/partials/review_list.php:238
+#: public/partials/wp-review-slider-pro-public-display-widget.php:133 public/partials/wp-review-slider-pro-public-display.php:372
+msgid "4"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1425 admin/partials/badges.php:930 admin/partials/notifications.php:471 admin/partials/review_list.php:235
+#: public/partials/wp-review-slider-pro-public-display-widget.php:132 public/partials/wp-review-slider-pro-public-display.php:371
+msgid "3"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1426 admin/partials/badges.php:929 admin/partials/notifications.php:470 admin/partials/review_list.php:232
+#: public/partials/wp-review-slider-pro-public-display-widget.php:131 public/partials/wp-review-slider-pro-public-display.php:370
+msgid "2"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1427 admin/partials/badges.php:928 admin/partials/notifications.php:469 admin/partials/review_list.php:230
+#: public/partials/wp-review-slider-pro-public-display-widget.php:130 public/partials/wp-review-slider-pro-public-display.php:369
+msgid "1"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1430
+msgid "Use this to assign a rating value if the review/comment does not have one."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1439
+msgid "Use this page to sync your WooCommerce product reviews with this plugin and add them to the Review List page."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1439
+msgid ""
+"To create a summary of WooCommerce reviews simply go to the Templates tab and create a new template.<br>If you want to replace the default WooCommerce review system it is more "
+"involved. Instructions can be found <a href=\"https://wpreviewslider.com/how-to-use-wp-review-slider-pro-for-woocommerce-product-reviews/\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1452
+msgid "Reviews"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1453
+msgid "Comments"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1454
+msgid "Reviews & Comments"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1455 admin/partials/float.php:716 admin/partials/forms.php:338 admin/partials/forms.php:367 admin/partials/templates_posts.php:2378
+msgid "None"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1458
+msgid "Tells the plugin what type of comment to pull in to this plugin. "
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1459
+msgid "Notes:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1459
+msgid ""
+"- When you get a new WooCommerce review, it will automatically be pulled in to this plugin in the hidden state. <br>- If you approve it, then it will change to the displayed "
+"state in this plugin. <br>- If you delete it then it will be removed from this plugin. <br>- This does not work in reverse, e.g., if you delete a review from this plugin, it "
+"does not delete the original WooCommerce review."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1474
+msgid "Approved Only"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1476
+msgid "All Comments"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1479
+msgid "Use this if you want to leave Unapproved WooCommerce reviews out of this plugin."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1499
+msgid "Set this to change the way the name is saved in your database. If the first or last name can't be found, then the username will be used."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1924
+msgid "API Key"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1937
+msgid "Auto Add Language Code"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1955
+msgid "Multi-Language Detector"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1955
+msgid "Allows you to check and set the language of each review. You can then filter by language in a review template."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1973
+msgid "Automatically check reviews nightly and add language code."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1992
+msgid "Run Language Detector"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1997
+msgid "Enter your API key. Get a free key "
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin.php:1997 admin/partials/forms.php:346
+msgid "here."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:142
+msgid "Download some reviews and the latest ones will show here."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:1461
+msgid "Use as Reviewer Avatar or Logo"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:2645
+msgid "WP Review Slider Pro found the following reviews that match your notification settings."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:2653
+msgid "Social Page Name:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:2655
+msgid "Review From:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:2655
+msgid "Review URL:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:2655 admin/partials/analytics.php:204 admin/partials/review_list.php:755 admin/partials/templates_posts.php:3111
+msgid "Rating"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:2655 admin/partials/analytics.php:206 admin/partials/review_list.php:757 admin/partials/templates_posts.php:3113
+msgid "Date"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:2655 admin/class-wp-review-slider-pro-admin_hooks.php:4526 admin/class-wp-review-slider-pro-admin_hooks.php:4586
+#: admin/partials/analytics.php:203 admin/partials/review_list.php:754 admin/partials/templates_posts.php:3110
+msgid "Name"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:2655 admin/partials/templates_posts.php:3112
+msgid "Text"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:2667
+msgid "New Reviews Notification - WP Pro Review Slider"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:2681
+msgid "View in Plugin Admin"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:2681
+msgid "To turn off or modify these notifications go to the notifications page in the plugin."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:3618
+msgid "Review Inserted!"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:3620 admin/class-wp-review-slider-pro-admin_hooks.php:3674
+msgid "Oops! Something happened. "
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:3633
+msgid "Review Updated!"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:4288 admin/class-wp-review-slider-pro-admin_hooks.php:4306
+msgid "Unable to update. Try refreshing the page. If that does not work then try de-activating and re-activating the plugin."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:4291
+msgid "Template Saved!"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:4301 admin/partials/templates_posts.php:757
+msgid "Template Updated!"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:4526 admin/class-wp-review-slider-pro-admin_hooks.php:4586 admin/partials/badges.php:452 admin/partials/float.php:318
+#: admin/partials/forms.php:217 admin/partials/get_apps.php:1337 admin/partials/get_twitter.php:461 admin/partials/notifications.php:549 admin/partials/reviewfunnel.php:711
+#: admin/partials/templates_posts.php:820
+msgid "ID"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:4526
+msgid "Description"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:4526
+msgid "Slug"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:4526
+msgid "Taxonomy"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:4526
+msgid "Count"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:4532 admin/class-wp-review-slider-pro-admin_hooks.php:4592
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:4553
+msgid "Oops, unable to retrieve list of post IDs."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:4586 admin/partials/badges.php:453 admin/partials/float.php:319 admin/partials/get_twitter.php:462
+#: admin/partials/notifications.php:550 admin/partials/templates_posts.php:821
+msgid "Title"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:4586
+msgid "Modified"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:4760
+msgid "added to database."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:4772
+msgid "updated in database."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:5282
+msgid "Error 01! DB error."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:5282 admin/class-wp-review-slider-pro-admin_hooks.php:5289 admin/class-wp-review-slider-pro-admin_hooks.php:5459
+msgid "Contact Support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:5289
+msgid "Error 02!"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:5292
+msgid "Error 03! Trouble communicating with server."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:5296
+msgid "Error 04! Trouble communicating with server."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:5334
+msgid "Error: Unable to check your review credit balance. Please try again."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:5378 admin/class-wp-review-slider-pro-admin_hooks.php:5546
+msgid "Oops, it looks like this site does not have a valid license."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:5383
+msgid "Oops, it appears that you have used up your review quota."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:5463
+msgid "Error! Can not wp_remote_get Contact Support."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:7041 admin/class-wp-review-slider-pro-admin_hooks.php:7267 admin/class-wp-review-slider-pro-admin_hooks.php:7424
+#: admin/class-wp-review-slider-pro-admin_hooks.php:7574 admin/class-wp-review-slider-pro-admin_hooks.php:8390
+msgid "fopen is not allowed on this host."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:7042 admin/class-wp-review-slider-pro-admin_hooks.php:7268 admin/class-wp-review-slider-pro-admin_hooks.php:7425
+#: admin/class-wp-review-slider-pro-admin_hooks.php:7575 admin/class-wp-review-slider-pro-admin_hooks.php:8391
+msgid "fopen is not allowed on this host and cURL did not work either. Ask your web host to turn fopen on or fix cURL."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:7123
+msgid "Error: Can not find the ID in the URL you entered."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:7194 admin/class-wp-review-slider-pro-admin_hooks.php:7503 admin/class-wp-review-slider-pro-admin_hooks.php:7560
+#: admin/class-wp-review-slider-pro-admin_hooks.php:7678 admin/class-wp-review-slider-pro-admin_hooks.php:7950 admin/class_getapps_revs.php:2229 admin/class_getapps_revs.php:2780
+#: admin/class_getapps_revs.php:2938 admin/class_getapps_revs.php:3124 admin/class_getapps_revs.php:3294 admin/class_getapps_revs.php:3533 admin/class_getapps_revs.php:4748
+#: admin/class_getapps_revs.php:5082 admin/class_getapps_revs.php:5308 admin/class_getapps_revs.php:5509
+msgid "Error: Can not use remote get on this url:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:7221
+msgid "Error: The remote URL timed out."
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:7341 admin/class_getapps_revs.php:4729
+msgid "Error: Can not use remote post on this url:"
+msgstr ""
+
+#: admin/class-wp-review-slider-pro-admin_hooks.php:7799
+msgid "Owner"
+msgstr ""
+
+#: admin/class_getapps_revs.php:67
+msgid "Error gpa_0001: Something happened. Msg: "
+msgstr ""
+
+#: admin/class_getapps_revs.php:80
+msgid "Error gpa_0002: Error from Google: "
+msgstr ""
+
+#: admin/class_getapps_revs.php:90
+msgid "Error gpa_0003: No Google Reviews Found. Please check your api key and place id. "
+msgstr ""
+
+#: admin/class_getapps_revs.php:173
+msgid "Error 103: Please enter your search terms or place id above and click the Save & Test button."
+msgstr ""
+
+#: admin/class_getapps_revs.php:505
+msgid "Error 103a: Unable to read TripAdvisor page. Please contact support, the Review Funnel page, or change the crawl server to Remote."
+msgstr ""
+
+#: admin/class_getapps_revs.php:606
+msgid "Error 103b: Unable to read TripAdvisor page. Please change the crawl server to Remote, or use the Review Funnel page. If you still have trouble contact support."
+msgstr ""
+
+#: admin/class_getapps_revs.php:2810
+msgid "Error: Can not find review information. Contact support."
+msgstr ""
+
+#: admin/class_getapps_revs.php:2979
+msgid "Error: Can not find reviews for this URL. Contact support."
+msgstr ""
+
+#: admin/class_getapps_revs.php:3002
+msgid "Error: Can not use remote get on this review url:"
+msgstr ""
+
+#: admin/class_getapps_revs.php:3900
+msgid "Error 1001: Out of credits."
+msgstr ""
+
+#: admin/class_getapps_revs.php:3920
+msgid "Error 103: Unable to read VRBO page. Please contact support or use the Review Funnel page."
+msgstr ""
+
+#: admin/class_getapps_revs.php:4499
+msgid " Unable to find the Zillow reviews URL. Contact support or try using a Review Funnel."
+msgstr ""
+
+#: admin/class_getapps_revs.php:4541
+msgid " Unable to find reviews. Please check the URL. You can also try switching the Crawl Server to Remote."
+msgstr ""
+
+#: admin/class_getapps_revs.php:4663
+msgid " Sorry, this does not currently work for a lender profile url. You can download Lender Reviews with the Review Funnels tab above."
+msgstr ""
+
+#: admin/class_getapps_revs.php:5661
+msgid "Error finding reviews. Please contact plugin support."
+msgstr ""
+
+#: admin/class_getapps_revs.php:5700
+msgid "Error 1: No key found."
+msgstr ""
+
+#: admin/class_getapps_revs.php:5746
+msgid "Error 2: No key found. This could be a temporary error or an incorrectly input URL. Please check your Airbnb URL."
+msgstr ""
+
+#: admin/class_getapps_revs.php:5807
+msgid "Error 01: Error finding reviews. Please contact plugin support."
+msgstr ""
+
+#: admin/class_getapps_revs.php:6002
+msgid "Error finding reviews. Please contact plugin support. Error: "
+msgstr ""
+
+#: admin/class_getapps_revs.php:6037
+msgid "Error 102a: Unable to read Vacation Rental TripAdvisor page. Please contact support."
+msgstr ""
+
+#: admin/class_getapps_revs.php:6096
+msgid "Error 103a: Unable to read TripAdvisor page. Please contact support."
+msgstr ""
+
+#: admin/partials/analytics.php:26 admin/partials/badges.php:388 admin/partials/templates_posts.php:781
+msgid ""
+"<p><strong>No reviews found. Please visit the Get Reviews page or manually add one on the <a href=\"?page=wp_pro-reviews\">Review List</a> page. </strong></p><button "
+"type=\"button\" class=\"notice-dismiss\"><span class=\"screen-reader-text\">Dismiss this notice.</span></button>"
+msgstr ""
+
+#: admin/partials/analytics.php:85
+msgid "Average Rating:"
+msgstr ""
+
+#: admin/partials/analytics.php:130
+msgid "Positive Word Cloud"
+msgstr ""
+
+#: admin/partials/analytics.php:136
+msgid "Negative Word Cloud"
+msgstr ""
+
+#: admin/partials/analytics.php:149
+msgid "More charts coming soon!"
+msgstr ""
+
+#: admin/partials/analytics.php:153
+msgid "Analytics are a Premium feature. Please upgrade."
+msgstr ""
+
+#: admin/partials/analytics.php:164
+msgid "Review Source Details"
+msgstr ""
+
+#: admin/partials/analytics.php:178
+msgid "John Smith"
+msgstr ""
+
+#: admin/partials/analytics.php:191
+msgid "This is a sample review. Hands down the best experience we have had in the southeast! Awesome accommodations, great staff. We will gladly drive four hours for this gem!"
+msgstr ""
+
+#: admin/partials/analytics.php:205 admin/partials/review_list.php:756
+msgid "Review Title/Text"
+msgstr ""
+
+#: admin/partials/analytics.php:207 admin/partials/review_list.php:758
+msgid "Words/Char"
+msgstr ""
+
+#: admin/partials/analytics.php:208 admin/partials/review_list.php:759
+msgid "Social Page"
+msgstr ""
+
+#: admin/partials/badges.php:33
+msgid "Your Business Name"
+msgstr ""
+
+#: admin/partials/badges.php:67
+msgid "Badge totals and averages updated!"
+msgstr ""
+
+#: admin/partials/badges.php:67 admin/partials/badges.php:374 admin/partials/float.php:254 admin/partials/float.php:258 admin/partials/get_apps.php:571
+#: admin/partials/get_apps.php:586 admin/partials/get_twitter.php:269 admin/partials/get_twitter.php:273 admin/partials/notifications.php:117 admin/partials/notifications.php:132
+#: admin/partials/notifications.php:160 admin/partials/notifications.php:174 admin/partials/notifications.php:230 admin/partials/notifications.php:233
+#: admin/partials/notifications.php:322 admin/partials/notifications.php:326 admin/partials/reviewfunnel.php:226 admin/partials/reviewfunnel.php:271
+#: admin/partials/reviewfunnel.php:316 admin/partials/reviewfunnel.php:330 admin/partials/templates_posts.php:749 admin/partials/templates_posts.php:757
+#: admin/partials/templates_posts.php:761
+msgid "Dismiss this notice."
+msgstr ""
+
+#: admin/partials/badges.php:374
+msgid "Badge Updated!"
+msgstr ""
+
+#: admin/partials/badges.php:407
+msgid "Add New Badges Template"
+msgstr ""
+
+#: admin/partials/badges.php:408
+msgid "Export Badges"
+msgstr ""
+
+#: admin/partials/badges.php:409
+msgid "Import Badges"
+msgstr ""
+
+#: admin/partials/badges.php:410
+msgid "Badge Data"
+msgstr ""
+
+#: admin/partials/badges.php:423
+msgid "Force Recalculate"
+msgstr ""
+
+#: admin/partials/badges.php:444
+msgid "Badges are a Premium feature. Please upgrade."
+msgstr ""
+
+#: admin/partials/badges.php:454 admin/partials/templates_posts.php:1028 admin/partials/templates_posts.php:1032 admin/partials/templates_posts.php:1033
+#: admin/partials/templates_posts.php:1034 admin/partials/templates_posts.php:1035 admin/partials/templates_posts.php:1036 admin/partials/templates_posts.php:1037
+#: admin/partials/templates_posts.php:1038 admin/partials/templates_posts.php:1039 admin/partials/templates_posts.php:1040 admin/partials/templates_posts.php:1041
+#: admin/partials/templates_posts.php:1042 admin/partials/templates_posts.php:1043
+msgid "Style"
+msgstr ""
+
+#: admin/partials/badges.php:455
+msgid "Last Updated"
+msgstr ""
+
+#: admin/partials/badges.php:456 admin/partials/float.php:322 admin/partials/forms.php:220 admin/partials/get_apps.php:1343 admin/partials/get_twitter.php:465
+#: admin/partials/reviewfunnel.php:716 admin/partials/settings.php:74 admin/partials/templates_posts.php:824
+msgid "Action"
+msgstr ""
+
+#: admin/partials/badges.php:496 admin/partials/float.php:359 admin/partials/forms.php:253 admin/partials/templates_posts.php:878
+msgid "Shortcode"
+msgstr ""
+
+#: admin/partials/badges.php:500
+msgid "You can create a summary badges to proudly show off your review average and total!"
+msgstr ""
+
+#: admin/partials/badges.php:516
+msgid "Badge Title:"
+msgstr ""
+
+#: admin/partials/badges.php:521
+msgid "Enter a title or name for this badge."
+msgstr ""
+
+#: admin/partials/badges.php:526
+msgid "Choose Badge Type:"
+msgstr ""
+
+#: admin/partials/badges.php:531
+msgid "Post or Page (shortcode)"
+msgstr ""
+
+#: admin/partials/badges.php:534 admin/partials/templates_posts.php:937
+msgid "Widget Area"
+msgstr ""
+
+#: admin/partials/badges.php:537
+msgid "Are you going to use this on a Page/Post or in a Widget area like your sidebar?"
+msgstr ""
+
+#: admin/partials/badges.php:542
+msgid "Badge Business Name:"
+msgstr ""
+
+#: admin/partials/badges.php:547
+msgid "The business name on the badge."
+msgstr ""
+
+#: admin/partials/badges.php:555
+msgid "Badge Style Settings:"
+msgstr ""
+
+#: admin/partials/badges.php:562
+msgid "Badge Style:"
+msgstr ""
+
+#: admin/partials/badges.php:565
+msgid "Review Origin:"
+msgstr ""
+
+#: admin/partials/badges.php:584
+msgid ""
+"By default Post ID type badges will reference the reviews that are tagged with the same Post ID that the badge is being displayed on. This could be downloaded reviews that are "
+"tagged with a Post ID and/or Submitted reviews. <b>Only check other pages below if you want to create a summary type badge that combines pages.</b>"
+msgstr ""
+
+#: admin/partials/badges.php:591 admin/partials/templates_posts.php:2186
+msgid "Select Locations"
+msgstr ""
+
+#: admin/partials/badges.php:613
+msgid ""
+"By default Submitted type badges will reference the reviews for the page that it is being displayed on. Only check other pages if you want to create a summary type badge that "
+"combines pages."
+msgstr ""
+
+#: admin/partials/badges.php:614
+msgid "Leave blank if you wish to use all sources in this list."
+msgstr ""
+
+#: admin/partials/badges.php:700
+msgid "Please go click the \"Retrieve Reviews\" button. Even if you have no new reviews it will update this list."
+msgstr ""
+
+#: admin/partials/badges.php:706 admin/partials/templates_posts.php:2223
+msgid "Page Selected"
+msgstr ""
+
+#: admin/partials/badges.php:708 admin/partials/templates_posts.php:2225
+msgid "Pages Selected"
+msgstr ""
+
+#: admin/partials/badges.php:828
+msgid "Ratings From:"
+msgstr ""
+
+#: admin/partials/badges.php:831
+msgid "Average : Total"
+msgstr ""
+
+#: admin/partials/badges.php:834
+msgid "# Average Decimals:"
+msgstr ""
+
+#: admin/partials/badges.php:837
+msgid "Average Out Of:"
+msgstr ""
+
+#: admin/partials/badges.php:840 admin/partials/templates_posts.php:966
+msgid "Show Stars:"
+msgstr ""
+
+#: admin/partials/badges.php:843
+msgid "Border Radius:"
+msgstr ""
+
+#: admin/partials/badges.php:846
+msgid "Border Shadow:"
+msgstr ""
+
+#: admin/partials/badges.php:849
+msgid "Border Color 1:"
+msgstr ""
+
+#: admin/partials/badges.php:852
+msgid "Border Color 2:"
+msgstr ""
+
+#: admin/partials/badges.php:855 admin/partials/badges.php:1448 admin/partials/float.php:640 admin/partials/float.php:884 admin/partials/templates_posts.php:3360
+msgid "Background Color:"
+msgstr ""
+
+#: admin/partials/badges.php:858
+msgid "Star Color:"
+msgstr ""
+
+#: admin/partials/badges.php:861 admin/partials/templates_posts.php:1006
+msgid "Text Color 1:"
+msgstr ""
+
+#: admin/partials/badges.php:864 admin/partials/templates_posts.php:1009
+msgid "Text Color 2:"
+msgstr ""
+
+#: admin/partials/badges.php:867 admin/partials/templates_posts.php:1012
+msgid "Text Color 3:"
+msgstr ""
+
+#: admin/partials/badges.php:870
+msgid "Badge Width:"
+msgstr ""
+
+#: admin/partials/badges.php:875
+msgid "Style 1"
+msgstr ""
+
+#: admin/partials/badges.php:879
+msgid "Style 2"
+msgstr ""
+
+#: admin/partials/badges.php:880
+msgid "Style 3"
+msgstr ""
+
+#: admin/partials/badges.php:881
+msgid "Style 4"
+msgstr ""
+
+#: admin/partials/badges.php:882
+msgid "Style 5"
+msgstr ""
+
+#: admin/partials/badges.php:883
+msgid "Style 6"
+msgstr ""
+
+#: admin/partials/badges.php:884
+msgid "Style 7"
+msgstr ""
+
+#: admin/partials/badges.php:894
+msgid "Custom"
+msgstr ""
+
+#: admin/partials/badges.php:906
+msgid "Post ID"
+msgstr ""
+
+#: admin/partials/badges.php:915 admin/partials/templates_posts.php:2470 admin/partials/templates_posts.php:2520
+msgid "Source Site"
+msgstr ""
+
+#: admin/partials/badges.php:916 admin/partials/tabmenu.php:147
+msgid "Review List"
+msgstr ""
+
+#: admin/partials/badges.php:917
+msgid "Input"
+msgstr ""
+
+#: admin/partials/badges.php:927 admin/partials/notifications.php:468
+msgid "0"
+msgstr ""
+
+#: admin/partials/badges.php:936 admin/partials/reviewfunnel.php:611
+msgid "10"
+msgstr ""
+
+#: admin/partials/badges.php:978
+msgid "%"
+msgstr ""
+
+#: admin/partials/badges.php:979
+msgid "px"
+msgstr ""
+
+#: admin/partials/badges.php:984
+msgid "Reset Settings"
+msgstr ""
+
+#: admin/partials/badges.php:999
+msgid ""
+"<b>Note</b>: If you use Ratings From: Source Site for badge style 2, then the plugin will to try calculate the individual totals for each rating. The more reviews you have "
+"downloaded, the more accurate it will be."
+msgstr ""
+
+#: admin/partials/badges.php:1001
+msgid ""
+"Note: For Review Origin of \"Submitted\" or \"Post Id\" the total and average rating above is just an example and does not reflect the actual values that will display on your "
+"page."
+msgstr ""
+
+#: admin/partials/badges.php:1004
+msgid ""
+"Note: Google does not return the total number of reviews in their API. It will default to what has actually been downloaded. Use the \"Ratings From\" field to input it "
+"manually."
+msgstr ""
+
+#: admin/partials/badges.php:1008
+msgid "Large Icon Options:"
+msgstr ""
+
+#: admin/partials/badges.php:1010
+msgid "Show Large Icon:"
+msgstr ""
+
+#: admin/partials/badges.php:1017 admin/partials/badges.php:1057 admin/partials/badges.php:1069 admin/partials/badges.php:1081
+msgid "Icon Image URL:"
+msgstr ""
+
+#: admin/partials/badges.php:1018 admin/partials/badges.php:1058 admin/partials/badges.php:1070 admin/partials/badges.php:1082 admin/partials/forms.php:459
+#: admin/partials/review_list.php:334 admin/partials/review_list.php:389
+msgid "Upload"
+msgstr ""
+
+#: admin/partials/badges.php:1021
+msgid "Icon Link URL:"
+msgstr ""
+
+#: admin/partials/badges.php:1031
+msgid "Show Small Icons:"
+msgstr ""
+
+#: admin/partials/badges.php:1046 admin/partials/badges.php:1061 admin/partials/badges.php:1073 admin/partials/badges.php:1085
+msgid "Optional Link URL:"
+msgstr ""
+
+#: admin/partials/badges.php:1054
+msgid "Custom 1"
+msgstr ""
+
+#: admin/partials/badges.php:1066
+msgid "Custom 2"
+msgstr ""
+
+#: admin/partials/badges.php:1078
+msgid "Custom 3"
+msgstr ""
+
+#: admin/partials/badges.php:1094
+msgid "Link Attributes:"
+msgstr ""
+
+#: admin/partials/badges.php:1098
+msgid "Link Target:"
+msgstr ""
+
+#: admin/partials/badges.php:1100
+msgid "New Window"
+msgstr ""
+
+#: admin/partials/badges.php:1101
+msgid "Same Window"
+msgstr ""
+
+#: admin/partials/badges.php:1106
+msgid "Link rel:"
+msgstr ""
+
+#: admin/partials/badges.php:1126
+msgid "Custom Text:"
+msgstr ""
+
+#: admin/partials/badges.php:1134
+msgid "Change the text used in the badge."
+msgstr ""
+
+#: admin/partials/badges.php:1139
+msgid "Custom Text URL:"
+msgstr ""
+
+#: admin/partials/badges.php:1145
+msgid "Add the URL used at the custom text."
+msgstr ""
+
+#: admin/partials/badges.php:1150
+msgid "Custom Text URL Title:"
+msgstr ""
+
+#: admin/partials/badges.php:1156
+msgid "Add the URL Title used at the custom text."
+msgstr ""
+
+#: admin/partials/badges.php:1161 admin/partials/float.php:788 admin/partials/forms.php:314 admin/partials/templates_posts.php:1401
+msgid "Custom CSS:"
+msgstr ""
+
+#: admin/partials/badges.php:1166 admin/partials/float.php:793
+msgid "Enter custom CSS code to change the look of the template even more when being displayed.</br>Example Style 1:"
+msgstr ""
+
+#: admin/partials/badges.php:1172
+msgid "Google Rich Snippet:\t"
+msgstr ""
+
+#: admin/partials/badges.php:1176 admin/partials/templates_posts.php:2864
+msgid "Add a Summary Review Google Rich Snippet?"
+msgstr ""
+
+#: admin/partials/badges.php:1183
+msgid "Note:"
+msgstr ""
+
+#: admin/partials/badges.php:1183
+msgid "Only turn this on for one review or badge template per a page or you will get duplicate rich snippets, which Google may not like."
+msgstr ""
+
+#: admin/partials/badges.php:1183
+msgid "Leave the Name, Description, and Image blank and the plugin will try to pull the info from the Post/Page."
+msgstr ""
+
+#: admin/partials/badges.php:1184 admin/partials/templates_posts.php:2872
+msgid "Type:"
+msgstr ""
+
+#: admin/partials/badges.php:1225 admin/partials/templates_posts.php:2911
+msgid "Business or Product Name:"
+msgstr ""
+
+#: admin/partials/badges.php:1229 admin/partials/templates_posts.php:2915
+msgid "Description:"
+msgstr ""
+
+#: admin/partials/badges.php:1233
+msgid "Logo URL:"
+msgstr ""
+
+#: admin/partials/badges.php:1271 admin/partials/templates_posts.php:2957
+msgid "Schema @id (optional):"
+msgstr ""
+
+#: admin/partials/badges.php:1275 admin/partials/templates_posts.php:2961
+msgid "Phone (optional):"
+msgstr ""
+
+#: admin/partials/badges.php:1279 admin/partials/templates_posts.php:2965
+msgid "Price Range (optional): Ex: $$$"
+msgstr ""
+
+#: admin/partials/badges.php:1283 admin/partials/templates_posts.php:2969
+msgid "Address (optional):"
+msgstr ""
+
+#: admin/partials/badges.php:1293 admin/partials/templates_posts.php:2979
+msgid "Brand (optional):"
+msgstr ""
+
+#: admin/partials/badges.php:1297 admin/partials/templates_posts.php:2983
+msgid "Offer (optional):"
+msgstr ""
+
+#: admin/partials/badges.php:1300 admin/partials/templates_posts.php:2986
+msgid "price (ex. 119.99):"
+msgstr ""
+
+#: admin/partials/badges.php:1304 admin/partials/templates_posts.php:2990
+msgid "priceCurrency (ex. USD):"
+msgstr ""
+
+#: admin/partials/badges.php:1308 admin/partials/templates_posts.php:2994
+msgid "Offer URL:"
+msgstr ""
+
+#: admin/partials/badges.php:1312 admin/partials/templates_posts.php:2998
+msgid "priceValidUntil (ex. 2021-11-25):"
+msgstr ""
+
+#: admin/partials/badges.php:1316 admin/partials/templates_posts.php:3002
+msgid "availability (ex. InStock):"
+msgstr ""
+
+#: admin/partials/badges.php:1320 admin/partials/templates_posts.php:3006
+msgid "SKU (optional):"
+msgstr ""
+
+#: admin/partials/badges.php:1324 admin/partials/templates_posts.php:3010
+msgid "Global Identifier (optional):"
+msgstr ""
+
+#: admin/partials/badges.php:1327 admin/partials/templates_posts.php:3013
+msgid "Name (mpn, gtin8):"
+msgstr ""
+
+#: admin/partials/badges.php:1331 admin/partials/templates_posts.php:3017
+msgid "Value:"
+msgstr ""
+
+#: admin/partials/badges.php:1341 admin/partials/templates_posts.php:3053
+msgid "Total Votes or Reviews:"
+msgstr ""
+
+#: admin/partials/badges.php:1348 admin/partials/templates_posts.php:3060
+msgid "Display total reviews as Votes or Reviews on Google search."
+msgstr ""
+
+#: admin/partials/badges.php:1354
+msgid ""
+"When Google finds valid reviews or ratings markup, they may show a rich snippet in search results that includes stars and other summary info from the reviews. Once you turn "
+"this on and add your template to your site you can test it <a href=\"https://search.google.com/structured-data/testing-tool\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: admin/partials/badges.php:1363
+msgid "Overall Badge On-Click:"
+msgstr ""
+
+#: admin/partials/badges.php:1367 admin/partials/float.php:802 admin/partials/get_apps.php:1198
+msgid "Nothing"
+msgstr ""
+
+#: admin/partials/badges.php:1368 admin/partials/float.php:803
+msgid "Link to URL"
+msgstr ""
+
+#: admin/partials/badges.php:1369 admin/partials/float.php:804
+msgid "Review Slide-out Window"
+msgstr ""
+
+#: admin/partials/badges.php:1370 admin/partials/float.php:805
+msgid "Review Pop-up Window"
+msgstr ""
+
+#: admin/partials/badges.php:1373
+msgid ""
+"Allows you to add an overall badge click action. It will only work when not clicking one of the other badge links set above. <br><b>Link to URL</b>: When someone clicks the "
+"Badge they will be directed here. <br><b>Review Slide-out Window</b>: A window will slide out from the side displaying a review template that you select.<br><b>Review Pop-up "
+"Window</b>: A window will pop-up displaying a review template that you select."
+msgstr ""
+
+#: admin/partials/badges.php:1379 admin/partials/float.php:814
+msgid "Link to URL:"
+msgstr ""
+
+#: admin/partials/badges.php:1384 admin/partials/float.php:819
+msgid "Open in New Window"
+msgstr ""
+
+#: admin/partials/badges.php:1385 admin/partials/float.php:820
+msgid "Open in Same Window"
+msgstr ""
+
+#: admin/partials/badges.php:1388 admin/partials/float.php:823
+msgid ""
+"Input the URL where people will be directed when they click the Float. The preview float will open in New Window regardless of this setting. Note: this will override the links "
+"in the badge or review slider."
+msgstr ""
+
+#: admin/partials/badges.php:1394
+msgid "Slide-out/Pop-up Review Template:"
+msgstr ""
+
+#: admin/partials/badges.php:1408 admin/partials/float.php:472 admin/partials/float.php:499 admin/partials/float.php:563 admin/partials/float.php:603 admin/partials/float.php:843
+msgid "Select One"
+msgstr ""
+
+#: admin/partials/badges.php:1422 admin/partials/float.php:617 admin/partials/float.php:857
+msgid "Please create a review template first by clicking the \"Templates\" tab above."
+msgstr ""
+
+#: admin/partials/badges.php:1427 admin/partials/float.php:862
+msgid "This is the review template that will be displayed in the Slide-out or Pop-up. Works best with non-slider review templates."
+msgstr ""
+
+#: admin/partials/badges.php:1429 admin/partials/float.php:864
+msgid "<b>Caution:</b> Do not use a review template that is a slider and that is already being used on the page."
+msgstr ""
+
+#: admin/partials/badges.php:1431 admin/partials/float.php:866
+msgid ""
+"Notes: <br>- One column review templates work best for Right and Left Slides, while one row templates work best for top and bottom slides.<br>- If using a review template with "
+"arrows then make sure to increase the left and right padding to at least 35 below to see them."
+msgstr ""
+
+#: admin/partials/badges.php:1438 admin/partials/float.php:874
+msgid "Slide-out/Pop-up Settings:"
+msgstr ""
+
+#: admin/partials/badges.php:1445 admin/partials/float.php:881
+msgid "Slide-out Location:"
+msgstr ""
+
+#: admin/partials/badges.php:1451 admin/partials/float.php:643 admin/partials/float.php:887
+msgid "Background Border:"
+msgstr ""
+
+#: admin/partials/badges.php:1454 admin/partials/float.php:890
+msgid "Border Width:"
+msgstr ""
+
+#: admin/partials/badges.php:1457 admin/partials/float.php:893
+msgid "Width:"
+msgstr ""
+
+#: admin/partials/badges.php:1460 admin/partials/float.php:896
+msgid "Height:"
+msgstr ""
+
+#: admin/partials/badges.php:1463 admin/partials/float.php:899
+msgid "Padding:"
+msgstr ""
+
+#: admin/partials/badges.php:1466 admin/partials/float.php:652 admin/partials/float.php:658 admin/partials/float.php:902
+msgid " "
+msgstr ""
+
+#: admin/partials/badges.php:1472 admin/partials/badges.php:1496 admin/partials/float.php:685 admin/partials/float.php:695 admin/partials/float.php:908
+#: admin/partials/float.php:932
+msgid "Right"
+msgstr ""
+
+#: admin/partials/badges.php:1473 admin/partials/badges.php:1500 admin/partials/float.php:689 admin/partials/float.php:699 admin/partials/float.php:909
+#: admin/partials/float.php:936
+msgid "Left"
+msgstr ""
+
+#: admin/partials/badges.php:1474 admin/partials/badges.php:1495 admin/partials/float.php:684 admin/partials/float.php:694 admin/partials/float.php:910
+#: admin/partials/float.php:931
+msgid "Top"
+msgstr ""
+
+#: admin/partials/badges.php:1475 admin/partials/badges.php:1499 admin/partials/float.php:688 admin/partials/float.php:698 admin/partials/float.php:911
+#: admin/partials/float.php:935
+msgid "Bottom"
+msgstr ""
+
+#: admin/partials/badges.php:1511 admin/partials/float.php:947
+msgid "Slide-out/Pop-up Header HTML:"
+msgstr ""
+
+#: admin/partials/badges.php:1529 admin/partials/float.php:964
+msgid "Displays above the review template in the slide-out or pop-up."
+msgstr ""
+
+#: admin/partials/badges.php:1537 admin/partials/float.php:972
+msgid "Slide-out/Pop-up Footer HTML:"
+msgstr ""
+
+#: admin/partials/badges.php:1553 admin/partials/float.php:988
+msgid "Displays below the review template in the slide-out or pop-up."
+msgstr ""
+
+#: admin/partials/badges.php:1566 admin/partials/float.php:1002
+msgid "Save Template"
+msgstr ""
+
+#: admin/partials/badges.php:1567 admin/partials/float.php:1003 admin/partials/forms.php:520 admin/partials/get_apps.php:1318 admin/partials/get_twitter.php:448
+#: admin/partials/notifications.php:534 admin/partials/reviewfunnel.php:697 admin/partials/templates_posts.php:3474
+msgid "Cancel"
+msgstr ""
+
+#: admin/partials/float.php:254
+msgid "Float Updated!"
+msgstr ""
+
+#: admin/partials/float.php:258 admin/partials/get_apps.php:586 admin/partials/get_twitter.php:273 admin/partials/notifications.php:326
+msgid "Unable to update. Please contact support."
+msgstr ""
+
+#: admin/partials/float.php:274
+msgid ""
+"<p><strong>No reviews found. Please visit the Facebook, Yelp, Google, or TripAdvisor pages or manually add one on the <a href=\"?page=wp_pro-reviews\">Review List</a> page. </"
+"strong></p><button type=\"button\" class=\"notice-dismiss\"><span class=\"screen-reader-text\">Dismiss this notice.</span></button>"
+msgstr ""
+
+#: admin/partials/float.php:293
+msgid "Add New Float Template"
+msgstr ""
+
+#: admin/partials/float.php:294
+msgid "Export Floats"
+msgstr ""
+
+#: admin/partials/float.php:295
+msgid "Import Floats"
+msgstr ""
+
+#: admin/partials/float.php:299
+msgid "Use this form to import previously exported Floats."
+msgstr ""
+
+#: admin/partials/float.php:302 admin/partials/forms.php:205 admin/partials/reviewfunnel.php:420 admin/partials/templates_posts.php:809
+msgid "Import"
+msgstr ""
+
+#: admin/partials/float.php:310
+msgid "Floats are a Premium feature. Please upgrade."
+msgstr ""
+
+#: admin/partials/float.php:321 admin/partials/forms.php:219 admin/partials/templates_posts.php:823
+msgid "Date Created"
+msgstr ""
+
+#: admin/partials/float.php:363
+msgid "You can create Sticky Floating badges or reviews that will display at the bottom (or top) of your pages!"
+msgstr ""
+
+#: admin/partials/float.php:379
+msgid "Float Title:"
+msgstr ""
+
+#: admin/partials/float.php:384
+msgid "Enter a title or name for this float."
+msgstr ""
+
+#: admin/partials/float.php:467
+msgid "Show on Pages:"
+msgstr ""
+
+#: admin/partials/float.php:473
+msgid "All Pages"
+msgstr ""
+
+#: admin/partials/float.php:474
+msgid "All Pages Except"
+msgstr ""
+
+#: admin/partials/float.php:475
+msgid "Choose Pages"
+msgstr ""
+
+#: admin/partials/float.php:478
+msgid "Pages:"
+msgstr ""
+
+#: admin/partials/float.php:479 admin/partials/float.php:506 admin/partials/float.php:510
+msgid "Select"
+msgstr ""
+
+#: admin/partials/float.php:483
+msgid "Choose which pages to display this float on."
+msgstr ""
+
+#: admin/partials/float.php:494
+msgid "Show on Posts:"
+msgstr ""
+
+#: admin/partials/float.php:500
+msgid "All Post Types"
+msgstr ""
+
+#: admin/partials/float.php:501
+msgid "Choose Posts"
+msgstr ""
+
+#: admin/partials/float.php:502
+msgid "Choose Categories"
+msgstr ""
+
+#: admin/partials/float.php:505
+msgid "Show on these Posts:"
+msgstr ""
+
+#: admin/partials/float.php:509
+msgid "Show on these Categories:"
+msgstr ""
+
+#: admin/partials/float.php:514
+msgid "Choose which posts to display this float on. Also includes other post types."
+msgstr ""
+
+#: admin/partials/float.php:521
+msgid "Choose Float Type:"
+msgstr ""
+
+#: admin/partials/float.php:526
+msgid "Badge"
+msgstr ""
+
+#: admin/partials/float.php:529
+msgid "Review Slider"
+msgstr ""
+
+#: admin/partials/float.php:535
+msgid "Review Pop-in/Pop-out"
+msgstr ""
+
+#: admin/partials/float.php:542
+msgid "Do you want to create a floating badge, floating review slider or reviews that pop in and out?"
+msgstr ""
+
+#: admin/partials/float.php:547
+msgid "Choose Badge:"
+msgstr ""
+
+#: admin/partials/float.php:577
+msgid "Please create a badge first by clicking the \"Badges\" tab above."
+msgstr ""
+
+#: admin/partials/float.php:582
+msgid "This is the badge that will be displayed."
+msgstr ""
+
+#: admin/partials/float.php:587 admin/partials/float.php:829
+msgid "Review Template:"
+msgstr ""
+
+#: admin/partials/float.php:622
+msgid "This is the review template that will be displayed. Works best with a template that displays one review at a time."
+msgstr ""
+
+#: admin/partials/float.php:624
+msgid "This is the review template that will be displayed. Only one review will pop-in and out at a time. Works best with template style 10."
+msgstr ""
+
+#: admin/partials/float.php:630
+msgid "Float Style Settings:"
+msgstr ""
+
+#: admin/partials/float.php:637
+msgid "Float Location"
+msgstr ""
+
+#: admin/partials/float.php:646
+msgid "Float Width:"
+msgstr ""
+
+#: admin/partials/float.php:649
+msgid "Float Margin:"
+msgstr ""
+
+#: admin/partials/float.php:655
+msgid "Float Padding:"
+msgstr ""
+
+#: admin/partials/float.php:665
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/partials/float.php:666
+msgid "Bottom Middle"
+msgstr ""
+
+#: admin/partials/float.php:667
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/partials/float.php:668
+msgid "Top Left"
+msgstr ""
+
+#: admin/partials/float.php:669
+msgid "Top Middle"
+msgstr ""
+
+#: admin/partials/float.php:670
+msgid "Top Right"
+msgstr ""
+
+#: admin/partials/float.php:707
+msgid "The float preview is for visualization purposes only and should work correctly on the front end of your site. "
+msgstr ""
+
+#: admin/partials/float.php:712
+msgid "Fly-in Animation:"
+msgstr ""
+
+#: admin/partials/float.php:717
+msgid "Slide In From Right"
+msgstr ""
+
+#: admin/partials/float.php:718
+msgid "Slide In From Bottom"
+msgstr ""
+
+#: admin/partials/float.php:719
+msgid "Slide In From Left"
+msgstr ""
+
+#: admin/partials/float.php:720
+msgid "Fade In"
+msgstr ""
+
+#: admin/partials/float.php:723
+msgid "  Enter delay in seconds:"
+msgstr ""
+
+#: admin/partials/float.php:728
+msgid "This allows you to fly in or fade in the Float after a number of seconds. "
+msgstr ""
+
+#: admin/partials/float.php:734
+msgid "Auto Close:"
+msgstr ""
+
+#: admin/partials/float.php:742
+msgid "Wait this many seconds before closing:"
+msgstr ""
+
+#: admin/partials/float.php:747
+msgid "This allows you to automatically close the float after a number of seconds. "
+msgstr ""
+
+#: admin/partials/float.php:753
+msgid "Hide On:"
+msgstr ""
+
+#: admin/partials/float.php:758
+msgid "Mobile"
+msgstr ""
+
+#: admin/partials/float.php:761
+msgid "Desktop"
+msgstr ""
+
+#: admin/partials/float.php:765
+msgid "Neither"
+msgstr ""
+
+#: admin/partials/float.php:768
+msgid "Check Mobile to turn off Float when viewing on small screen, or check Desktop to hide it on large screens."
+msgstr ""
+
+#: admin/partials/float.php:774
+msgid "First Page Only:"
+msgstr ""
+
+#: admin/partials/float.php:782
+msgid "  Set to yes to hide the float on other pages if the visitor has already seen it."
+msgstr ""
+
+#: admin/partials/float.php:798
+msgid "Float On-Click Action:"
+msgstr ""
+
+#: admin/partials/float.php:808
+msgid ""
+"<b>Link to URL</b>: When someone clicks the Float they will be directed here. <br><b>Review Slide-out Window</b>: A window will slide out from the side displaying a review "
+"template that you select.<br><b>Review Pop-up Window</b>: A window will pop-up displaying a review template that you select."
+msgstr ""
+
+#: admin/partials/forms.php:196
+msgid "Add New Forms Template"
+msgstr ""
+
+#: admin/partials/forms.php:197
+msgid "Export Forms"
+msgstr ""
+
+#: admin/partials/forms.php:198
+msgid "Import Forms"
+msgstr ""
+
+#: admin/partials/forms.php:202
+msgid "Use this form to import previously exported Forms."
+msgstr ""
+
+#: admin/partials/forms.php:218
+msgid "Form Title"
+msgstr ""
+
+#: admin/partials/forms.php:270 admin/partials/get_twitter.php:364
+msgid "Form Title:"
+msgstr ""
+
+#: admin/partials/forms.php:275
+msgid "Enter a title or name for this submission form."
+msgstr ""
+
+#: admin/partials/forms.php:280
+msgid "Edit Form Input Fields:"
+msgstr ""
+
+#: admin/partials/forms.php:281
+msgid "(click to open, drag to reorder)"
+msgstr ""
+
+#: admin/partials/forms.php:290
+msgid "Required Label:"
+msgstr ""
+
+#: admin/partials/forms.php:299
+msgid "The Required Label at the top of the form."
+msgstr ""
+
+#: admin/partials/forms.php:304
+msgid "Header HTML:"
+msgstr ""
+
+#: admin/partials/forms.php:309
+msgid "Add custom HTML to the very top of the Form."
+msgstr ""
+
+#: admin/partials/forms.php:319
+msgid "Enter custom CSS code to change the look of the form template even more when being displayed.</br>Example:"
+msgstr ""
+
+#: admin/partials/forms.php:324
+msgid "Notify Email:"
+msgstr ""
+
+#: admin/partials/forms.php:329
+msgid "Notify me at this email when someone submits a review. This can also be a comma separated list of email addresses."
+msgstr ""
+
+#: admin/partials/forms.php:334
+msgid "reCAPTCHA"
+msgstr ""
+
+#: admin/partials/forms.php:339
+msgid "reCAPTCHA v2"
+msgstr ""
+
+#: admin/partials/forms.php:346
+msgid "Turn on reCAPTCHA to help block spam submissions. By default the form will use a hidden input to block most robots. Turning this on will block even more. Learn more "
+msgstr ""
+
+#: admin/partials/forms.php:351
+msgid "Button Text"
+msgstr ""
+
+#: admin/partials/forms.php:356
+msgid "Text for the Submit button."
+msgstr ""
+
+#: admin/partials/forms.php:361
+msgid "Button Style"
+msgstr ""
+
+#: admin/partials/forms.php:370
+msgid "Change the look of the buttons on the form."
+msgstr ""
+
+#: admin/partials/forms.php:375
+msgid "Button Class"
+msgstr ""
+
+#: admin/partials/forms.php:380
+msgid "Add a CSS Class name to the form buttons."
+msgstr ""
+
+#: admin/partials/forms.php:385
+msgid "Success Message"
+msgstr ""
+
+#: admin/partials/forms.php:390
+msgid "Displayed after a review submission."
+msgstr ""
+
+#: admin/partials/forms.php:395
+msgid "Show On Click"
+msgstr ""
+
+#: admin/partials/forms.php:400
+msgid "Yes : Slide-down"
+msgstr ""
+
+#: admin/partials/forms.php:401
+msgid "Yes : Pop-up"
+msgstr ""
+
+#: admin/partials/forms.php:403 admin/partials/templates_posts.php:3377
+msgid "Button Text:"
+msgstr ""
+
+#: admin/partials/forms.php:405
+msgid "Hide the review form behind a button. Form will display when user clicks a button."
+msgstr ""
+
+#: admin/partials/forms.php:410
+msgid "Auto Pop-up"
+msgstr ""
+
+#: admin/partials/forms.php:415
+msgid "Yes: Leave button on page."
+msgstr ""
+
+#: admin/partials/forms.php:416
+msgid "Yes: Hide button on page."
+msgstr ""
+
+#: admin/partials/forms.php:419
+msgid ""
+"A Pop-up including the form will automatically appear when the page is loaded. Choose what to do with the \"Show on Click\" button. If you aren't using the button then this "
+"will hide the entire form on the page. "
+msgstr ""
+
+#: admin/partials/forms.php:424
+msgid "Submission Type"
+msgstr ""
+
+#: admin/partials/forms.php:428
+msgid "Page Reload"
+msgstr ""
+
+#: admin/partials/forms.php:429
+msgid "Ajax Submission"
+msgstr ""
+
+#: admin/partials/forms.php:430
+msgid "Page Redirect"
+msgstr ""
+
+#: admin/partials/forms.php:434
+msgid "Reloads the page with a success message."
+msgstr ""
+
+#: admin/partials/forms.php:436
+msgid "Use Ajax to submit the form. Make sure you are not caching the page more than an hour or this will not work."
+msgstr ""
+
+#: admin/partials/forms.php:438
+msgid "Redirects the user to the URL of your choice after form submission."
+msgstr ""
+
+#: admin/partials/forms.php:443
+msgid "Auto Approve Submission"
+msgstr ""
+
+#: admin/partials/forms.php:451
+msgid "Approve (show) reviews submitted through this form automatically. Use with caution."
+msgstr ""
+
+#: admin/partials/forms.php:456
+msgid "Review Icon Image Url:"
+msgstr ""
+
+#: admin/partials/forms.php:461
+msgid "Allows you to set a review icon to display with the submitted review text. Input the URL to the image file. Size of 32px height works best."
+msgstr ""
+
+#: admin/partials/forms.php:466
+msgid "Review Icon Link Url:"
+msgstr ""
+
+#: admin/partials/forms.php:471
+msgid "Leave this blank to link the icon back to the page this form is on. Enter a url if you want to link the icon to a different page."
+msgstr ""
+
+#: admin/partials/forms.php:476 admin/partials/review_list.php:527 admin/partials/review_list.php:948 admin/partials/templates_posts.php:2656
+msgid "Tags:"
+msgstr ""
+
+#: admin/partials/forms.php:481
+msgid "Enter a tag or comma separated tags if you would like to tag reviews left with this form. Tags can be used to filter reviews in a review template."
+msgstr ""
+
+#: admin/partials/forms.php:486
+msgid "Track IP"
+msgstr ""
+
+#: admin/partials/forms.php:494
+msgid "Record IP address of person submitting form."
+msgstr ""
+
+#: admin/partials/forms.php:499
+msgid "Multiple Submissions"
+msgstr ""
+
+#: admin/partials/forms.php:504
+msgid "No - Page ID"
+msgstr ""
+
+#: admin/partials/forms.php:505
+msgid "No - Form ID"
+msgstr ""
+
+#: admin/partials/forms.php:509
+msgid ""
+"Allow a person to submit this form more than once. If you use the same form on multiple pages, check \"No - Form ID\" to hide the form everywhere or \"No - Page ID\" to hide "
+"it depending on the page."
+msgstr ""
+
+#: admin/partials/forms.php:519
+msgid "Done Editing Form"
+msgstr ""
+
+#: admin/partials/forms.php:526
+msgid "Preview:"
+msgstr ""
+
+#: admin/partials/forms.php:529
+msgid "Required field"
+msgstr ""
+
+#: admin/partials/forms.php:531
+msgid "Heading"
+msgstr ""
+
+#: admin/partials/forms.php:531
+msgid "Before Text"
+msgstr ""
+
+#: admin/partials/forms.php:531
+msgid "A headline for your testimonial."
+msgstr ""
+
+#: admin/partials/forum.php:40
+msgid "Upgrade to the Pro Version of this plugin to access our support forum. Get the Pro Version <a href=\""
+msgstr ""
+
+#: admin/partials/get_airbnb.php:24 admin/partials/get_tripadvisor.php:24 admin/partials/get_vrbo.php:24 admin/partials/get_yelp.php:24 admin/partials/googlesettings.php:26
+#: admin/partials/notifications.php:23
+msgid "Settings Saved"
+msgstr ""
+
+#: admin/partials/get_airbnb.php:69 admin/partials/get_yelp.php:81
+#, php-format
+msgid "Use the %1$sReview Funnels%2$s feature if you need to grab all your reviews."
+msgstr ""
+
+#: admin/partials/get_apps.php:54 admin/partials/get_apps.php:156 admin/partials/get_apps.php:171 admin/partials/get_apps.php:181 admin/partials/get_apps.php:189
+#: admin/partials/get_apps.php:197 admin/partials/get_apps.php:207 admin/partials/get_apps.php:215
+msgid "The URL of the page where the reviews or recommendations are located."
+msgstr ""
+
+#: admin/partials/get_apps.php:64
+msgid "Please make sure the URL is visible by a browser. In other words, it doesn't open in iTunes."
+msgstr ""
+
+#: admin/partials/get_apps.php:88 admin/partials/get_apps.php:97
+msgid "The URL to the business page. "
+msgstr ""
+
+#: admin/partials/get_apps.php:114
+msgid "This is the Write Review link address."
+msgstr ""
+
+#: admin/partials/get_apps.php:114 admin/partials/get_apps.php:150 admin/partials/get_apps.php:668 admin/partials/settings.php:53
+msgid "Video Instructions"
+msgstr ""
+
+#: admin/partials/get_apps.php:114
+msgid "<b>Use the Get Reviews > Review Funnel to download Lender Reviews.</b>"
+msgstr ""
+
+#: admin/partials/get_apps.php:116
+msgid "<b>AngiesList download is limited to 100 reviews.</b>"
+msgstr ""
+
+#: admin/partials/get_apps.php:142
+msgid "Need help finding your"
+msgstr ""
+
+#: admin/partials/get_apps.php:143
+msgid "Google Search Terms"
+msgstr ""
+
+#: admin/partials/get_apps.php:144
+msgid "Place ID?"
+msgstr ""
+
+#: admin/partials/get_apps.php:163
+msgid "The URL of the page where the reviews or recommendations are located. Does not currently work for Product reviews."
+msgstr ""
+
+#: admin/partials/get_apps.php:223
+msgid "Select Facebook Source Page"
+msgstr ""
+
+#: admin/partials/get_apps.php:231
+msgid "Enter your Birdeye business ID. Example: 12345678"
+msgstr ""
+
+#: admin/partials/get_apps.php:239
+msgid "Enter Yotpo App Key or Store ID."
+msgstr ""
+
+#: admin/partials/get_apps.php:239 admin/partials/notifications.php:865 admin/partials/notifications.php:910 admin/partials/notifications.php:951
+#: admin/partials/notifications.php:962 admin/partials/reviewfunnel.php:568
+msgid "More Info"
+msgstr ""
+
+#: admin/partials/get_apps.php:247
+msgid ""
+"Enter your Api Key and Survey ID seperated by a comma. You can find the API Key by logging in > Settings > Preferences > dropdown Account API Key > SHOW API KEY. Survey ID can "
+"be found in the SocialClimb app on the Reviews Iframe page."
+msgstr ""
+
+#: admin/partials/get_apps.php:255
+msgid "Enter your Google Places ID. Example: ChIJ4ZQVjptsYogRuCFSf--uNBQ"
+msgstr ""
+
+#: admin/partials/get_apps.php:263
+msgid "The URL of the page where the reviews or recommendations are located. This would be a product page."
+msgstr ""
+
+#: admin/partials/get_apps.php:561
+msgid "<p><strong>Oops! This form could not be inserted in to the database. Please try de-activating and re-activating the plugin to force the database tables to update.</br> -"
+msgstr ""
+
+#: admin/partials/get_apps.php:571 admin/partials/get_twitter.php:269
+msgid "Form Updated!"
+msgstr ""
+
+#: admin/partials/get_apps.php:633
+msgid "Add New Source Page"
+msgstr ""
+
+#: admin/partials/get_apps.php:637
+msgid "Enter/Modify Access Code"
+msgstr ""
+
+#: admin/partials/get_apps.php:664 admin/partials/settings.php:48
+msgid ""
+"The first thing you need to do is grant our Facebook app permission to read your Facebook Page reviews and then copy the access code from our app and paste it in to the field "
+"below."
+msgstr ""
+
+#: admin/partials/get_apps.php:666 admin/partials/settings.php:49
+msgid "Designers/Developers: If you are setting this up for a client, it is recommended that you delete your Secret Access Code from the plugin after you download the reviews."
+msgstr ""
+
+#: admin/partials/get_apps.php:667 admin/partials/settings.php:52
+msgid "Get Access Code Here"
+msgstr ""
+
+#: admin/partials/get_apps.php:683 admin/partials/get_apps.php:749 admin/partials/get_apps.php:778 admin/partials/get_apps.php:807 admin/partials/get_apps.php:1317
+#: admin/partials/get_twitter.php:341 admin/partials/get_twitter.php:447 admin/partials/notifications.php:533 admin/partials/notifications.php:645
+#: admin/partials/notifications.php:756 admin/partials/notifications.php:785 admin/partials/notifications.php:839 admin/partials/notifications.php:980
+#: admin/partials/notifications.php:1103 admin/partials/templates_posts.php:3473
+msgid "Save"
+msgstr ""
+
+#: admin/partials/get_apps.php:740
+msgid "Get your API Key from Birdeye and enter it here to use their API."
+msgstr ""
+
+#: admin/partials/get_apps.php:740
+msgid "API info on Birdeye"
+msgstr ""
+
+#: admin/partials/get_apps.php:769
+msgid "Get your API Key from Google and enter it here to use their API."
+msgstr ""
+
+#: admin/partials/get_apps.php:769 admin/partials/notifications.php:711
+msgid "Instructions"
+msgstr ""
+
+#: admin/partials/get_apps.php:798
+msgid "Get your Secret Key from Yotpo and enter it here to use their API."
+msgstr ""
+
+#: admin/partials/get_apps.php:798
+msgid "How to find it."
+msgstr ""
+
+#: admin/partials/get_apps.php:818
+#, php-format
+msgid "%s reviews are a Premium feature. Please upgrade."
+msgstr ""
+
+#: admin/partials/get_apps.php:838
+msgid "Select Facebook Page:"
+msgstr ""
+
+#: admin/partials/get_apps.php:854
+msgid "The Facebook page to download reviews from."
+msgstr ""
+
+#: admin/partials/get_apps.php:869
+msgid "Plugin or Theme Name:"
+msgstr ""
+
+#: admin/partials/get_apps.php:871
+msgid "Place or Location Name:"
+msgstr ""
+
+#: admin/partials/get_apps.php:879
+#, php-format
+msgid "Enter a unique name for these %s reviews. This would normally be the name of what the reviews are talking about."
+msgstr ""
+
+#: admin/partials/get_apps.php:891
+msgid "Type to Find Location:"
+msgstr ""
+
+#: admin/partials/get_apps.php:899
+#, php-format
+msgid "If you have problems searching for your business then manually input the name and then enter the Place Id below. Look them up and copy them from the map on this %spage%s."
+msgstr ""
+
+#: admin/partials/get_apps.php:927
+msgid "Choose Review Site:"
+msgstr ""
+
+#: admin/partials/get_apps.php:935
+msgid "This is the app store you are downloading the reviews from."
+msgstr ""
+
+#: admin/partials/get_apps.php:942
+msgid "Plugin ID, Public Key, Secret Key"
+msgstr ""
+
+#: admin/partials/get_apps.php:944
+msgid "Token, IdContractor, CycleId, SurveyId, Langue"
+msgstr ""
+
+#: admin/partials/get_apps.php:946
+msgid "Merchant Identifier"
+msgstr ""
+
+#: admin/partials/get_apps.php:948
+msgid "Place ID or Search Terms"
+msgstr ""
+
+#: admin/partials/get_apps.php:950
+msgid "Business ID"
+msgstr ""
+
+#: admin/partials/get_apps.php:952
+msgid "Google Place ID"
+msgstr ""
+
+#: admin/partials/get_apps.php:954
+msgid "App Key or Store ID"
+msgstr ""
+
+#: admin/partials/get_apps.php:956
+msgid "Api Key, Survey ID"
+msgstr ""
+
+#: admin/partials/get_apps.php:958
+msgid "Review URL"
+msgstr ""
+
+#: admin/partials/get_apps.php:986
+msgid ""
+"Enter a comma separated list of your Plugin ID, Public Key, Secret Key in that order. They can be found by logging in to Freemius, click the plugin, go to Settings > Keys."
+msgstr ""
+
+#: admin/partials/get_apps.php:994
+msgid ""
+"Enter a comma separated list of your Token, IdContractor, CycleId, SurveyId, Langue in that order. They can be found by logging in to https://www.qualitelis-survey.com/. The "
+"CycleID, SurveyId, and Langue are optional. If you leave them out do so like this: xxxxtokenxxxx, xxxxIdContractorxxxx,,,xxxLanguexxx"
+msgstr ""
+
+#: admin/partials/get_apps.php:1002
+#, php-format
+msgid "Enter your merchant_identifier. Go %1$shere%2$s for more info."
+msgstr ""
+
+#: admin/partials/get_apps.php:1074
+msgid "Recommendations:"
+msgstr ""
+
+#: admin/partials/get_apps.php:1078
+msgid "Save Positive Recommendations as 5 Star and Negative as 2 Star."
+msgstr ""
+
+#: admin/partials/get_apps.php:1080
+msgid "This will allow you to display the stars with the review."
+msgstr ""
+
+#: admin/partials/get_apps.php:1092
+msgid "StyleSeat API URL:"
+msgstr ""
+
+#: admin/partials/get_apps.php:1095 admin/partials/get_apps.php:1115
+msgid "Video Instructions Using Chrome"
+msgstr ""
+
+#: admin/partials/get_apps.php:1112
+msgid "TrueLocal API URL:"
+msgstr ""
+
+#: admin/partials/get_apps.php:1130 admin/partials/get_apps.php:1330
+msgid "Language Code"
+msgstr ""
+
+#: admin/partials/get_apps.php:1135
+msgid "Optional: Indicate in which language the results should be returned, if possible."
+msgstr ""
+
+#: admin/partials/get_apps.php:1136
+msgid "Language Codes"
+msgstr ""
+
+#: admin/partials/get_apps.php:1148
+msgid "Which reviews?"
+msgstr ""
+
+#: admin/partials/get_apps.php:1151 admin/partials/notifications.php:1071
+msgid "Most Relevant"
+msgstr ""
+
+#: admin/partials/get_apps.php:1152 admin/partials/notifications.php:1070 admin/partials/templates_posts.php:1690 admin/partials/templates_posts.php:1708
+#: public/partials/wp-review-slider-pro-public-display-widget.php:118 public/partials/wp-review-slider-pro-public-display.php:357
+msgid "Newest"
+msgstr ""
+
+#: admin/partials/get_apps.php:1156 admin/partials/notifications.php:1072
+msgid "Both"
+msgstr ""
+
+#: admin/partials/get_apps.php:1161
+msgid "Which reviews would you like to download?"
+msgstr ""
+
+#: admin/partials/get_apps.php:1162
+msgid "Newest may not always work, it will fallback to Most Relevant."
+msgstr ""
+
+#: admin/partials/get_apps.php:1163
+msgid "This will download your Newest 5 or Most Helpful 5. \"Both\" will download 10 reviews. If you need more use the Google Crawl or Review Funnel."
+msgstr ""
+
+#: admin/partials/get_apps.php:1174 admin/partials/reviewfunnel.php:607 admin/partials/templates_posts.php:1440
+msgid "Number of Reviews"
+msgstr ""
+
+#: admin/partials/get_apps.php:1180
+msgid "The number of reviews you wish to download."
+msgstr ""
+
+#: admin/partials/get_apps.php:1182
+msgid " Max of "
+msgstr ""
+
+#: admin/partials/get_apps.php:1193 admin/partials/reviewfunnel.php:621
+msgid "Last Name Save Option"
+msgstr ""
+
+#: admin/partials/get_apps.php:1196
+msgid "Full Last Name"
+msgstr ""
+
+#: admin/partials/get_apps.php:1197
+msgid "Initial Only"
+msgstr ""
+
+#: admin/partials/get_apps.php:1200 admin/partials/reviewfunnel.php:628
+msgid "Set this to change the way the last name is saved in your database. You can also hide the last name when creating a review template."
+msgstr ""
+
+#: admin/partials/get_apps.php:1205 admin/partials/reviewfunnel.php:633
+msgid "Local Profile Images"
+msgstr ""
+
+#: admin/partials/get_apps.php:1228
+msgid ""
+"By default, avatar images are referenced from the original review site. Set this to yes if you would like the plugin to try and save the profile images locally. This may not "
+"always work as the remote site might block the download. "
+msgstr ""
+
+#: admin/partials/get_apps.php:1230
+msgid "Recommend you turn this on for Google as profile images can expire."
+msgstr ""
+
+#: admin/partials/get_apps.php:1238 admin/partials/reviewfunnel.php:645
+msgid "Auto Download Reviews"
+msgstr ""
+
+#: admin/partials/get_apps.php:1243 admin/partials/notifications.php:1078 admin/partials/reviewfunnel.php:650
+msgid "Once a Month"
+msgstr ""
+
+#: admin/partials/get_apps.php:1244 admin/partials/notifications.php:1079 admin/partials/reviewfunnel.php:651
+msgid "Every 14 Days"
+msgstr ""
+
+#: admin/partials/get_apps.php:1245 admin/partials/notifications.php:1080 admin/partials/reviewfunnel.php:652
+msgid "Every 7 Days"
+msgstr ""
+
+#: admin/partials/get_apps.php:1246 admin/partials/notifications.php:1081 admin/partials/reviewfunnel.php:653
+msgid "Every Other Day"
+msgstr ""
+
+#: admin/partials/get_apps.php:1247 admin/partials/notifications.php:1082 admin/partials/reviewfunnel.php:654
+msgid "Once a Day"
+msgstr ""
+
+#: admin/partials/get_apps.php:1250
+msgid "Automatically request a new scrape job and download the reviews."
+msgstr ""
+
+#: admin/partials/get_apps.php:1255
+msgid "Post Categories:"
+msgstr ""
+
+#: admin/partials/get_apps.php:1259 admin/partials/get_twitter.php:419 admin/partials/reviewfunnel.php:666 admin/partials/templates_posts.php:2159
+msgid "Select Categories"
+msgstr ""
+
+#: admin/partials/get_apps.php:1260 admin/partials/reviewfunnel.php:667
+msgid ""
+"Optional: Single or comma separated list of post category IDs. Allows you to associate the reviews with post categories as they are downloaded. You can then use the Category "
+"filter for the template. ex: 1,3,5"
+msgstr ""
+
+#: admin/partials/get_apps.php:1271 admin/partials/review_list.php:934
+msgid "Post IDs:"
+msgstr ""
+
+#: admin/partials/get_apps.php:1275 admin/partials/get_twitter.php:435 admin/partials/reviewfunnel.php:682
+msgid "Select Post IDs"
+msgstr ""
+
+#: admin/partials/get_apps.php:1276 admin/partials/reviewfunnel.php:683
+msgid ""
+"Optional: Single or comma separated list of post IDs. Allows you to associate the reviews with multiple posts or page IDs when they are downloaded. You can then use the Post "
+"filter for the template. ex: 11"
+msgstr ""
+
+#: admin/partials/get_apps.php:1285
+msgid "Crawl Server"
+msgstr ""
+
+#: admin/partials/get_apps.php:1298
+msgid "Local"
+msgstr ""
+
+#: admin/partials/get_apps.php:1299
+msgid "Remote"
+msgstr ""
+
+#: admin/partials/get_apps.php:1302
+msgid "Use your local WordPress server or our remote server to crawl for the reviews. If one method has trouble then try the other. Try local first."
+msgstr ""
+
+#: admin/partials/get_apps.php:1338 admin/partials/getrevs.php:204 admin/partials/reviewfunnel.php:712
+msgid "Title <br>URL or Query"
+msgstr ""
+
+#: admin/partials/get_apps.php:1340 admin/partials/settings.php:75
+msgid "Auto Download"
+msgstr ""
+
+#: admin/partials/get_apps.php:1341 admin/partials/getrevs.php:206
+msgid "Download Method"
+msgstr ""
+
+#: admin/partials/get_apps.php:1342 admin/partials/getrevs.php:208
+msgid "Last Ran"
+msgstr ""
+
+#: admin/partials/get_apps.php:1388 admin/partials/get_apps.php:1391 admin/partials/reviewfunnel.php:770 admin/partials/tabmenu.php:143
+msgid "Get Reviews"
+msgstr ""
+
+#: admin/partials/get_apps.php:1434
+#, php-format
+msgid ""
+"You can create a Review Form to download reviews from %s! Once downloaded, they will show up on the Review List page of the plugin and you can display them on your website "
+"with a Review Template. Click the <b>\"Add New Source Page\"</b> button above to get started."
+msgstr ""
+
+#: admin/partials/get_apps.php:1436
+msgid "This does not work with Lender reviews."
+msgstr ""
+
+#: admin/partials/get_apps.php:1439
+msgid "This will only download your Newest reviews. Use the Review Funnels if you need to download all your old "
+msgstr ""
+
+#: admin/partials/get_apps.php:1443
+#, php-format
+msgid "<b> %s reviews are limited to a max of 100 locations.</b>"
+msgstr ""
+
+#: admin/partials/get_apps.php:1470
+#, php-format
+msgid ""
+"This is just one of 3 ways to download Google business reviews. You can also use the Get Reviews > Google Places API or the Review Funnel method. Each one has it's pros and "
+"cons. Read more %shere%s. This method is limited to 100 locations and 50 reviews."
+msgstr ""
+
+#: admin/partials/get_apps.php:1472 admin/partials/get_apps.php:1474 admin/partials/get_apps.php:1476
+#, php-format
+msgid "This page will let you download reviews from multiple %s source pages. %s reviews are limited to a max of 100 locations."
+msgstr ""
+
+#: admin/partials/get_apps.php:1478
+#, php-format
+msgid "This page will let you download reviews from multiple %s source pages."
+msgstr ""
+
+#: admin/partials/get_tripadvisor.php:47
+#, php-format
+msgid "This method is limited to your recent reviews and may not return the Avatar. You can also use the %1$sReview Funnels%2$s method to download your reviews."
+msgstr ""
+
+#: admin/partials/get_tripadvisor.php:81 admin/partials/get_yelp.php:74
+msgid "Please enter the URL above and click Save Settings."
+msgstr ""
+
+#: admin/partials/get_tripadvisor.php:89
+#, php-format
+msgid "Use the %1$sReview Funnels%2$s feature if you need to grab all your reviews or if you have any trouble getting the reviews."
+msgstr ""
+
+#: admin/partials/get_tripadvisor.php:109
+msgid "Upgrade to the Pro Version of this plugin to download and display your TripAdvisor reviews! Get the Pro Version <a href=\""
+msgstr ""
+
+#: admin/partials/get_twitter.php:131
+msgid "Success! These keys work."
+msgstr ""
+
+#: admin/partials/get_twitter.php:138
+msgid "Oops! These keys do not work. "
+msgstr ""
+
+#: admin/partials/get_twitter.php:259 admin/partials/notifications.php:312
+msgid "<p><strong>Oops! This form could not be inserted in to the database.</br> -"
+msgstr ""
+
+#: admin/partials/get_twitter.php:307
+msgid "Enter/Modify API Keys"
+msgstr ""
+
+#: admin/partials/get_twitter.php:308
+msgid "Add New Twitter Source"
+msgstr ""
+
+#: admin/partials/get_twitter.php:318
+msgid "Consumer API Keys:"
+msgstr ""
+
+#: admin/partials/get_twitter.php:319
+msgid "API Key:"
+msgstr ""
+
+#: admin/partials/get_twitter.php:320
+msgid "API Secret Key:"
+msgstr ""
+
+#: admin/partials/get_twitter.php:323
+msgid "Access token & access token secret:"
+msgstr ""
+
+#: admin/partials/get_twitter.php:324
+msgid "Access Token:"
+msgstr ""
+
+#: admin/partials/get_twitter.php:325
+msgid "Access Token Secret:"
+msgstr ""
+
+#: admin/partials/get_twitter.php:331
+msgid ""
+"Twitter requires API Keys and Access Tokens to access their data. If you do not already have a Twitter Developer account, you'll need to create one. After that, you can create "
+"a Twitter application to get your keys and token. Instructions can be found on this <a href=\"https://ljapps.com/how-to-get-your-twitter-api-keys-access-tokens-access-premium-"
+"search-api/\" target=\"_blank\">page</a>."
+msgstr ""
+
+#: admin/partials/get_twitter.php:342
+msgid "API Instructions"
+msgstr ""
+
+#: admin/partials/get_twitter.php:352
+msgid "Twitter reviews are a Premium feature. Please upgrade."
+msgstr ""
+
+#: admin/partials/get_twitter.php:369
+msgid "Enter a unique name for these tweets. This would normally be the name of business/product/service the tweets are talking about."
+msgstr ""
+
+#: admin/partials/get_twitter.php:374
+msgid "Search Terms (query):"
+msgstr ""
+
+#: admin/partials/get_twitter.php:379
+msgid ""
+"The search terms to use in the query. 256 characters with 30-Day Sandbox tier, 128 with Full Archive Sandbox tier. See operators <a href=\"https://developer.twitter.com/en/"
+"docs/tweets/rules-and-filtering/overview/operators-by-product\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: admin/partials/get_twitter.php:381
+msgid "Example: LocalbyFlywheel -from:LocalbyFlywheel -RT"
+msgstr ""
+
+#: admin/partials/get_twitter.php:386
+msgid "Search API:"
+msgstr ""
+
+#: admin/partials/get_twitter.php:391
+msgid "30-day endpoint"
+msgstr ""
+
+#: admin/partials/get_twitter.php:392
+msgid "Full-archive endpoint"
+msgstr ""
+
+#: admin/partials/get_twitter.php:395
+msgid "Search the last 7-days of tweets using our API key."
+msgstr ""
+
+#: admin/partials/get_twitter.php:398
+msgid ""
+"If you choose 30 day search or Full archive, <b>you must enter your API Keys above.</b> Twitter gives you 250 free 30-day searches and 50 all-time searches a month. "
+"<br><br><b>Important:</b> After you get your API Keys, you <b>MUST</b> Go <a href=\"https://developer.twitter.com/en/account/environments\" target=\"_blank\">here</a> and "
+"click the \"Set up dev environment\" button. Make sure you use the label \"<b>wprevdev</b>\" for the \"Dev environment label\" and select the same app as the keys you used "
+"above."
+msgstr ""
+
+#: admin/partials/get_twitter.php:404
+msgid "Local Images"
+msgstr ""
+
+#: admin/partials/get_twitter.php:410
+msgid ""
+"By default, images are referenced from the original source server. Set this to yes if you would like the plugin to try and save the images locally. This may not always work as "
+"the remote site might block the download."
+msgstr ""
+
+#: admin/partials/get_twitter.php:415 admin/partials/review_list.php:420
+msgid "Review Categories:"
+msgstr ""
+
+#: admin/partials/get_twitter.php:420
+msgid ""
+"Single or comma separated list of post category IDs. Allows you to associate the reviews with post categories as they are downloaded. You can then use the Category filter for "
+"the template. ex: 1,3,5"
+msgstr ""
+
+#: admin/partials/get_twitter.php:431 admin/partials/review_list.php:436
+msgid "Review Post IDs:"
+msgstr ""
+
+#: admin/partials/get_twitter.php:436
+msgid ""
+"Single or comma separated list of post IDs. Allows you to associate the reviews with multiple posts or page IDs when they are downloaded. You can then use the Post filter for "
+"the template. ex: 11"
+msgstr ""
+
+#: admin/partials/get_twitter.php:463
+msgid "Query"
+msgstr ""
+
+#: admin/partials/get_twitter.php:464
+msgid "Last Checked"
+msgstr ""
+
+#: admin/partials/get_twitter.php:507
+msgid "Get Tweets"
+msgstr ""
+
+#: admin/partials/get_twitter.php:520
+msgid ""
+"You can create a Review Form to download tweets from Twitter! Once downloaded, they will show up on the Review List page of the plugin and you can display them on your website "
+"with a Review Template. Click the \"Add New Twitter Source Page\" button above to get started."
+msgstr ""
+
+#: admin/partials/get_twitter.php:532 admin/partials/review_list.php:610 admin/partials/templates_posts.php:3473
+msgid "Update"
+msgstr ""
+
+#: admin/partials/get_vrbo.php:65
+#, php-format
+msgid "You can use the %1$sReview Funnels%2$s feature to download HomeAway reviews."
+msgstr ""
+
+#: admin/partials/get_woo.php:25
+msgid "Settings Saved. Your WooCommerce reviews/comments should now show up on the Review List page below. "
+msgstr ""
+
+#: admin/partials/get_woo.php:28
+msgid "Settings Saved."
+msgstr ""
+
+#: admin/partials/get_yelp.php:101
+msgid "Upgrade to the Pro Version of this plugin to download and display your Yelp reviews! Get the Pro Version <a href=\""
+msgstr ""
+
+#: admin/partials/getrevs.php:32
+msgid "Add Review Source Site"
+msgstr ""
+
+#: admin/partials/getrevs.php:207
+msgid "Auto Update<br>(days)"
+msgstr ""
+
+#: admin/partials/getrevs.php:209
+msgid "Created"
+msgstr ""
+
+#: admin/partials/getrevs.php:368
+msgid "Use the <b>\"Add New Review Source Site\"</b> button to start downloading reviews. This page will also show you a list of currently set up source sites."
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:12
+msgid "Welcome"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:13
+msgid "Airbnb"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:14
+msgid "AngiesList"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:15
+msgid "Birdeye"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:16
+msgid "Experience"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:17
+msgid "Facebook"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:18
+msgid "FeedbackCompany"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:19
+msgid "Feefo"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:20
+msgid "Freemius"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:21
+msgid "Get Your Guide"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:22
+msgid "Google Crawl"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:23
+msgid "Google Places API"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:24
+msgid "GuildQuality"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:25
+msgid "Hostelworld"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:26
+msgid "Housecall Pro"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:27
+msgid "iTunes"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:28
+msgid "Nextdoor"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:29
+msgid "Qualitelis"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:30
+msgid "Reviews.io"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:31
+msgid "StyleSeat"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:32
+msgid "SourceForge"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:33
+msgid "TripAdvisor"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:34
+msgid "TrueLocal"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:35
+msgid "Twitter"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:36
+msgid "VRBO"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:37
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:38
+msgid "WordPress.org"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:39
+msgid "Yelp"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:40
+msgid "Yotpo"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:41
+msgid "Zillow"
+msgstr ""
+
+#: admin/partials/getrevs_sidemenu.php:42
+msgid "Review Funnels<br><small>(more sites)</small>"
+msgstr ""
+
+#: admin/partials/googlesettings.php:50
+#, php-format
+msgid ""
+"READ THIS FIRST: This method does NOT work on Service Area Businesses, they must have a physical address in google maps. It is also limited to your 5 Most Helpful reviews and "
+"requires a Google API Key. It is easier to use the %3$sGoogle Crawl%4$s or the %1$sReview Funnels%2$s method. Read more about them %5$shere%6$s."
+msgstr ""
+
+#: admin/partials/notifications.php:41
+msgid "New Reviews Notification - WP Review Slider Pro"
+msgstr ""
+
+#: admin/partials/notifications.php:42
+msgid "<b>WP Review Slider Pro</b> found the following reviews that match your notification settings."
+msgstr ""
+
+#: admin/partials/notifications.php:117
+msgid "Specify JS and CSS Pages Setting Updated!"
+msgstr ""
+
+#: admin/partials/notifications.php:132 admin/partials/notifications.php:160 admin/partials/notifications.php:174 admin/partials/notifications.php:322
+msgid "Settings Updated!"
+msgstr ""
+
+#: admin/partials/notifications.php:230
+msgid "Error Creating XML File"
+msgstr ""
+
+#: admin/partials/notifications.php:230
+msgid "Please contact support."
+msgstr ""
+
+#: admin/partials/notifications.php:233
+msgid "XML File Created!"
+msgstr ""
+
+#: admin/partials/notifications.php:363
+msgid "Review Notifications"
+msgstr ""
+
+#: admin/partials/notifications.php:364
+msgid ""
+"Allows you to get email notifications of new reviews based on certain rules. This is only for downloaded reviews. For submitted reviews use the setting on the review Form page."
+msgstr ""
+
+#: admin/partials/notifications.php:367
+msgid "Add New Notification"
+msgstr ""
+
+#: admin/partials/notifications.php:376
+msgid "Title:"
+msgstr ""
+
+#: admin/partials/notifications.php:381
+msgid "Enter a unique name for this notification."
+msgstr ""
+
+#: admin/partials/notifications.php:386
+msgid "Filter by Source Page(s):"
+msgstr ""
+
+#: admin/partials/notifications.php:419
+msgid "The original location of the reviews. Leave blank for all reviews."
+msgstr ""
+
+#: admin/partials/notifications.php:424
+msgid "Filter by Review Type:"
+msgstr ""
+
+#: admin/partials/notifications.php:453
+msgid "The type of review. Leave blank for all reviews."
+msgstr ""
+
+#: admin/partials/notifications.php:458
+msgid "Rating Rule:"
+msgstr ""
+
+#: admin/partials/notifications.php:461
+msgid "If Review Rating is"
+msgstr ""
+
+#: admin/partials/notifications.php:463
+msgid ">"
+msgstr ""
+
+#: admin/partials/notifications.php:464
+msgid "="
+msgstr ""
+
+#: admin/partials/notifications.php:465
+msgid "<"
+msgstr ""
+
+#: admin/partials/notifications.php:474
+msgid "6"
+msgstr ""
+
+#: admin/partials/notifications.php:479
+msgid "If the rating is greater, equal, or less than this value, send the notification."
+msgstr ""
+
+#: admin/partials/notifications.php:484
+msgid "Email Address:"
+msgstr ""
+
+#: admin/partials/notifications.php:489
+msgid "Email address of where you would like the notifications sent. This can also be a comma separated list of email addresses."
+msgstr ""
+
+#: admin/partials/notifications.php:494
+msgid "Email Subject Title:"
+msgstr ""
+
+#: admin/partials/notifications.php:499
+msgid "Customize the email subject."
+msgstr ""
+
+#: admin/partials/notifications.php:504
+msgid "Email Text Before Reviews:"
+msgstr ""
+
+#: admin/partials/notifications.php:509
+msgid "Customize the text in the email that appears before the list of reviews. It can be plain text or HTML."
+msgstr ""
+
+#: admin/partials/notifications.php:514
+msgid "Turn On/Off:"
+msgstr ""
+
+#: admin/partials/notifications.php:517
+msgid "On"
+msgstr ""
+
+#: admin/partials/notifications.php:518
+msgid "Off"
+msgstr ""
+
+#: admin/partials/notifications.php:520
+msgid "Turn this notification on or off. Allows you to pause a notification without deleting it."
+msgstr ""
+
+#: admin/partials/notifications.php:551
+msgid "Email"
+msgstr ""
+
+#: admin/partials/notifications.php:553
+msgid "Enabled"
+msgstr ""
+
+#: admin/partials/notifications.php:604
+msgid ""
+"You can create a Notification rule so that you get an email when the plugin downloads a new review. Click the \"Add New Notification\" button above. It helps if you already "
+"have reviews on the Review List page."
+msgstr ""
+
+#: admin/partials/notifications.php:627
+msgid "Specify Pages for JS and CSS"
+msgstr ""
+
+#: admin/partials/notifications.php:628
+msgid ""
+"Optional: Allows you to specify the Post/Page IDs where you would like the JS and CSS files for this plugin to get added. By default they are added to all pages so you can use "
+"the plugin on any page of your site. "
+msgstr ""
+
+#: admin/partials/notifications.php:633 admin/partials/notifications.php:637
+msgid "Comma separated list of Post or Page IDs."
+msgstr ""
+
+#: admin/partials/notifications.php:640
+msgid "<b>Warning:</b> If you enter a Post/Page ID and then try to use the plugin on a different page it will not work. Recommend that this is left blank."
+msgstr ""
+
+#: admin/partials/notifications.php:687
+msgid "Language Translator"
+msgstr ""
+
+#: admin/partials/notifications.php:689
+#, php-format
+msgid "Allows you to automatically create translated copies of reviews in another language. Requires <a href=\"%s\" target=\"_blank\">Google Translate</a> API Key."
+msgstr ""
+
+#: admin/partials/notifications.php:695
+msgid "Warning:"
+msgstr ""
+
+#: admin/partials/notifications.php:696
+#, php-format
+msgid ""
+"Google provides a certain amount of translations for <a href=\"%s\" target=\"_blank\">free</a> each month. Highly recommend that you set your daily <a href=\"%s\" "
+"target=\"_blank\">Quota</a> so that you do not get charged."
+msgstr ""
+
+#: admin/partials/notifications.php:708
+msgid "Google Translate API Key"
+msgstr ""
+
+#: admin/partials/notifications.php:711
+msgid "Enter your Google API key."
+msgstr ""
+
+#: admin/partials/notifications.php:720
+msgid "Setup Translations"
+msgstr ""
+
+#: admin/partials/notifications.php:725
+msgid "Target Language(s)"
+msgstr ""
+
+#: admin/partials/notifications.php:726
+msgid "Auto Run Daily"
+msgstr ""
+
+#: admin/partials/notifications.php:739
+msgid "Translate Reviews"
+msgstr ""
+
+#: admin/partials/notifications.php:744
+#, php-format
+msgid "Enter single Language Code or comma seperated list of <a href=\"%s\" target=\"_blank\"> Language Codes</a>."
+msgstr ""
+
+#: admin/partials/notifications.php:770
+msgid "Hide Reviews on Download"
+msgstr ""
+
+#: admin/partials/notifications.php:771
+msgid ""
+"Optional: Allows you to automatically hide reviews when they are downloaded. You will then need to use the \"eye\" icon on the Review List page to show the review in a "
+"template. "
+msgstr ""
+
+#: admin/partials/notifications.php:805
+msgid "Show Admin Pages Based on Role"
+msgstr ""
+
+#: admin/partials/notifications.php:806
+msgid ""
+"Optional: The Admin role has access to all pages of the plugin and the Editor role has access to the Review List and Analytics pages. If you would like to open the plugin up "
+"to more roles, choose them below."
+msgstr ""
+
+#: admin/partials/notifications.php:863
+msgid "Google Product Ratings XML File"
+msgstr ""
+
+#: admin/partials/notifications.php:864
+msgid ""
+"If you are a part of the Google Merchant Program, the Product Ratings program allows you to display aggregated reviews for your products to customers shopping on Google. The "
+"program requires you to link to a review XML file. This will create the file for you."
+msgstr ""
+
+#: admin/partials/notifications.php:909
+msgid "Only use this if you have been approved to use Product Ratings in the Google Merchant Center."
+msgstr ""
+
+#: admin/partials/notifications.php:950
+msgid "This is the URL that you will submit to Google Merchant Center."
+msgstr ""
+
+#: admin/partials/notifications.php:961
+msgid ""
+"1) The plugin will search the Product meta and custom fields for GTIN, MPN, SKU, and Brand or each product. Please check the xml file to make sure it is finding the correct "
+"values. "
+msgstr ""
+
+#: admin/partials/notifications.php:965
+msgid "2) It will use the most recent 20 reviews for each product that have at least 25 characters."
+msgstr ""
+
+#: admin/partials/notifications.php:998
+msgid "Automatic Add Review Sources"
+msgstr ""
+
+#: admin/partials/notifications.php:1000
+msgid "Allows you to automatically add review sources based on a custom field value in a Post or Page. Currently only works for Google Places API."
+msgstr ""
+
+#: admin/partials/notifications.php:1006
+msgid "Instructions:"
+msgstr ""
+
+#: admin/partials/notifications.php:1008
+#, php-format
+msgid "- Make sure you have your Google Places API entered and working on this <a href=\"%s\" target=\"_blank\"> page</a>."
+msgstr ""
+
+#: admin/partials/notifications.php:1010
+msgid "- Use the \"Add a New Source Page\" button after you enter your API Key and go ahead and download some reviews. Make sure everything is working."
+msgstr ""
+
+#: admin/partials/notifications.php:1012
+msgid "- IMPORTANT: You must have a custom field on your Posts or Pages that contains the Google Places API."
+msgstr ""
+
+#: admin/partials/notifications.php:1024
+msgid "Source Type"
+msgstr ""
+
+#: admin/partials/notifications.php:1025
+msgid "Post Type"
+msgstr ""
+
+#: admin/partials/notifications.php:1026
+msgid "Custom Field Name"
+msgstr ""
+
+#: admin/partials/notifications.php:1027
+msgid "Run Hourly"
+msgstr ""
+
+#: admin/partials/notifications.php:1028
+msgid "Form: Language Code "
+msgstr ""
+
+#: admin/partials/notifications.php:1029
+msgid "Form: Which reviews?  "
+msgstr ""
+
+#: admin/partials/notifications.php:1030
+msgid "Form: Auto Download  "
+msgstr ""
+
+#: admin/partials/notifications.php:1035
+msgid "Google API"
+msgstr ""
+
+#: admin/partials/notifications.php:1087
+msgid "Run Once"
+msgstr ""
+
+#: admin/partials/notifications.php:1088
+msgid "Run Once + Download Reviews"
+msgstr ""
+
+#: admin/partials/notifications.php:1095
+msgid ""
+"Notes:<br>-This will set up ten Review Source Pages at a Time. <br>-\"Custom Field Name\" is the custom field on the Post/Page that contains the Place ID. <br>-\"Run Hourly\" "
+"will do 10 every hour. <br>- Recommend that you check the sources on the Get Reviews tab after the first run. <br>- The reviews will be downloaded the next time the cron job "
+"runs which is once a day.<br>- \"The Form:\" settings are used to setup the automatically generated download forms.<br>- \"Run Once\" will setup the review sources on the Get "
+"Reviews tab. \"Run Once + Download Reviews\" will do the same but also go ahead and download the reviews."
+msgstr ""
+
+#: admin/partials/notifications.php:1144
+msgid "Working..."
+msgstr ""
+
+#: admin/partials/notifications.php:1158
+msgid "Upgrade to the Pro Version of this plugin to get notifications! Get the Pro Version <a href=\""
+msgstr ""
+
+#: admin/partials/review_list.php:32 admin/partials/review_list.php:624
+msgid "Failed security check."
+msgstr ""
+
+#: admin/partials/review_list.php:118
+msgid "reviews imported"
+msgstr ""
+
+#: admin/partials/review_list.php:118
+msgid "reviews skipped because of duplicates found."
+msgstr ""
+
+#: admin/partials/review_list.php:188
+msgid "Remove Reviews"
+msgstr ""
+
+#: admin/partials/review_list.php:189
+msgid "Manually Add Review"
+msgstr ""
+
+#: admin/partials/review_list.php:190
+msgid "Download CSV File of Reviews"
+msgstr ""
+
+#: admin/partials/review_list.php:191
+msgid "Import Reviews"
+msgstr ""
+
+#: admin/partials/review_list.php:210
+msgid "copy last entered"
+msgstr ""
+
+#: admin/partials/review_list.php:215
+msgid "Review Rating (1 - 5):"
+msgstr ""
+
+#: admin/partials/review_list.php:228
+msgid "blank"
+msgstr ""
+
+#: admin/partials/review_list.php:251
+msgid "Star Display:"
+msgstr ""
+
+#: admin/partials/review_list.php:255
+msgid "Show Stars"
+msgstr ""
+
+#: admin/partials/review_list.php:257
+msgid "Hide Stars"
+msgstr ""
+
+#: admin/partials/review_list.php:263 admin/partials/templates_posts.php:987
+msgid "Review Title:"
+msgstr ""
+
+#: admin/partials/review_list.php:271
+msgid "Review Text:"
+msgstr ""
+
+#: admin/partials/review_list.php:283
+msgid "owner response"
+msgstr ""
+
+#: admin/partials/review_list.php:286
+msgid "Response Owner Name:"
+msgstr ""
+
+#: admin/partials/review_list.php:289
+msgid "Response Text:"
+msgstr ""
+
+#: admin/partials/review_list.php:292
+msgid "Response Date:"
+msgstr ""
+
+#: admin/partials/review_list.php:295
+msgid "This does not change the owner response on the original review source site. You can display the owner response in a review template if you use a child theme."
+msgstr ""
+
+#: admin/partials/review_list.php:302
+msgid "Reviewer Info:"
+msgstr ""
+
+#: admin/partials/review_list.php:305
+msgid "Name:"
+msgstr ""
+
+#: admin/partials/review_list.php:306
+msgid "Email:"
+msgstr ""
+
+#: admin/partials/review_list.php:307
+msgid "Location:"
+msgstr ""
+
+#: admin/partials/review_list.php:309
+msgid "Enter the name of the person who wrote this review. Email & Location are optional."
+msgstr ""
+
+#: admin/partials/review_list.php:314
+msgid "Company Info:"
+msgstr ""
+
+#: admin/partials/review_list.php:321
+msgid "Optional: Enter the reviewer's location or company details. Will show up under their name in the review."
+msgstr ""
+
+#: admin/partials/review_list.php:326
+msgid "Reviewer Pic URL:"
+msgstr ""
+
+#: admin/partials/review_list.php:336
+msgid "Avatar for the person who wrote the review. Click one of the following images to insert generic avatar URL."
+msgstr ""
+
+#: admin/partials/review_list.php:356
+msgid "Review Date:"
+msgstr ""
+
+#: admin/partials/review_list.php:364
+msgid "Review Icon:"
+msgstr ""
+
+#: admin/partials/review_list.php:387
+msgid "Optional: If you would like to display the logo of the site where the review came from. Not normally used for submitted reviews."
+msgstr ""
+
+#: admin/partials/review_list.php:389
+msgid "Copy Last Used URLs"
+msgstr ""
+
+#: admin/partials/review_list.php:391
+msgid "This will appear in the bottom right of the review. Height of 32px works best."
+msgstr ""
+
+#: admin/partials/review_list.php:400
+msgid "Review Link URL:"
+msgstr ""
+
+#: admin/partials/review_list.php:405
+msgid "Optional: Input the URL location of the original review. Not normally used for submitted reviews."
+msgstr ""
+
+#: admin/partials/review_list.php:410
+msgid "Reviewer Consent:"
+msgstr ""
+
+#: admin/partials/review_list.php:415
+msgid "Did the person check the consent checkbox when submitting the review. Not used for downloaded reviews."
+msgstr ""
+
+#: admin/partials/review_list.php:425
+msgid ""
+"Optional: Single or comma separated list of post category IDs. Allows you to associate the review with post categories. Submitted reviews are automatically associated with the "
+"categories of the post that the form is located on. ex: 1,3,5"
+msgstr ""
+
+#: admin/partials/review_list.php:441
+msgid ""
+"Optional: Single or comma separated list of post IDs. Allows you to associate the review with multiple posts or page IDs. Submitted reviews are automatically associated with "
+"the post ID that the form is located on. ex: 11"
+msgstr ""
+
+#: admin/partials/review_list.php:462
+msgid "Source Location:"
+msgstr ""
+
+#: admin/partials/review_list.php:507
+msgid "Optional: This lets you tag this review to a certain Source Page location. Then it can be displayed by location when creating a template."
+msgstr ""
+
+#: admin/partials/review_list.php:517
+msgid "Language Code:"
+msgstr ""
+
+#: admin/partials/review_list.php:522
+msgid "Optional: Two character language code of this reviews. Allows you to filter by language on the Template page. ex: en"
+msgstr ""
+
+#: admin/partials/review_list.php:532
+msgid "Optional: Comma seperate list of tags. Allows you to filter by tag in the review template settings."
+msgstr ""
+
+#: admin/partials/review_list.php:538
+msgid "Review Media:"
+msgstr ""
+
+#: admin/partials/review_list.php:540
+msgid "Enter Image or Video URLs"
+msgstr ""
+
+#: admin/partials/review_list.php:542
+msgid "Optional: Add images or YouTube videos under the review text."
+msgstr ""
+
+#: admin/partials/review_list.php:551
+msgid "Media URLs"
+msgstr ""
+
+#: admin/partials/review_list.php:562
+msgid "Optional Thumbnail URLs"
+msgstr ""
+
+#: admin/partials/review_list.php:576
+msgid "Add the image or YouTube URL in the left input, then add the Thumbnail for the image or video on the right."
+msgstr ""
+
+#: admin/partials/review_list.php:609 admin/partials/templates_posts.php:3472
+msgid "Save & Close"
+msgstr ""
+
+#: admin/partials/review_list.php:611
+msgid "Close"
+msgstr ""
+
+#: admin/partials/review_list.php:761
+msgid "Weight"
+msgstr ""
+
+#: admin/partials/review_list.php:769
+msgid "All Stars"
+msgstr ""
+
+#: admin/partials/review_list.php:770 admin/partials/templates_posts.php:3123
+msgid "1 Star"
+msgstr ""
+
+#: admin/partials/review_list.php:771 admin/partials/templates_posts.php:3124
+msgid "2 Star"
+msgstr ""
+
+#: admin/partials/review_list.php:772 admin/partials/templates_posts.php:3125
+msgid "3 Star"
+msgstr ""
+
+#: admin/partials/review_list.php:773 admin/partials/templates_posts.php:3126
+msgid "4 Star"
+msgstr ""
+
+#: admin/partials/review_list.php:774 admin/partials/templates_posts.php:3127
+msgid "5 Star"
+msgstr ""
+
+#: admin/partials/review_list.php:777
+msgid "All Types"
+msgstr ""
+
+#: admin/partials/review_list.php:791
+msgid "All Tags"
+msgstr ""
+
+#: admin/partials/review_list.php:827
+msgid "All Languages"
+msgstr ""
+
+#: admin/partials/review_list.php:838
+msgid "unset"
+msgstr ""
+
+#: admin/partials/review_list.php:840
+msgid "All Source Pages"
+msgstr ""
+
+#: admin/partials/review_list.php:871
+msgid "No reviews found. Please visit the <a href=\"?page=wp_pro-settings\">Get FB Reviews</a> page to retrieve reviews from Facebook, or manually add one."
+msgstr ""
+
+#: admin/partials/review_list.php:910
+msgid "Caution: "
+msgstr ""
+
+#: admin/partials/review_list.php:910
+msgid ""
+"This will bulk edit all reviews currently filtered. If no filter is used then it will change all reviews in your database. If you need to edit just one review then use the "
+"Pencil Icon to the left of the review."
+msgstr ""
+
+#: admin/partials/review_list.php:912
+msgid "\"Replace\": "
+msgstr ""
+
+#: admin/partials/review_list.php:912
+msgid "Deletes the current values for all the reviews and adds the values you input. "
+msgstr ""
+
+#: admin/partials/review_list.php:913
+msgid "\"Add To\": "
+msgstr ""
+
+#: admin/partials/review_list.php:913
+msgid "Keeps the current values and adds the values in the input field."
+msgstr ""
+
+#: admin/partials/review_list.php:915
+msgid "\"Remove\": "
+msgstr ""
+
+#: admin/partials/review_list.php:915
+msgid "Searches the reviews and deletes the value in the input field."
+msgstr ""
+
+#: admin/partials/review_list.php:916
+msgid "\"Remove All\": "
+msgstr ""
+
+#: admin/partials/review_list.php:916
+msgid "Deletes all current values."
+msgstr ""
+
+#: admin/partials/review_list.php:920
+msgid "Categories:"
+msgstr ""
+
+#: admin/partials/review_list.php:922 admin/partials/review_list.php:936 admin/partials/review_list.php:950
+msgid "Replace"
+msgstr ""
+
+#: admin/partials/review_list.php:923 admin/partials/review_list.php:937 admin/partials/review_list.php:951
+msgid "Add To"
+msgstr ""
+
+#: admin/partials/review_list.php:924 admin/partials/review_list.php:938 admin/partials/review_list.php:952
+msgid "Remove"
+msgstr ""
+
+#: admin/partials/review_list.php:925 admin/partials/review_list.php:939 admin/partials/review_list.php:953
+msgid "Remove All"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:226
+msgid "Oops! The Review Funnel could not be inserted in to the database. Try to use a more unique Funnel Name or add a number to the end."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:271
+msgid "Oops! The Review Funnel could not be inserted in to the database. Make sure you are only using the main part of the URL."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:316
+msgid "Review Funnel Updated!"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:330
+msgid "Oops! The Review Funnel could not be updated in the database. Make sure you are only using the main part of the URL."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:381
+msgid "Error: Unable to check your review credit balance. Please try again. "
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:406
+msgid "Add New Review Funnel"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:407
+msgid "Buy More Review Credits"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:417
+msgid "Use this form to import previously exported Review Funnels."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:428
+msgid "Review Funnels are a Premium feature. Please upgrade."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:437
+msgid "Your website automatically gets 2,000 review credits every year it has an active license."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:438
+msgid ""
+"When you make a request to scrape a site it will cost (10 review credits + the # of reviews scraped) against your Review Credits, even if you don't download them. Take care if "
+"you are Automatically checking for new reviews not to set it to often."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:439
+msgid "Buy more credits here."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:452
+msgid "Review Credits Remaining"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:452
+msgid "(more info)"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:459
+msgid "Total Scrape Jobs Added"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:466
+msgid "Last Scrape Date"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:489
+#, php-format
+msgid ""
+"Review Funnels use a third party service to download reviews. They allow you to get reviews from many more sites above the built-in download method.<br> Fill out the form "
+"below to create a Review Funnel to get reviews from <b>%1$s</b>! <br><br><b>Note:</b> Since Review Funnels use a paid third-party service, this site will get 2,000 free review "
+"credits every year as long as the license is active."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:502
+msgid "Funnel Name"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:507
+msgid "Enter a unique name for this Review Funnel. This is usually the name of the business or product."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:512
+msgid "Choose Review Site"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:527
+msgid "This is the site you are downloading the reviews from."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:534
+msgid "Review Source URL"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:539
+msgid "The URL of the page where the reviews are located. Needs to be publicly visible with a web browser."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:547
+msgid "From Date"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:552
+msgid ""
+"Only scrape reviews from a specific past date. Set this older than the oldest review you want to download. Allows you to limit the number of Review Credits used. If you don't "
+"have a datepicker then use the format yyyy-mm-dd. EX: 2019-01-01"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:557
+msgid "Google Info"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:561
+msgid "Place ID"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:562
+msgid "Search Terms"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:566
+msgid "Enter Google search terms."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:568
+msgid ""
+"These are the search terms you enter in Google to get your business to show up on the right hand side of the Google results. Generate the query with the full name of the "
+"business and then the city and state for best results. Sometimes you need the full address. "
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:570
+msgid "Enter Google Place ID"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:573
+msgid "This is the Google Place ID for the location. "
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:573
+msgid "How to find Place ID."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:576
+msgid "Search Engine Location"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:582
+msgid "Search Engine Language"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:594
+msgid "Max Number of Reviews to Return"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:600
+msgid "The maximum number of reviews you wish to download. Set this to a really large number if you need to grab all your reviews. Set to a small number to save review credits."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:612
+msgid "all"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:615
+msgid "For Facebook, we can currently try to grab 10 most helpful reviews or All of the reviews."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:639
+msgid ""
+"By default, avatar images are referenced from the original review site. Set this to yes if you would like the plugin to try and save the profile images locally. This may not "
+"always work as the remote site might block the download."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:657
+msgid ""
+"Automatically request a new scrape job and download the reviews. <b>Warning:</b> It will cost <b>10 review credits</b> every time this runs, even if no new reviews are found."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:662
+msgid "Post Categories"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:678
+msgid "Post IDs"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:696
+msgid "Save Review Funnel"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:713
+msgid "From Date<br> or Number"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:715
+msgid "Cron"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:775
+msgid ""
+"<tr><td colspan=\"7\">You can create a Review Funnel to download reviews from even more sites! Click the \"Add New Review Funnel\" button above to get started.<br><br><b>Note:"
+"</b> Review Funnels use a third party service to download reviews, so you are limited to 2,000 free review credits per a year per a site. You must also have an active license "
+"for this plugin.</td></tr>"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:788
+msgid ""
+"<p>Use the button below to request our remote server to scrape a URL that contains your reviews. Once the job is done, it will show up in the table below so that you can "
+"download your reviews.</p><p>\"Only Scrape New Reviews\" can only be used after you have at least one complete scrape job. It will only download reviews from your last scrape "
+"job.</p> <p><b>Note:</b> When you make a request to scrape a webpage it will cost (<b>10 review credits + the # of reviews scraped</b>) against your Review Credits, even if "
+"you don't download them. Choose the \"Only Scrape New Reviews\" option after your first scrape to save review credits."
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:796
+msgid "Only Scrape New Reviews"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:797
+msgid "Use From Date or Max Number"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:799
+msgid "Request New Scrape"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:803
+msgid "Job&nbsp;ID"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:804
+msgid "Ran&nbsp;On"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:805
+msgid "#&nbsp;of<br>Reviews"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:806
+msgid "Avg<br>Rating"
+msgstr ""
+
+#: admin/partials/reviewfunnel.php:807
+msgid "Status<br>%&nbsp;Done"
+msgstr ""
+
+#: admin/partials/settings.php:26
+msgid "Settings Saved! If you have previously downloaded FB reviews and would like the settings applied to them, you will need to remove and re-download them."
+msgstr ""
+
+#: admin/partials/settings.php:70
+msgid "Download Your Facebook Page Reviews"
+msgstr ""
+
+#: admin/partials/settings.php:70
+msgid "Click the button below for the page(s) you would like to display reviews for. Afterwords go to the \"Reviews List\" Page to see all your reviews"
+msgstr ""
+
+#: admin/partials/settings.php:70
+msgid "Check the Auto Download if you would like the plugin to automatically check for new reviews every 24 hours."
+msgstr ""
+
+#: admin/partials/settings.php:76
+msgid "Page Name"
+msgstr ""
+
+#: admin/partials/settings.php:77
+msgid "Page ID"
+msgstr ""
+
+#: admin/partials/settings.php:83
+msgid "No pages to list. Make sure you have pasted your Secret Access Code above and have granted the manage_pages permission to the app and clicked the Save Settings button."
+msgstr ""
+
+#: admin/partials/settings.php:90
+msgid "Previous"
+msgstr ""
+
+#: admin/partials/settings.php:91
+msgid "Next"
+msgstr ""
+
+#: admin/partials/tabmenu.php:142
+msgid "Dashboard"
+msgstr ""
+
+#: admin/partials/tabmenu.php:145
+msgid "Review Funnels"
+msgstr ""
+
+#: admin/partials/tabmenu.php:149
+msgid "Templates"
+msgstr ""
+
+#: admin/partials/tabmenu.php:150
+msgid "Badges"
+msgstr ""
+
+#: admin/partials/tabmenu.php:151
+msgid "Forms"
+msgstr ""
+
+#: admin/partials/tabmenu.php:152
+msgid "Floats"
+msgstr ""
+
+#: admin/partials/tabmenu.php:154
+msgid "Analytics"
+msgstr ""
+
+#: admin/partials/tabmenu.php:156
+msgid "Tools"
+msgstr ""
+
+#: admin/partials/templates_posts.php:749
+msgid "Unable to save template. Try de-activating and re-activating the plugin on the Plugins page. That will force the database table to update."
+msgstr ""
+
+#: admin/partials/templates_posts.php:761
+msgid "Unable to update. Try de-activating and re-activating the plugin. That will force the database table to update."
+msgstr ""
+
+#: admin/partials/templates_posts.php:800
+msgid "Add New Reviews Template"
+msgstr ""
+
+#: admin/partials/templates_posts.php:801
+msgid "Export Templates"
+msgstr ""
+
+#: admin/partials/templates_posts.php:802
+msgid "Import Templates"
+msgstr ""
+
+#: admin/partials/templates_posts.php:806
+msgid "Use this form to import previously exported Templates."
+msgstr ""
+
+#: admin/partials/templates_posts.php:822
+msgid "Slider or Grid"
+msgstr ""
+
+#: admin/partials/templates_posts.php:878 admin/partials/templates_posts.php:3475
+msgid "Preview"
+msgstr ""
+
+#: admin/partials/templates_posts.php:884
+msgid "Use the \"Add New Reviews Template\" button to create your first review template that you can use to display reviews on your site."
+msgstr ""
+
+#: admin/partials/templates_posts.php:919
+msgid "Template Name:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:924
+msgid "Enter a name for this template."
+msgstr ""
+
+#: admin/partials/templates_posts.php:929
+msgid "Choose Template Type:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:934
+msgid "Post or Page (Shortcode)"
+msgstr ""
+
+#: admin/partials/templates_posts.php:940
+msgid ""
+"Are you going to use this on a Page/Post or in a Widget area like your sidebar? Widget type can only display one column. <br>If you need more than one column use the Post type "
+"and then insert the shortcode in a text widget."
+msgstr ""
+
+#: admin/partials/templates_posts.php:963
+msgid "Template Style:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:969
+msgid "Star Color & Size:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:972
+msgid "Show Verified:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:975
+msgid "Star Location:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:978
+msgid "Date:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:981
+msgid "Display Avatar:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:984
+msgid "First Last Name:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:990
+msgid "Site Icon:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:996 admin/partials/templates_posts.php:2452
+msgid "Corner Radius:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1000
+msgid "Background Color 1:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1003
+msgid "Background Color 2:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1015 admin/partials/templates_posts.php:3371
+msgid "Border Color:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1018
+msgid "Font Size 1:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1021
+msgid "Font Size 2:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1130
+msgid "Search Reviews"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1132
+msgid "Sort By..."
+msgstr ""
+
+#: admin/partials/templates_posts.php:1143 admin/partials/templates_posts.php:2253
+msgid "Filter By Language"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1146 admin/partials/templates_posts.php:2003
+msgid "Filter By Rating"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1183
+msgid "Filter By Source"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1223
+msgid "Style1"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1224
+msgid "Style2"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1241
+msgid "Location 1"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1242
+msgid "Location 2"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1261
+msgid "WP Admin"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1262
+msgid "Time Since"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1263
+msgid "Hide Date"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1270
+msgid "Mystery"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1271
+msgid "Initials"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1285 admin/partials/templates_posts.php:1290
+msgid "Initial"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1303
+msgid "Choose"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1360
+msgid "Reset Colors"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1406
+msgid "Enter custom CSS code to change the look even more."
+msgstr ""
+
+#: admin/partials/templates_posts.php:1408
+msgid "<a href=\"https://wpreviewslider.com/wp-content/uploads/2022/04/CSS_example.mp4\" target=\"_blank\">Video Example</a>"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1443
+msgid "How many per a row?"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1453
+msgid "How many total rows?"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1456
+msgid "Masonry style?"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1464
+msgid "How many reviews to display on the page at a time. Masonry Style allows you to create a Pinterest style view."
+msgstr ""
+
+#: admin/partials/templates_posts.php:1470
+msgid "Slider Or Grid"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1476
+msgid "Grid"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1477
+msgid "Slider - Normal"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1481
+msgid "Slider - Advanced"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1487
+msgid "How many total slides?"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1512
+msgid "Allows you to create a slide show with your reviews. One slide equals one page of reviews."
+msgstr ""
+
+#: admin/partials/templates_posts.php:1520
+msgid "Slider Settings:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1526
+msgid "Autoplay Slides:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1533
+msgid "Time delay between slides:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1535
+msgid "0 sec"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1536
+msgid "1 sec"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1537
+msgid "3 sec"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1538
+msgid "5 sec"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1539
+msgid "7 sec"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1540
+msgid "9 sec"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1541
+msgid "11 sec"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1542
+msgid "13 sec"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1543
+msgid "15 sec"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1544
+msgid "20 sec"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1545
+msgid "25 sec"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1550
+msgid "Slide Animation:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1553
+msgid "Horizontal"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1555
+msgid "Fade"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1559
+msgid "Show Navigation Arrows:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1564 admin/partials/templates_posts.php:1577
+msgid "Desktop Only"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1571
+msgid "Show Navigation Dots:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1585
+msgid "Change Height of Each Slide:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1594
+msgid "Animation Speed:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1597
+msgid "How long (in milliseconds) the slider should animate between slides."
+msgstr ""
+
+#: admin/partials/templates_posts.php:1601
+msgid "Mobile Slide View:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1604
+msgid "Stack Reviews"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1606
+msgid "One Review per Slide"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1614
+msgid "Infinite Scroll:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1622
+msgid "Scroll One Review:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1630
+msgid "Center Mode:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1634
+msgid "Center Padding:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1640
+msgid "Avatar Navigation:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1654 admin/partials/templates_posts.php:1671
+msgid "Load More"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1663
+msgid "Display As:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1666
+msgid "Page Numbers"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1667
+msgid "Endless Scroll"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1670
+msgid "Load More Text:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1677
+msgid "Adds a button or pagination bar  below the reviews that will load more when clicked. \"Endless Scroll\" will auto load on page scroll."
+msgstr ""
+
+#: admin/partials/templates_posts.php:1679
+msgid "More reviews are loaded automatically when the last slide appears."
+msgstr ""
+
+#: admin/partials/templates_posts.php:1685
+msgid "Display Order"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1689 admin/partials/templates_posts.php:1707 public/partials/wp-review-slider-pro-public-display-widget.php:124
+#: public/partials/wp-review-slider-pro-public-display.php:363
+msgid "Random"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1691 admin/partials/templates_posts.php:1709 public/partials/wp-review-slider-pro-public-display-widget.php:119
+#: public/partials/wp-review-slider-pro-public-display.php:358
+msgid "Oldest"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1692 admin/partials/templates_posts.php:1710
+msgid "Highest Rated"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1693 admin/partials/templates_posts.php:1711
+msgid "Lowest Rated"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1694 admin/partials/templates_posts.php:1712 public/partials/wp-review-slider-pro-public-display-widget.php:122
+#: public/partials/wp-review-slider-pro-public-display.php:361
+msgid "Longest"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1695 admin/partials/templates_posts.php:1713 public/partials/wp-review-slider-pro-public-display-widget.php:123
+#: public/partials/wp-review-slider-pro-public-display.php:362
+msgid "Shortest"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1696 admin/partials/templates_posts.php:1714
+msgid "Sort Weight"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1705
+msgid "Secondary Sort Order:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1718
+msgid "Limit them to the past:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1720 public/partials/template_class.php:457
+msgid "month"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1721 admin/partials/templates_posts.php:1722 admin/partials/templates_posts.php:1723 admin/partials/templates_posts.php:1724
+#: admin/partials/templates_posts.php:1725 admin/partials/templates_posts.php:1726 admin/partials/templates_posts.php:1727 admin/partials/templates_posts.php:1728
+#: admin/partials/templates_posts.php:1729 admin/partials/templates_posts.php:1730 admin/partials/templates_posts.php:1731 admin/partials/templates_posts.php:1732
+#: admin/partials/templates_posts.php:1733 admin/partials/templates_posts.php:1734 admin/partials/templates_posts.php:1735
+msgid "months"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1736
+msgid "all months"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1741
+msgid "The order in which the reviews are displayed. The Secondary Sort Order is only used if two reviews are equal."
+msgstr ""
+
+#: admin/partials/templates_posts.php:1743
+msgid "You can change the individual Sort Weight for each review on the Review List page. Very right column. Reviews with the largest Sort Weight are shown first."
+msgstr ""
+
+#: admin/partials/templates_posts.php:1777
+msgid "Trim Long Reviews"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1786
+msgid "Max lines of text to display:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1788
+msgid "Use:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1790
+msgid "Read More"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1791
+msgid "Scroll Bar"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1796
+msgid "Read More Text:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1797 public/partials/template_class.php:898
+msgid "read more"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1798
+msgid "Read Less Text:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1799 public/partials/template_class.php:909
+msgid "read less"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1812
+msgid "Pop-up review in lightbox when clicking read more."
+msgstr ""
+
+#: admin/partials/templates_posts.php:1815
+msgid "Auto-scroll on hover."
+msgstr ""
+
+#: admin/partials/templates_posts.php:1820
+msgid "Shorten long reviews and add a \"Read More\" or a Scroll Bar. "
+msgstr ""
+
+#: admin/partials/templates_posts.php:1869
+msgid "Reviews Same Height"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1872
+msgid "Force the reviews to be the same height regardless of text length?"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1875
+msgid "No -double line breaks"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1876
+msgid "No -all line breaks"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1878
+msgid "Yes -double line breaks"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1879
+msgid "Yes -all line breaks"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1883
+msgid ""
+"The individual review boxes will all be equal to the biggest one in all slides. The -double line breaks will get rid of the double line breaks in the review text. The -all "
+"line breaks will remove all line breaks. "
+msgstr ""
+
+#: admin/partials/templates_posts.php:1893
+msgid "Template Margins"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1897
+msgid "Desktop - "
+msgstr ""
+
+#: admin/partials/templates_posts.php:1898 admin/partials/templates_posts.php:1906
+msgid "Top/Bottom:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1901 admin/partials/templates_posts.php:1909
+msgid "Left/Right:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1905
+msgid "Mobile - "
+msgstr ""
+
+#: admin/partials/templates_posts.php:1913
+msgid "Add some margins around the review template. This can be helpful if the slider arrows are overlapping another element."
+msgstr ""
+
+#: admin/partials/templates_posts.php:1918
+msgid "Default Avatar Style"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1942
+msgid "If the review is missing the avatar then this will be used. Does not affect downloaded avatars that have a default avatar on their original site."
+msgstr ""
+
+#: admin/partials/templates_posts.php:1951
+msgid "Show on Device"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1965
+msgid "Allows you to hide these reviews on mobile or desktop if you like. Useful if you want to use different templates based on screen size."
+msgstr ""
+
+#: admin/partials/templates_posts.php:1984
+msgid "By default this review template will show all the reviews on the Review List page. Use the filters below to hide the ones you do not want to show."
+msgstr ""
+
+#: admin/partials/templates_posts.php:1989
+msgid "Filter Reviews Without Text"
+msgstr ""
+
+#: admin/partials/templates_posts.php:1997
+msgid "Set to Yes and only display reviews that have text included."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2007
+msgid "Show All"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2008
+msgid "2 & Higher"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2009
+msgid "3 & Higher"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2010
+msgid "4 & Higher"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2011
+msgid "Only 5 Star"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2014
+msgid "Show only reviews with at least this value rating. Allows you to hide low reviews."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2019
+msgid "Filter By Length"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2021
+msgid "Only show reviews between"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2021
+msgid "minimum and"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2021
+msgid "maximum "
+msgstr ""
+
+#: admin/partials/templates_posts.php:2023
+msgid "words"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2024
+msgid "characters"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2028
+msgid "Leave blank to show all reviews. Allows you to filter out the reviews based on word or character count."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2034
+msgid "Filter By Text String"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2038 admin/partials/templates_posts.php:2045
+msgid "Turned Off"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2039
+msgid "Contains at Least One of These"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2040
+msgid "Must Contain All These Words"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2041 admin/partials/templates_posts.php:2046
+msgid "Does NOT Contain These Words"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2051
+msgid "Only show reviews containing some or all or these words. Separate multiple words by a comma unless searching for multiple words next to each other like \"brown dog\"."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2057
+msgid "Filter By Review Type"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2099
+msgid "Manual All"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2105
+msgid "Only show reviews of this type. Caution: Yelp only likes their reviews to be displayed with other Yelp reviews. Use at your own risk."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2122
+msgid "Filter By Post/Product"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2125
+msgid "Turn on Post ID filter:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2130
+msgid "Also show reviews from these Post/Page/Product IDs:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2134
+msgid ""
+"Allows you to only show reviews that are linked to the same Post or Product the review slider is being displayed on. You can also add a comma separated list of Post IDs. "
+"Submitted reviews are automatically linked to the Post where the form is located. Normally only used for submitted reviews."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2150
+msgid "Filter By Category"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2153
+msgid "Turn on Post Category ID filter:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2158
+msgid "Also show reviews from these category IDs:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2162
+msgid ""
+"Allows you to only show reviews that are linked to the same category as the post the review slider is being displayed on. You can also add a comma separated list of category "
+"IDs. Submitted reviews are automatically linked to the category of the post where the form is located. Normally only used for submitted reviews."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2164
+msgid "Type here to search..."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2184
+msgid "Filter By Source Location"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2233
+msgid "Only show reviews from these Source Locations. Leave blank to show all reviews in your database. Normally only used for downloaded social reviews."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2265
+msgid ""
+"Single or comma separated list of language codes. Allows you to only show reviews that are tagged with these language codes. Visit the Tools tab above to add language codes to "
+"your reviews."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2286
+msgid "Filter By Tag"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2296
+msgid "Single or comma separated list of tags. Allows you to only show reviews that are tagged with these words. Tags can be added on the Review List page by editing a review."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2308
+msgid "show"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2309
+msgid "clear all"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2322
+msgid "Select Reviews To Show"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2327
+msgid "Select Reviews"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2333
+msgid ""
+"Allows you to individually pick up to 100 reviews to display in this template. \"Show these reviews only\" will override all other filter settings. \"Show these reviews plus "
+"others\" will allow you to always include the selected reviews with other reviews from the filters above. It is normally better to use the \"hide\" icon on the Review List "
+"page to hide certain reviews."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2357
+msgid "Use this page to add a Header, Banner, and Filter options above the reviews."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2374
+msgid "Banner"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2381
+msgid "Avg/Total Text Header"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2384
+msgid "Banner Style 1"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2386
+msgid "Select a Banner to display above the reviews."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2434
+msgid "Banner Settings"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2439
+msgid "Background:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2442 admin/partials/templates_posts.php:2515
+msgid "Text:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2446
+msgid "Border:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2456
+msgid "Drop Shadow:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2460
+msgid "Review Us Btn:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2462
+msgid "Btn Settings"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2467
+msgid "Review Totals:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2469 admin/partials/templates_posts.php:2519
+msgid "Downloaded & Filtered"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2474
+msgid "Submitted:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2480
+msgid "Manual:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2487
+msgid "Hide Source:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2494
+msgid ""
+"Use these settings to modify the Banner. The \"Review Totals\" setting allows you to use total and average calculated from downloaded reviews using the Filters for this "
+"template or from the total/avgerage on the Source Site."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2501
+msgid "Avg/Total Header Settings"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2504
+msgid "HTML Tag:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2506
+msgid "h1"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2507
+msgid "h2"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2508
+msgid "h3"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2509
+msgid "h4"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2510
+msgid "h5"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2511
+msgid "p"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2512
+msgid "div"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2542
+msgid "Use the {avgrating} and {totalratings} tags to display the average and total ratings."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2543
+msgid "\"This Template Values\" selection allows you to use total and average calculated from downloaded reviews or from the total/avgerage on the Source Site."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2544
+msgid "Allowed html tags:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2545
+msgid "You can use class names just make sure to use \" instead of '."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2546
+#, php-format
+msgid "ex: Rated &lt;b&gt;%1$s out of 5 stars&lt;/b&gt; based on %2$s customer reviews."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2558
+msgid "Search/Sort/Filter"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2564
+msgid "Allow you to add search, filter, and sort options above the reviews."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2572
+msgid "Add Search Bar"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2578 admin/partials/templates_posts.php:2593 admin/partials/templates_posts.php:2608 admin/partials/templates_posts.php:2623
+#: admin/partials/templates_posts.php:2638
+msgid "Placeholder:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2581
+msgid "Display a search bar above the reviews so visitors can search reviews by text."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2587
+msgid "Add Sort Option"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2596
+msgid "Display a sort reviews field so users can sort the reviews."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2602
+msgid "Add Rating Option"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2611
+msgid "Display a filter by rating field so users can show only reviews with a specific rating."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2617
+msgid "Add Source Option"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2626
+msgid "Display a filter by source dropdown field so users can show only reviews with a specific source."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2632
+msgid "Add Language Option"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2641
+msgid "Comma Seperated List of Codes:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2644
+msgid ""
+"Display a select language field so users can filter by language. Enter a comma separated list of language codes. You can see the language codes on the Review List page in the "
+"Count Column. If not, then go to the settings tab and run the language detector."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2650
+msgid "Add Search Tags"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2659
+msgid "search review text"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2660
+msgid "search review tags"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2661
+msgid "search both"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2664
+msgid "Display tags that users can click to easily filter the reviews. Enter tags seperated by a comma."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2670
+msgid "Add Review Type Buttons"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2676
+msgid "Display buttons for the review type (Facebook, Google, etc..) that users can click to easily filter the reviews."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2701
+msgid "Review Icon Link"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2704
+msgid "Create a link to the Social Site?"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2706 admin/partials/templates_posts.php:2723
+msgid "Yes (nofollow)"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2712
+msgid "Links the site icon to the original review page. Turn on and off the site icon on the Template Style tab. Yelp reviews must display the icon."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2717
+msgid "Review Avatar Link"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2720
+msgid "Link to reviewer profile page?"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2728
+msgid "When turned on, this allows you to click the reviewer avatar and go to their social profile page. This may not work for every type."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2738
+msgid "Review Media"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2741
+msgid "Display Review Media:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2748
+msgid "Images can be added to a review on the Review List. They will also be downloaded for some review types."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2759
+msgid "Owner Response"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2762
+msgid "Display Owner Response:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2769
+msgid "Show the Owner Response after the review text."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2790
+msgid "Source Name/Title"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2793
+msgid "Display Review Source Page Name/Title:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2798
+msgid "Link to Page:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2806
+msgid "Whether or not to add the source page name or download form title to the review and link to the source page. Shows up below the review."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2814
+msgid "Customer Location"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2817
+msgid "Display Customer Location:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2824
+msgid "Whether or not to add the customer location to the review. Location may be blank for certain types of reviews. "
+msgstr ""
+
+#: admin/partials/templates_posts.php:2838
+msgid "Company Details"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2841
+msgid "Display Company Name/Title:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2846
+msgid "Link to Company:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2854
+msgid "Whether or not to add the company details to the review and link to the company website. Not normally used for social reviews."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2860
+msgid "Google Rich Snippet\t"
+msgstr ""
+
+#: admin/partials/templates_posts.php:2870
+msgid "<b>Notes:</b></br>-Only turn this on for one review or badge template per a page or you will get duplicate rich snippets, which Google may not like."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2871
+msgid "</br>-Leave the Name, Description, and Image blank and the plugin will try to pull the info from the Page."
+msgstr ""
+
+#: admin/partials/templates_posts.php:2919
+msgid "Image URL:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:3030
+msgid "Individual Review Markup:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:3037
+msgid "Only Use This Type:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:3045
+msgid ""
+"Warning: Google only likes this added for reviews that originate from your site. Not third party sites. In other words, I would only use Manually added or Submitted reviews."
+msgstr ""
+
+#: admin/partials/templates_posts.php:3068
+msgid ""
+"When Google finds valid reviews or ratings markup, they may show a rich snippet in search results that includes stars and other summary info from the reviews. Once you turn "
+"this on and add your template to your site you can test it <a href=\"https://search.google.com/test/rich-results\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: admin/partials/templates_posts.php:3080
+msgid "PHP Copy function is not enabled"
+msgstr ""
+
+#: admin/partials/templates_posts.php:3087
+msgid "Cache Images"
+msgstr ""
+
+#: admin/partials/templates_posts.php:3091
+msgid "Cache review avatars?"
+msgstr ""
+
+#: admin/partials/templates_posts.php:3098
+msgid ""
+"When displaying a lot of reviews, this may improve performance. Avatar images are downloaded and compressed instead of being referenced from Facebook, Yelp, Google, etc.. "
+"servers. Note: The PHP “copy” function must be enabled on your server."
+msgstr ""
+
+#: admin/partials/templates_posts.php:3109
+msgid "Pic"
+msgstr ""
+
+#: admin/partials/templates_posts.php:3122 admin/partials/templates_posts.php:3130
+msgid "All"
+msgstr ""
+
+#: admin/partials/templates_posts.php:3206
+msgid "Override Yelp Icon"
+msgstr ""
+
+#: admin/partials/templates_posts.php:3210
+msgid "Override TripAdvisor Icon"
+msgstr ""
+
+#: admin/partials/templates_posts.php:3231
+msgid "Upgrade to the Pro Version of this plugin to access more super cool settings! Get the Pro Version <a href=\""
+msgstr ""
+
+#: admin/partials/templates_posts.php:3358
+msgid "Settings:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:3366
+msgid "Font Color:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:3382
+msgid "Button Action:"
+msgstr ""
+
+#: admin/partials/templates_posts.php:3388
+msgid "Links Drop Down"
+msgstr ""
+
+#: admin/partials/templates_posts.php:3389
+msgid "Pop-up Form"
+msgstr ""
+
+#: admin/partials/templates_posts.php:3458
+msgid "Create a Form on the Forms page of the plugin."
+msgstr ""
+
+#: admin/partials/welcome.php:42
+msgid ""
+"Thank you for being an awesome WP Review Slider Pro customer! If you have trouble, or need a feature added, please don't hesitate to contact me. I'm always looking for ways to "
+"improve the plugin. -Josh"
+msgstr ""
+
+#: admin/partials/welcome.php:59
+#, php-format
+msgid ""
+"1) Use the \"%4$sGet Reviews%2$s\" page to download your reviews from different sites and save them to your database. The \"%1$sReview Funnels%2$s\" page allows you to scrape "
+"all your reviews from many more sites along with the built-in methods. Manual reviews can be inserted on the \"%3$sReview List%2$s\" page."
+msgstr ""
+
+#: admin/partials/welcome.php:68
+#, php-format
+msgid "2) Once downloaded, all the reviews should show up on the \"%1$sReview List%2$s\" page of the plugin."
+msgstr ""
+
+#: admin/partials/welcome.php:76
+#, php-format
+msgid "3) Create a Review Slider or Grid for your site on the \"%1$sTemplates%2$s\" page."
+msgstr ""
+
+#: admin/partials/welcome.php:84
+#, php-format
+msgid "4) You can also create badges on the \"%1$sBadges%2$s\" page and even a review submission form on the \"%3$sForms%2$s\" page."
+msgstr ""
+
+#: admin/partials/welcome.php:93
+#, php-format
+msgid "5) Finally, you can use the \"%1$sFloats%2$s\" page to make a badge or review template float on your site. "
+msgstr ""
+
+#: admin/partials/welcome.php:101
+#, php-format
+msgid ""
+"If you have any trouble please check the %1$sSupport Forum%2$s first. If you want to contact me privately you can either enter your question in the forum as a ticket or use "
+"this %3$sform%2$s. I'm always happy to help!"
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:840 public/class-wp-review-slider-pro-public.php:842 public/partials/form_style_1.php:278
+msgid "Leave a review on "
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:973
+msgid "Oops! Something went wrong, please try again or contact us...<br>"
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1017
+msgid "Failed honeypot.<br>"
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1028
+msgid "Failed nonce.<br>"
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1046
+msgid "Failed recaptcha.<br>"
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1056
+msgid "reCAPTHA not setup correctly for this form. Make sure you input your secrete key.<br>"
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1071
+msgid "All required fields are not filled out. Nothing input for "
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1077
+msgid "All required fields are not filled out. Please enter a Review Rating.<br>"
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1087
+msgid "Please enter a valid email address.<br>"
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1094
+msgid "Please enter a valid website URL.<br>"
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1459
+msgid "Could not save review."
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1552
+msgid "<p>Someone just submitted a new review on your site. To display it on your site you need to unhide it on the <a href=\""
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1554
+msgid "<p>Someone just submitted a new review on your site. It has automatically been approved (shown). To hide it visit the <a href=\""
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1557
+msgid "<p>Rating: "
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1560
+msgid "<p>Subject: "
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1563
+msgid "<p>Text: "
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1566
+msgid "<p>Name: "
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1569
+msgid "<p>Email: "
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1572
+msgid "<p>Company: "
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1575
+msgid "<p>Title: "
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1578
+msgid "<p>Website: "
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1581
+msgid "<p>Display Consent: "
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1584
+msgid "<p>User Avatar:</p>"
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1590
+msgid "<p>Video:</p>"
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1597
+msgid "<p>Custom Data: "
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1603
+msgid "<br><p> <a href=\""
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1605
+msgid "New Review Submission - "
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1609
+msgid "Notification sent to admin email. email:"
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1609
+msgid ",subject:"
+msgstr ""
+
+#: public/class-wp-review-slider-pro-public.php:1612
+msgid "Error sending Notification to admin email. email:"
+msgstr ""
+
+#: public/partials/banner_style_1.php:20
+msgid "All Reviews 5.0"
+msgstr ""
+
+#: public/partials/banner_style_1.php:21
+msgid "Google 5.0"
+msgstr ""
+
+#: public/partials/banner_style_1.php:22
+msgid "Facebook 5.0"
+msgstr ""
+
+#: public/partials/banner_style_1.php:26 public/partials/wp-review-slider-pro-public-display.php:305
+msgid "Overall Rating"
+msgstr ""
+
+#: public/partials/banner_style_1.php:29
+msgid "5.0"
+msgstr ""
+
+#: public/partials/banner_style_1.php:29
+msgid "stars"
+msgstr ""
+
+#: public/partials/banner_style_1.php:29
+msgid "125"
+msgstr ""
+
+#: public/partials/getreviews_class.php:913
+msgid "load more"
+msgstr ""
+
+#: public/partials/template_class.php:327
+msgid "d M Y"
+msgstr ""
+
+#: public/partials/template_class.php:329
+msgid "M Y"
+msgstr ""
+
+#: public/partials/template_class.php:456
+msgid "year"
+msgstr ""
+
+#: public/partials/template_class.php:458
+msgid "week"
+msgstr ""
+
+#: public/partials/template_class.php:459
+msgid "day"
+msgstr ""
+
+#: public/partials/template_class.php:460
+msgid "hour"
+msgstr ""
+
+#: public/partials/template_class.php:461
+msgid "minute"
+msgstr ""
+
+#: public/partials/template_class.php:462
+msgid "second"
+msgstr ""
+
+#: public/partials/template_class.php:476
+msgctxt "Time since review."
+msgid "ago"
+msgstr ""
+
+#: public/partials/template_class.php:476
+msgctxt "Time since review."
+msgid "just now"
+msgstr ""
+
+#: public/partials/template_class.php:1131
+msgid "Verified"
+msgstr ""
+
+#: public/partials/template_class.php:1133
+msgid "Verified on "
+msgstr ""
+
+#: public/partials/template_style_10.php:207 public/partials/template_style_10.php:211
+msgid "left us a "
+msgstr ""
+
+#: public/partials/template_style_10.php:214
+msgid "on "
+msgstr ""
+
+#: public/partials/template_style_9.php:209
+msgid "out of 5 stars"
+msgstr ""
+
+#: public/partials/wp-review-slider-pro-public-display-widget.php:120 public/partials/wp-review-slider-pro-public-display.php:359
+msgid "Highest"
+msgstr ""
+
+#: public/partials/wp-review-slider-pro-public-display-widget.php:121 public/partials/wp-review-slider-pro-public-display.php:360
+msgid "Lowest"
+msgstr ""
+
+#: wp-review-slider-pro.php:1130
+msgid ""
+"Warning! Please de-activate the free version (WP Google Review Slider) of the WP Review Slider Pro plugin. You can not use the Free version and the Pro version at the same "
+"time. If you would like to completely delete the free version, then first de-activate the Pro version."
+msgstr ""
+
+#: wp-review-slider-pro.php:1143
+msgid ""
+"Warning! Please de-activate the free version (WP Airbnb Review Slider) of the WP Review Slider Pro plugin. You can not use the Free version and the Pro version at the same "
+"time. If you would like to completely delete the free version, then first de-activate the Pro version."
+msgstr ""
+
+#: wp-review-slider-pro.php:1156
+msgid ""
+"Warning! Please de-activate the free version (WP Review Slider) of the WP Review Slider Pro plugin. You can not use the Free version and the Pro version at the same time. If "
+"you would like to completely delete the free version, then first de-activate the Pro version."
+msgstr ""
+
+#: wp-review-slider-pro.php:1169
+msgid ""
+"Warning! Please de-activate the free version (WP TripAdvisor Review Slider) of the WP Review Slider Pro plugin. You can not use the Free version and the Pro version at the "
+"same time. If you would like to completely delete the free version, then first de-activate the Pro version."
+msgstr ""
+
+#: wp-review-slider-pro.php:1182
+msgid ""
+"Warning! Please de-activate the free version (WP Yelp Review Slider) of the WP Review Slider Pro plugin. You can not use the Free version and the Pro version at the same time. "
+"If you would like to completely delete the free version, then first de-activate the Pro version."
+msgstr ""
+
+#: wp-review-slider-pro.php:1195
+msgid ""
+"Warning! Please de-activate the free version (WP Zillow Review Slider) of the WP Review Slider Pro plugin. You can not use the Free version and the Pro version at the same "
+"time. If you would like to completely delete the free version, then first de-activate the Pro version."
+msgstr ""
+
+#: wp-review-slider-pro.php:1208
+msgid ""
+"Warning! Please de-activate the free version (WP Thumbtack Review Slider) of the WP Review Slider Pro plugin. You can not use the Free version and the Pro version at the same "
+"time. If you would like to completely delete the free version, then first de-activate the Pro version."
+msgstr ""
