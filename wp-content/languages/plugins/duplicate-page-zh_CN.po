@@ -1,0 +1,109 @@
+# Translation of Plugins - Duplicate Page - Development (trunk) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Duplicate Page - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-06 16:50:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.9\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Duplicate Page - Development (trunk)\n"
+
+#: inc/admin-settings.php:51
+msgid "Gutenberg Editor"
+msgstr "古藤堡区块"
+
+#: inc/admin-settings.php:50
+msgid "Classic Editor"
+msgstr "经典编辑器"
+
+#: inc/admin-settings.php:46
+msgid "Choose Editor"
+msgstr "选择编辑器"
+
+#: duplicatepage.php:328
+msgid "Duplicate This as "
+msgstr "复制这个为"
+
+#: inc/admin-settings.php:60
+msgid "Draft"
+msgstr "草稿"
+
+#: inc/admin-settings.php:63
+msgid "Pending"
+msgstr "待审核"
+
+#: inc/admin-settings.php:61
+msgid "Publish"
+msgstr "发布"
+
+#: inc/admin-settings.php:62
+msgid "Private"
+msgstr "私密"
+
+#: duplicatepage.php:77
+msgid "Settings"
+msgstr "设置"
+
+#. Author of the plugin
+msgid "mndpsingh287"
+msgstr "mndpsingh287"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/duplicate-page/"
+msgstr "https://wordpress.org/plugins/duplicate-page/"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/mndpsingh287/"
+msgstr "https://profiles.wordpress.org/mndpsingh287/"
+
+#. Plugin Name of the plugin
+#: duplicatepage.php:91 duplicatepage.php:357
+msgid "Duplicate Page"
+msgstr "Duplicate Page"
+
+#: duplicatepage.php:78
+msgid "Donate"
+msgstr "捐赠"
+
+#: inc/admin-settings.php:81
+msgid "Add a suffix for duplicate or clone post as Copy, Clone etc. It will show after title."
+msgstr "为复制或克隆文章添加一个后缀，例如“复制”，“克隆”等。它将在标题后显示。"
+
+#. Description of the plugin
+msgid "Duplicate Posts, Pages and Custom Posts using single click."
+msgstr "单击即可复制文章，页面和自定义文章。"
+
+#: duplicatepage.php:261 duplicatepage.php:277 duplicatepage.php:300
+msgid "Duplicate This"
+msgstr "复制这个"
+
+#: inc/admin-settings.php:78
+msgid "Duplicate Post Suffix"
+msgstr "Duplicate Post后缀"
+
+#: inc/admin-settings.php:9
+msgid "Buy PRO"
+msgstr "购买专业版"
+
+#: inc/admin-settings.php:9
+msgid "Duplicate Page Settings "
+msgstr "Duplicate Page 设置"
+
+#: inc/admin-settings.php:57
+msgid "Duplicate Post Status"
+msgstr "Duplicate Post 状态"
+
+#: inc/admin-settings.php:71
+msgid "To All Posts List"
+msgstr "到所有文章列表"
+
+#: inc/admin-settings.php:72
+msgid "To Duplicate Edit Screen"
+msgstr "到复制编辑画面"
+
+#: inc/admin-settings.php:69
+msgid "Redirect to after click on <strong>Duplicate This Link</strong>"
+msgstr "点击<strong>复制此链接</strong>后，重定向至"

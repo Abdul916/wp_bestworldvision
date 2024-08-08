@@ -1,0 +1,925 @@
+# Translation of Plugins - One Click Demo Import - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - One Click Demo Import - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-01 17:39:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - One Click Demo Import - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://ocdi.com"
+msgstr "https://ocdi.com"
+
+#. Author of the plugin
+msgid "OCDI"
+msgstr "OCDI"
+
+#: views/import.php:85
+msgid "The plugins with %1$s are recommended by One Click Demo Import plugin to help you grow your website. They are not required for the %2$s theme to work."
+msgstr "One Click Demo Import推荐使用包含%1$s功能的插件，以帮助您发展网站。他们不是%2$s主题的依赖插件。"
+
+#: inc/ViewHelpers.php:21
+msgid "Questionmark icon"
+msgstr "问题图标"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:378
+msgid "Sending..."
+msgstr "发送中…"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:377
+msgid "Submit"
+msgstr "提交"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:372
+msgid "Thanks for contacting us! We will be in touch with you shortly."
+msgstr "谢谢您联络我们！我们会尽快与您联系。"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:350
+msgid "Comment or Message"
+msgstr "评论或消息"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:343
+msgid "Email"
+msgstr "邮箱"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:336
+msgid "Name"
+msgstr "名字"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:254
+msgid "The demo content import file is missing."
+msgstr "演示内容导入文件丢失。"
+
+#. translators: %s - The actual error message.
+#: inc/CreateDemoContent/DemoContentCreator.php:214
+msgid "An error occured while importing this page: %s"
+msgstr "导入此页面时出现错误：%s"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:187
+msgid "Could not import this page. Page slug is missing."
+msgstr "缺少别名，无法导入此页面。"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:181
+msgid "Could not import this page. You don't have permission to import content."
+msgstr "您没有导入内容的权限，无法导入此页面。"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:168
+msgid "Could not complete the import process for this page. Could not update the imported page with correct WPForms form ID."
+msgstr "无法使用正确的WPForms表单ID更新导入后的页面，未能完成导入过程。"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:162
+msgid "Could not complete the import process for this page. Something went wrong while creating a WPForms contact form."
+msgstr "创建WPForms联系人表单时出错，无法完成此页面的导入过程。"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:158
+msgid "Contact Form"
+msgstr "联系表"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:158
+msgid "Meet the Team Form"
+msgstr "会见团队表单"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:155
+msgid "Could not complete the import process for this page. Required WPForms plugin doesn't exist."
+msgstr "必需的WPForms插件不存在，无法完成此页面的导入过程。"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:151
+msgid "Could not complete the import process for this page. Required WPForms plugin is not activated."
+msgstr "必需的WPForms插件未激活，无法完成此页面的导入过程。"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:110
+msgid "Tap into the power of social proof by displaying real-life testimonials on your website."
+msgstr "通过在你的网站上展示亲自体验的推荐信，充分利用社会证明的力量。"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:109
+msgid "Testimonials"
+msgstr "客户评价"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:103
+msgid "Categorize and sell your products online while displaying reviews from happy customers."
+msgstr "对您的产品分类并在线销售，同时展示来自满意客户的评论。"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:102
+msgid "Shop"
+msgstr "商店"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:96
+msgid "Let the world know your services or products' cost and features in an organized pricing table."
+msgstr "通过有组织的定价表，让全世界了解您的服务或产品的成本和功能。"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:95
+msgid "Services"
+msgstr "服务"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:89
+msgid "Impress leads by visually showcasing your achievements, case studies, and past work."
+msgstr "通过直观地展示您的成就，案例研究和过去的工作来打动潜在客户。"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:88
+msgid "Portfolio"
+msgstr "作品"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:82
+msgid "Display your delicious dishes online to entice website visitors to become restaurant customers."
+msgstr "在网上展示你的美味菜肴，吸引网站访问者成为餐厅的顾客。"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:81
+msgid "Menu"
+msgstr "菜单"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:75
+msgid "Help potential clients feel more at ease by showing off your hard-working and trustworthy team."
+msgstr "展示您的辛勤工作和可信赖的团队，帮助潜在客户放心。"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:74
+msgid "Meet the Team"
+msgstr "认识团队"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:68
+msgid "Lighten the load on your support team or your inbox by addressing frequently asked questions."
+msgstr "通过解决常见问题，减轻支持团队或收件箱的负担。"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:67
+msgid "FAQ"
+msgstr "常见问题解答"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:61
+msgid "Make it easy to get in touch with you through a completely customizable built-in contact form."
+msgstr "通过完全可自定义的内置联系表，顾客可以轻松与您取得联系。"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:60
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:54
+msgid "Expand your reach by accepting appointments online plus detailing your services and staff."
+msgstr "通过在线接受约会以及详细说明您的服务和人员来扩大您的服务覆盖范围。"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:53
+msgid "Book Now"
+msgstr "现在预订"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:47
+msgid "Introduce yourself and your business with a clean layout to reassure your leads and customers."
+msgstr "以整洁的布局介绍您自己和您的业务，让您的潜在客户和现有客户放心。"
+
+#: inc/CreateDemoContent/DemoContentCreator.php:46
+msgid "About Us"
+msgstr "关于我们"
+
+#: inc/CustomizerImporter.php:99
+msgid "Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme."
+msgstr "错误：导入文件不适合当前主题。"
+
+#: inc/CustomizerImporter.php:93
+msgid "Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file."
+msgstr "错误：自定义程序导入文件的格式不正确。 请确保使用正确的自定义程序导入文件。"
+
+#. translators: %s - file path
+#: inc/CustomizerImporter.php:73
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr "错误：缺少自定义导入文件！ 文件路径：%s"
+
+#: inc/CustomizerImporter.php:43
+msgid "Customizer settings import finished!"
+msgstr "自定义设置导入完成！"
+
+#: inc/CustomizerImporter.php:37 inc/CustomizerImporter.php:45
+msgid "Importing customizer settings"
+msgstr "导入自定义设置"
+
+#. translators: %1$s and %3$s - strong HTML tags, %2$s - file URL, %4$s - br
+#. HTML tag, %5$s - error code, %6$s - error message.
+#: inc/Downloader.php:76
+msgid "An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - %6$s."
+msgstr "发生错误：%1$s%2$s%3$s!%4$s原因： %5$s - %6$s."
+
+#: inc/Downloader.php:58
+msgid "Missing URL for downloading a file!"
+msgstr "缺少下载文件的URL！"
+
+#. translators: %s - the name of the executing action.
+#: inc/WPCLICommands.php:286
+msgid "Executing action: %s ..."
+msgstr "执行动作：%s ..."
+
+#: inc/WPCLICommands.php:266
+msgid "There were some issues while importing customizer settings!"
+msgstr "导入定制设置时有一些问题！"
+
+#: inc/WPCLICommands.php:263
+msgid "Customizer settings imported successfully!"
+msgstr "定制设置成功导入！"
+
+#: inc/WPCLICommands.php:258
+msgid "Importing customizer settings..."
+msgstr "导入定制设置…"
+
+#: inc/WPCLICommands.php:254
+msgid "Customizer import file provided does not exist! Skipping this import!"
+msgstr "提供定制导入文件不存在！跳过这个导入！"
+
+#: inc/WPCLICommands.php:235
+msgid "There were some issues while importing widgets!"
+msgstr "导入小工具时出现了一些问题！"
+
+#: inc/WPCLICommands.php:232
+msgid "Widgets imported successfully!"
+msgstr "小工具导入完成！"
+
+#: inc/WPCLICommands.php:227
+msgid "Importing widgets..."
+msgstr "导入小工具..."
+
+#: inc/WPCLICommands.php:223
+msgid "Widgets import file provided does not exist! Skipping this import!"
+msgstr "提供的小工具导入文件不存在！ 跳过此导入！"
+
+#: inc/WPCLICommands.php:204
+msgid "There were some issues while importing the content!"
+msgstr "导入内容时出现了一些问题！"
+
+#: inc/WPCLICommands.php:201
+msgid "Content import finished!"
+msgstr "内容导入完成！"
+
+#: inc/WPCLICommands.php:196
+msgid "Importing content"
+msgstr "正在导入内容"
+
+#: inc/WPCLICommands.php:194
+msgid "Importing content (this might take a while)..."
+msgstr "导入内容（这可能需要一段时间）…"
+
+#: inc/WPCLICommands.php:185
+msgid "Content import file provided does not exist! Skipping this import!"
+msgstr "提供的内容导入文件不存在！跳过这个导入！"
+
+#: inc/WPCLICommands.php:173
+msgid "Predefined import finished!"
+msgstr "预定义导入完成！"
+
+#: inc/WPCLICommands.php:151
+msgid "Demo import files retrieved successfully!"
+msgstr "Demo导入文件检索成功！"
+
+#: inc/WPCLICommands.php:148
+msgid "Demo import files could not be retrieved!"
+msgstr "无法检索演示导入文件！"
+
+#: inc/WPCLICommands.php:143
+msgid "Preparing the demo import files..."
+msgstr "准备演示导入文件…"
+
+#. translators: %s - the name of the selected demo import.
+#: inc/WPCLICommands.php:140
+msgid "Selected predefined demo import: %s"
+msgstr "选定的预定义演示导入：%s"
+
+#: inc/WPCLICommands.php:135
+msgid "Predefined demo import started! All other parameters will be ignored!"
+msgstr "预定义导入开始！所有其他参数都将被忽略！"
+
+#: inc/WPCLICommands.php:128
+msgid "The supplied predefined index does not exist! Please take a look at the available predefined demo imports:"
+msgstr "提供的预定义索引不存在！请看一下可用的预定义演示导入："
+
+#: inc/WPCLICommands.php:122
+msgid "The \"predefined\" parameter should be a number (an index of the OCDI predefined demo import)!"
+msgstr "“预定”参数应该是一个数（ocdi预定义的演示导入指数）！"
+
+#: inc/WPCLICommands.php:71
+msgid "At least one of the possible options should be set! Check them with --help"
+msgstr "至少有一个可能的选项应该被设置！检查它们-帮助"
+
+#: inc/WPCLICommands.php:37
+msgid "Here are the predefined demo imports:"
+msgstr "以下是预定义的演示导入："
+
+#: inc/WPCLICommands.php:34
+msgid "There are no predefined demo imports for currently active theme!"
+msgstr "当前活动主题没有预定义的演示导入！"
+
+#: inc/PluginInstaller.php:300
+msgid "Could not install the plugin. WP Plugin installer could not retrieve plugin information."
+msgstr "无法安装插件。WP 插件安装程序无法检索插件信息。"
+
+#: inc/PluginInstaller.php:293
+msgid "Plugin installed and activated succesfully."
+msgstr "成功安装和激活插件。"
+
+#: inc/PluginInstaller.php:253
+msgid "Could not install the plugin. Don't have file permission."
+msgstr "没有文件权限，无法安装插件。"
+
+#: inc/PluginInstaller.php:245
+msgid "Plugin was already installed! We activated it for you."
+msgstr "插件已经安装！我们为您激活了它。"
+
+#: inc/PluginInstaller.php:237
+msgid "Plugin is already installed and activated!"
+msgstr "插件已安装并激活！"
+
+#: inc/PluginInstaller.php:232
+msgid "Could not install the plugin. Plugin slug is missing."
+msgstr "无法安装插件。插件 slug 丢失。"
+
+#: inc/PluginInstaller.php:226
+msgid "Could not install the plugin. You don't have permission to install plugins."
+msgstr "无法安装插件，您没有安装插件的权限。"
+
+#: inc/PluginInstaller.php:119
+msgid "Make email delivery easy for WordPress. Connect with SMTP, Gmail, Outlook, Mailgun, and more."
+msgstr "与SMTP，Gmail，Outlook，Mailgun等连接，使WordPress发送电子邮件变得容易。"
+
+#: inc/PluginInstaller.php:118
+msgid "WP Mail SMTP"
+msgstr "WP Mail SMTP"
+
+#: inc/PluginInstaller.php:113
+msgid "Display beautifully clean, customizable, and responsive Instagram feeds."
+msgstr "显示精美干净、可自定义且响应迅速的 Instagram 源。"
+
+#: inc/PluginInstaller.php:112
+msgid "Smash Balloon Social Photo Feed"
+msgstr "粉碎气球社交照片提要"
+
+#: inc/PluginInstaller.php:107
+msgid "Work on your site in private while visitors see a \"Coming Soon\" or \"Maintenance Mode\" page."
+msgstr "在你私下建设网站时，让访问者看到“即将推出”或“维护模式”页面时。"
+
+#: inc/PluginInstaller.php:106
+msgid "Custom Landing Pages by SeedProd"
+msgstr "SeedProd提供的自定义着陆页"
+
+#: inc/PluginInstaller.php:100
+msgid "The #1 Google Analytics Plugin for WordPress that’s easy and powerful."
+msgstr "WordPress排名第一的Google Analytics插件，简单而强大。"
+
+#: inc/PluginInstaller.php:99
+msgid "MonsterInsights"
+msgstr "MonsterInsights"
+
+#: inc/PluginInstaller.php:93
+msgid "Use All in One SEO Pack to optimize your WordPress site for SEO."
+msgstr "使用All in One SEO Pack优化您的WordPress站点，开展SEO工作。"
+
+#: inc/PluginInstaller.php:92
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: inc/PluginInstaller.php:85
+msgid "WPForms"
+msgstr "WPForms"
+
+#: inc/Helpers.php:579 inc/Helpers.php:580 inc/Helpers.php:581
+#: inc/Helpers.php:582
+msgid "not defined!"
+msgstr "未定义!"
+
+#. translators: %1$s - new line break, %2$s - the site URL, %3$s - the file
+#. path for content import, %4$s - the file path for widgets import, %5$s - the
+#. file path for widgets import, %6$s - the file path for redux import.
+#: inc/Helpers.php:576
+msgid "Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s%1$sCustomizer file = %5$s%1$sRedux files:%1$s%6$s"
+msgstr "文件信息：%1$s网站网址 = %2$s%1$s数据文件 = %3$s%1$s小工具文件 = %4$s%1$s自定义文件 = %5$s%1$sRedux文件：%1$s%6$s"
+
+#. translators: %s - the max execution time.
+#: inc/Helpers.php:572
+msgid "Initial max execution time = %s"
+msgstr "初始最大执行时间= %s"
+
+#: inc/Helpers.php:546
+msgid "The import files were successfully uploaded!"
+msgstr "导入文件已成功上传！"
+
+#. translators: %s - the error message.
+#: inc/Helpers.php:536
+msgid "Redux file was not uploaded. Error: %s"
+msgstr "Redux文件未上传。 错误：%s"
+
+#: inc/Helpers.php:518
+msgid "Missing Redux option name! Please also enter the Redux option name!"
+msgstr "缺少Redux选项名称！ 还请输入Redux选项名称！"
+
+#. translators: %s - the error message.
+#: inc/Helpers.php:505
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr "定制文件没有上传。错误：%s"
+
+#. translators: %s - the error message.
+#: inc/Helpers.php:488
+msgid "Widget file was not uploaded. Error: %s"
+msgstr "小工具文件未上传。 错误：%s"
+
+#: inc/Helpers.php:475 inc/Helpers.php:492 inc/Helpers.php:509
+#: inc/Helpers.php:520 inc/Helpers.php:540 inc/Helpers.php:548
+msgid "Upload files"
+msgstr "上传文件"
+
+#. translators: %s - the error message.
+#: inc/Helpers.php:471
+msgid "Content file was not uploaded. Error: %s"
+msgstr "内容文件未上传。 错误：%s"
+
+#: inc/Helpers.php:442
+msgid "No file provided."
+msgstr "没有提供文件。"
+
+#. translators: %1$s - opening div and paragraph HTML tags, %2$s - closing div
+#. and paragraph HTML tags.
+#: inc/Helpers.php:398
+msgid "%1$sYour user role isn't high enough. You don't have permission to import demo data.%2$s"
+msgstr "%1$s您的用户角色不够，没有导入演示数据的权限。%2$s"
+
+#: inc/Helpers.php:364
+msgid "One Click Demo Import - "
+msgstr "一键导入演示 - "
+
+#: inc/Helpers.php:324
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr "您的WordPress登录凭据不允许使用WP_Filesystem！"
+
+#: inc/Helpers.php:316
+msgid "An error occurred while retrieving reading/writing permissions to your server (could not retrieve WP filesystem credentials)!"
+msgstr "检索到服务器的读/写权限时出错（无法检索WP文件系统凭据）！"
+
+#. translators: %1$s and %2$s - strong HTML tags, %3$s - HTML link to a doc
+#. page.
+#: inc/Helpers.php:299
+msgid "This WordPress page does not have %1$sdirect%2$s write file access. This plugin needs it in order to save the demo import xml file to the upload directory of your site. You can change this setting with these instructions: %3$s."
+msgstr "此页面没有%1$sdirect%2$s写文件的权限，这个插件需要改权限来将演示导入XML文件保存到您站点的上传目录中。您可以参考以下说明更改此设置：%3$s。"
+
+#. translators: %1$s - br HTML tag, %2$s - file path
+#: inc/Helpers.php:276
+msgid "An error occurred while reading a file from your server! Tried reading file from path: %1$s%2$s."
+msgstr "从您的服务器读取文件时出错！已尝试从路径%1$s%2$s读取文件。"
+
+#. translators: %1$s - br HTML tag, %2$s - file path
+#: inc/Helpers.php:199 inc/Helpers.php:242
+msgid "An error occurred while writing file to your server! Tried to write a file to: %1$s%2$s."
+msgstr "将文件写入您的服务器时出错！已尝试将文件写入：%1$s%2$s。"
+
+#. translators: %s - the name of the Redux option.
+#: inc/ReduxImporter.php:62
+msgid "The Redux option name: %s, was not found in this WP site, so it was not imported!"
+msgstr "在此WP站点中找不到Redux选项名称：%s，因此未导入！"
+
+#. translators: %s - the name of the Redux option.
+#: inc/ReduxImporter.php:56
+msgid "Redux settings import for: %s finished successfully!"
+msgstr "Redux设置导入： %s 成功完成！"
+
+#: inc/ReduxImporter.php:32 inc/ReduxImporter.php:58 inc/ReduxImporter.php:71
+msgid "Importing Redux settings"
+msgstr "导入Redux设置"
+
+#: inc/ReduxImporter.php:23
+msgid "The Redux plugin is not activated, so the Redux import was skipped!"
+msgstr "Redux插件没有激活，所以Redux导入被跳过！"
+
+#: inc/Importer.php:179
+msgid "New AJAX call!"
+msgstr "新 Ajax 调用！"
+
+#: inc/WidgetImporter.php:333
+msgid "No results for widget import!"
+msgstr "没有导入小工具！"
+
+#: inc/WidgetImporter.php:286
+msgid "No Title"
+msgstr "无标题"
+
+#: inc/WidgetImporter.php:280
+msgid "Imported to Inactive"
+msgstr "导入无效"
+
+#: inc/WidgetImporter.php:276
+msgid "Imported"
+msgstr "导入完成"
+
+#: inc/WidgetImporter.php:211
+msgid "Widget already exists"
+msgstr "小工具已存在"
+
+#: inc/WidgetImporter.php:178
+msgid "Site does not support widget"
+msgstr "站点不支持小工具"
+
+#: inc/WidgetImporter.php:157
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr "主题中不存在侧边栏(将小工具移动到非活动状态)"
+
+#: inc/WidgetImporter.php:118
+msgid "Error: Widget import data could not be read. Please try a different file."
+msgstr "错误：无法读取小工具导入数据。 请尝试使用其他文件。"
+
+#: inc/WidgetImporter.php:88
+msgid "Error: Widget import file could not be found."
+msgstr "错误：未找到小工具导入文件。"
+
+#: inc/WidgetImporter.php:40 inc/WidgetImporter.php:52
+msgid "Importing widgets"
+msgstr "正在导入小工具"
+
+#. translators: %s - link to the log file.
+#: inc/OneClickDemoImport.php:489
+msgid "<p><a href=\"%s\" target=\"_blank\">View error log</a> for more information.</p>"
+msgstr "<p><a href=\"%s\" target=\"_blank\">查看错误日志</a> 获取更多信息。</p>"
+
+#: inc/OneClickDemoImport.php:485
+msgid "Your import completed, but some things may not have imported properly."
+msgstr "您的导入已完成，但某些内容可能未正确导入。"
+
+#: inc/OneClickDemoImport.php:482
+msgid "Successful Import"
+msgstr "成功导入"
+
+#: inc/OneClickDemoImport.php:354
+msgid "No import files specified!"
+msgstr "没有指定导入文件！"
+
+#. translators: %s - the name of the selected import.
+#: inc/OneClickDemoImport.php:345
+msgid "The import files for: %s were successfully downloaded!"
+msgstr "导入文件：%s已成功下载！"
+
+#: inc/OneClickDemoImport.php:338 inc/OneClickDemoImport.php:349
+msgid "Downloaded files"
+msgstr "下载的文件"
+
+#: inc/OneClickDemoImport.php:280 inc/OneClickDemoImport.php:325
+msgid "Manually uploaded files"
+msgstr "手动上传的文件"
+
+#: inc/OneClickDemoImport.php:265
+msgid "Manual import files are missing! Please select the import files and try again."
+msgstr "手动导入文件丢失！请选择导入文件，然后重试。"
+
+#: inc/OneClickDemoImport.php:248
+msgid "Invalid file type detected! Please select a JSON file for the Redux Import."
+msgstr "检测到无效的文件类型！请选择一个JSON文件以便导入Redux选项。"
+
+#: inc/OneClickDemoImport.php:247
+msgid "Invalid file type detected! Please select a DAT file for the Customizer Import."
+msgstr "检测到无效的文件类型！请为定制工具选择DAT文件以便导入自定义选项。"
+
+#: inc/OneClickDemoImport.php:246
+msgid "Invalid file type detected! Please select a JSON or WIE file for the Widgets Import."
+msgstr "检测到无效的文件类型！请选择JSON或WIE文件以便导入小工具。"
+
+#: inc/OneClickDemoImport.php:245
+msgid "Invalid file type detected! Please select an XML file for the Content Import."
+msgstr "检测到无效的文件类型！请选择XML文件以便导入内容。"
+
+#: inc/OneClickDemoImport.php:244
+msgid "Looks like some of the plugins failed to install. Please try again. If this issue persists, please manually install the failing plugins and come back to this step to import the theme demo data."
+msgstr "看起来有些插件安装失败。请再试一次。如果此问题仍然存在，请手动安装失败的插件，然后返回此步骤导入主题演示数据。"
+
+#: inc/OneClickDemoImport.php:243
+msgid "Whoops, there was a problem importing your content."
+msgstr "哎呀，导入您的内容时出了点问题。"
+
+#: inc/OneClickDemoImport.php:242
+msgid "Import Failed"
+msgstr "导入失败"
+
+#: inc/OneClickDemoImport.php:239
+msgid "Successfully Imported!"
+msgstr "成功导入!"
+
+#: inc/OneClickDemoImport.php:238 inc/WPCLICommands.php:153
+msgid "Importing..."
+msgstr "加载中……"
+
+#: inc/OneClickDemoImport.php:237
+msgid "Installing..."
+msgstr "正在安装…"
+
+#: inc/OneClickDemoImport.php:236
+msgid "Selected demo import:"
+msgstr "选择演示导入："
+
+#: inc/OneClickDemoImport.php:235
+msgid "Yes, import!"
+msgstr "是的, 导入！"
+
+#: inc/OneClickDemoImport.php:233
+msgid "Are you sure?"
+msgstr "确定？"
+
+#: inc/OneClickDemoImport.php:232
+msgid "No preview image defined for this import."
+msgstr "没有为此导入定义预览图像。"
+
+#: views/create-content.php:67
+msgid "Import"
+msgstr "导入"
+
+#: views/create-content.php:60
+msgid "The following plugins will be installed for free: "
+msgstr "以下插件将免费安装："
+
+#: views/create-content.php:28
+msgid "Select which pre-built pages you want to import to use on your website. After that, all you need to do is customize the content to fit your needs and your page will be good to go."
+msgstr "选择准备在网站上导入并使用的预构建页面。然后，你可以根据需要定制内容，完成后，您的页面就可以运行了。"
+
+#: views/plugin-page.php:350
+msgid "Import Demo"
+msgstr "导入演示"
+
+#: views/plugin-page.php:348
+msgid "Preview Demo"
+msgstr "预览演示版本"
+
+#: views/plugin-page.php:341
+msgid "No preview image."
+msgstr "无预览图片。"
+
+#: views/plugin-page.php:318
+msgid "Search Demos..."
+msgstr "搜索演示..."
+
+#: views/plugin-page.php:305
+msgid "All Demos"
+msgstr "所有演示"
+
+#: inc/Helpers.php:759 views/plugin-page.php:290
+msgid "Import Demo Data"
+msgstr "导入演示数据"
+
+#: inc/OneClickDemoImport.php:234 views/plugin-page.php:276
+msgid "Cancel"
+msgstr "取消"
+
+#: inc/OneClickDemoImport.php:241 views/plugin-page.php:270
+msgid "Installed"
+msgstr "已安装"
+
+#: inc/OneClickDemoImport.php:240 views/plugin-page.php:270
+msgid "Install Plugin"
+msgstr "安装插件"
+
+#: views/plugin-page.php:258
+msgid "Create beautiful converting pages."
+msgstr "创建漂亮的转换页面。"
+
+#: views/plugin-page.php:257
+msgid "Create Landing Pages"
+msgstr "创建着陆页"
+
+#: views/plugin-page.php:255
+msgid "Create landing pages icon"
+msgstr "创建着陆页图标"
+
+#: views/plugin-page.php:247
+msgid "Create Content"
+msgstr "创建内容"
+
+#: views/plugin-page.php:240
+msgid "Create useful content with a few clicks."
+msgstr "只需点击几下，创建有用的内容。"
+
+#: views/create-content.php:26 views/plugin-page.php:239
+msgid "Create Demo Content"
+msgstr "创建演示内容"
+
+#: views/plugin-page.php:237
+msgid "Create demo content icon"
+msgstr "创建演示内容图标"
+
+#: views/plugin-page.php:229
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#: views/plugin-page.php:222
+msgid "Install our recommended plugins."
+msgstr "安装我们推荐的插件。"
+
+#: views/plugin-page.php:221
+msgid "Recommended Plugins"
+msgstr "推荐插件"
+
+#: views/plugin-page.php:219
+msgid "Recommended plugins icon"
+msgstr "推荐插件图标"
+
+#: views/plugin-page.php:208
+msgid "Enter Option Name"
+msgstr "输入选项名称"
+
+#: views/plugin-page.php:197
+msgid "Select a JSON file and enter Redux option name."
+msgstr "选择 JSON 文件并输入 Redux 选项名称。"
+
+#: views/plugin-page.php:196
+msgid "Import Redux"
+msgstr "导入Redux"
+
+#: views/plugin-page.php:194
+msgid "Redux import icon"
+msgstr "Redux导入图标"
+
+#: views/plugin-page.php:175
+msgid "Select a DAT file to import."
+msgstr "选择要导入的 DAT 文件。"
+
+#: views/plugin-page.php:174
+msgid "Import Customizer"
+msgstr "导入自定义"
+
+#: views/plugin-page.php:172
+msgid "Customizer import icon"
+msgstr "自定义工具导入图标"
+
+#: views/plugin-page.php:154
+msgid "Select a JSON/WIE file to import."
+msgstr "选择要导入的 JSON/WIE 文件。"
+
+#: views/plugin-page.php:153
+msgid "Import Widgets"
+msgstr "导入小工具"
+
+#: views/plugin-page.php:151
+msgid "Widgets import icon"
+msgstr "小工具导入图标"
+
+#: views/plugin-page.php:141 views/plugin-page.php:162
+#: views/plugin-page.php:183 views/plugin-page.php:205
+msgid "Select a File"
+msgstr "选择一个文件"
+
+#: views/plugin-page.php:136 views/plugin-page.php:157
+#: views/plugin-page.php:178 views/plugin-page.php:200
+#: views/plugin-page.php:225 views/plugin-page.php:243
+#: views/plugin-page.php:261
+msgid "Info icon"
+msgstr "信息图标"
+
+#: views/plugin-page.php:133
+msgid "Select an XML file to import."
+msgstr "选择要导入的 XML 文件。"
+
+#: views/plugin-page.php:132
+msgid "Import Content"
+msgstr "导入内容"
+
+#: views/plugin-page.php:130
+msgid "Content import icon"
+msgstr "内容导入图标"
+
+#: views/plugin-page.php:121
+msgid "Manual Demo File Import"
+msgstr "手动导入演示文件"
+
+#: views/plugin-page.php:110
+msgid "Switch back to Theme Predefined Imports"
+msgstr "切换回主题预定义的导入"
+
+#: views/plugin-page.php:108
+msgid "Switch to Manual Import"
+msgstr "切换到手动导入"
+
+#: views/plugin-page.php:102
+msgid "Tags:"
+msgstr "标签："
+
+#. translators: %s: Theme author link.
+#: views/plugin-page.php:94
+msgid "By %s"
+msgstr "作者 %s"
+
+#. translators: %s: Theme version.
+#: views/plugin-page.php:87
+msgid "Version: %s"
+msgstr "版本：%s"
+
+#: inc/ViewHelpers.php:52 views/plugin-page.php:74
+msgid "Theme screenshot"
+msgstr "主题截图"
+
+#: views/plugin-page.php:65
+msgid "There are no predefined import files available for this theme. Please upload the import files manually below."
+msgstr "没有可用于此主题的预定义导入文件。请在下面手动上传导入文件。"
+
+#: views/plugin-page.php:52
+msgid "Learn more"
+msgstr "了解更多"
+
+#: views/plugin-page.php:51
+msgid "It allows you to simply edit everything instead of creating content and layouts from scratch."
+msgstr "它允许您简单地编辑所有内容，而不是从头开始创建内容和布局。"
+
+#: views/plugin-page.php:50
+msgid "Importing demo data (post, pages, images, theme settings, etc.) is the quickest and easiest way to set up your new theme."
+msgstr "导入演示数据(文章、页面、图像、主题设置等)是设置新主题的最快捷、最简单的方法。"
+
+#. translators: %1$s - the opening div and paragraph HTML tags, %2$s and %3$s -
+#. strong HTML tags, %4$s - the closing div and paragraph HTML tags.
+#: views/plugin-page.php:32
+msgid "%1$sWarning: your server is using %2$sPHP safe mode%3$s. This means that you might experience server timeout errors.%4$s"
+msgstr "%1$s警告：您的服务器正在使用%2$sPHP安全模式%3$s。这意味着您可能会遇到服务器超时错误。%4$s"
+
+#: views/install-plugins.php:58
+msgid "Install & Activate"
+msgstr "安装并启用"
+
+#: views/install-plugins.php:27
+msgid "Want to use the best plugins for the job? Here is the list of awesome plugins that will help you achieve your goals."
+msgstr "想要为这项工作使用最好的插件吗？这里列出了一些非常棒的插件，它们将帮助你实现你的目标。"
+
+#: views/install-plugins.php:25
+msgid "Install Recommended Plugins"
+msgstr "安装推荐插件"
+
+#: inc/OneClickDemoImport.php:925
+msgid "Visit Site"
+msgstr "查看站点"
+
+#: inc/OneClickDemoImport.php:919
+msgid "Theme Settings"
+msgstr "外观"
+
+#: inc/OneClickDemoImport.php:481 views/import.php:121
+msgid "Congrats, your demo was imported successfully. You can now begin editing your site."
+msgstr "恭喜，您的演示已成功导入，您现在可以开始编辑您的站点了。"
+
+#: inc/OneClickDemoImport.php:480 views/import.php:118
+msgid "Import Complete!"
+msgstr "导入完成！"
+
+#: views/import.php:112
+msgid "Importing animation"
+msgstr "导入动画"
+
+#: views/import.php:109
+msgid "Please sit tight while we import your content. Do not refresh the page or hit the back button."
+msgstr "我们正在导入您的内容，请安坐稍候，不要刷新页面或点击“后退”按钮。"
+
+#: views/import.php:108
+msgid "Importing Content"
+msgstr "导入内容"
+
+#: views/import.php:99 views/plugin-page.php:277
+msgid "Continue & Import"
+msgstr "继续并导入"
+
+#: views/create-content.php:66 views/import.php:98 views/install-plugins.php:57
+msgid "Go Back"
+msgstr "返回"
+
+#: views/create-content.php:66 views/import.php:98 views/install-plugins.php:57
+msgid "Back icon"
+msgstr "返回图标"
+
+#: views/create-content.php:51 views/import.php:75 views/install-plugins.php:50
+msgid "Loading..."
+msgstr "载入中…"
+
+#: views/import.php:73
+msgid "Lock icon"
+msgstr "锁定图标"
+
+#: views/create-content.php:50 views/import.php:71 views/install-plugins.php:49
+msgid "Checkmark icon"
+msgstr "勾选图标"
+
+#: views/import.php:56 views/import.php:89
+msgid "Star icon"
+msgstr "星型图标"
+
+#: views/import.php:43
+msgid "All required/recommended plugins are already installed. You can import your demo content."
+msgstr "所有必需/推荐的插件已安装，现在您可以导入演示内容了。"
+
+#: views/import.php:30
+msgid "To ensure the best experience, installing the following plugins is strongly recommended, and in some cases required."
+msgstr "为了确保最佳体验，强烈建议安装以下插件，某些情况下，这是必需的。"
+
+#: views/import.php:28
+msgid "Before We Import Your Demo"
+msgstr "在我们导入您的演示内容之前"
+
+#. translators: %1$s - the PHP version, %2$s and %3$s - strong HTML tags, %4$s
+#. - br HTMl tag.
+#: one-click-demo-import.php:60
+msgid "The %2$sOne Click Demo Import%3$s plugin requires %2$sPHP 5.6+%3$s to run properly. Please contact your hosting company and ask them to update the PHP version of your site to at least PHP 7.4%4$s Your current version of PHP: %2$s%1$s%3$s"
+msgstr "%2$sone Click Demo Import%3$s插件需要%2$sPHP 5.6+%3$s才能正常运行。请联系您的主机提供商，要求他们至少将您网站的PHP版本更新为PHP 7.4%4$s您当前的PHP版本：%2$s%1$s%3$s"
+
+#. Description of the plugin
+msgid "Import your content, widgets and theme settings with one click. Theme authors! Enable simple demo import for your theme demo data."
+msgstr "点击一次，即可导入内容、小工具和主题设置。主题开发者，为主题启用简单的演示数据导入功能吧！"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/one-click-demo-import/"
+msgstr "https://wordpress.org/plugins/one-click-demo-import/"
+
+#. Plugin Name of the plugin
+#: inc/Helpers.php:758 inc/ViewHelpers.php:19
+msgid "One Click Demo Import"
+msgstr "One Click Demo Import"
